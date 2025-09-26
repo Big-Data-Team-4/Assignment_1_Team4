@@ -1,0 +1,6 @@
+2025-09-26 14:49:28,247 - batch_processor - INFO - Found 1 PDF files in data/raw
+2025-09-26 14:49:28,247 - batch_processor - INFO -   - Intel_2024_10-K.pdf
+2025-09-26 14:49:28,247 - batch_processor - INFO - 
+Processing PDF 1/1: Intel_2024_10-K.pdf
+2025-09-26 14:50:02,358 - batch_processor - INFO - Successfully processed Intel_2024_10-K.pdf: 44 valid tables
+2025-09-26 14:50:02,404 - batch_processor - INFO - Batch JSON results saved to: data/parsed/camelot_output/batch_extraction_results_20250926_145002.json

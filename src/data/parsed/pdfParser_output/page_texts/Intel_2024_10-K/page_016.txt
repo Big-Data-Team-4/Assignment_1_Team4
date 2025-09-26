@@ -1,0 +1,46 @@
+   Table of Contents
+Non-GAAP adjustment
+or measure Definition Usefulness to management and investors
+Patent settlement A portion of the charge from our IP settlements represents a catch-up of We exclude the catch-up charge related to prior periods for purposes of
+ cumulative amortization that would have been incurred for the right to use calculating certain non-GAAP measures because this adjustment
+ the related patents in prior periods. This charge related to prior periods is facilitates comparison to past operating results and provides a useful
+ excluded from our non-GAAP results; amortization related to the right to evaluation of our current operating performance.
+ use the patents in the current and ongoing periods is included.
+Optane inventory A charge in 2022 as we initiated the wind-down of our Intel Optane We exclude these impairments for purposes of calculating certain non-
+impairment memory business. GAAP measures because these charges do not reflect our current
+  operating performance. This adjustment facilitates a useful evaluation of
+  our current operating performance and comparisons to past operating
+  results.
+Restructuring and other Restructuring charges are costs associated with a formal restructuring We exclude restructuring and other charges, including any adjustments to
+charges plan and are primarily related to employee severance and benefit charges recorded in prior periods, for purposes of calculating certain non-
+ arrangements. Other charges may include periodic goodwill and asset GAAP measures because these costs do not reflect our core operating
+ impairments, certain pension charges, and costs associated with performance. These adjustments facilitate a useful evaluation of our core
+ restructuring activity. 2023 includes a benefit as a result of developments operating performance and comparisons to past operating results and
+ in the VLSI litigation in Q4 2023, an EC-imposed fine, and a fee related to provide investors with additional means to evaluate expense trends.
+ the termination of our agreement to acquire Tower. 2022 includes a benefit
+ related to the annulled EC fine and 2021 includes a charge related to the
+ VLSI litigation.
+(Gains) losses on equity (Gains) losses on equity investments, net consists of ongoing mark-to- We exclude these non-operating gains and losses for purposes of
+investments, net market adjustments on marketable equity securities, observable price calculating certain non-GAAP measures because it provides better
+ adjustments on non-marketable equity securities, related impairment comparability between periods. The exclusion reflects how management
+ charges, and the sale of equity investments and other. evaluates the core operations of the business.
+(Gains) losses from (Gains) losses are recognized at the close of a divestiture, or over a We exclude gains or losses resulting from divestitures for purposes of
+divestiture specified deferral period when deferred consideration is received at the calculating certain non-GAAP measures because they do not reflect our
+ time of closing. Based on our ongoing obligation under the NAND wafer current operating performance. These adjustments facilitate a useful
+ manufacturing and sale agreement entered into in connection with the first evaluation of our current operating performance and comparisons to past
+ closing of the sale of our NAND memory business on December 29, 2021, operating results.
+ a portion of the initial closing consideration was deferred and will be
+ recognized between first and second closing.
+Adjusted free cash flow We reference a non-GAAP financial measure of adjusted free cash flow, This non-GAAP financial measure is helpful in understanding our capital
+ which is used by management when assessing our sources of liquidity, requirements and sources of liquidity by providing an additional means to
+ capital resources, and quality of earnings. Adjusted free cash flow is evaluate the cash flow trends of our business. Since the 2017 divestiture,
+ operating cash flow adjusted for (1) additions to property, plant, and McAfee equity distributions and sales contributed to prior operating and
+ equipment, net of proceeds from capital-related government incentives free cash flow, and while the McAfee equity sale in Q1 2022 would have
+ and partner contributions, (2) payments on finance leases, and (3) typically been excluded from adjusted free cash flow as an equity sale, we
+ proceeds from the McAfee equity sale in 2022. believe including the sale proceeds in adjusted free cash flow facilitate a
+  better, more consistent comparison to current and past presentations of
+  liquidity.
+Total cash and Total cash and investments is used by management when assessing our This non-GAAP measure is helpful in understanding our capital resources
+investments sources of liquidity, which include cash and cash equivalents, short-term and liquidity position.
+ investments, and loans receivable and other.
+MD&A 46

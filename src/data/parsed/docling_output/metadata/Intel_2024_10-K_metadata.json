@@ -1,0 +1,480 @@
+{
+  "filename": "Intel_2024_10-K.pdf",
+  "file_path": "data/raw/Intel_2024_10-K.pdf",
+  "file_size_bytes": 4990690,
+  "file_stem": "Intel_2024_10-K",
+  "processing_timestamp": "2025-09-26T14:55:28.848506",
+  "processing_time_seconds": 224.11,
+  "processing_status": "success",
+  "docling_images_detected": 15,
+  "docling_images_extracted": 0,
+  "actual_images_in_pdf": 35,
+  "actual_images_extracted": 35,
+  "markdown_image_placeholders": 15,
+  "detection_accuracy": false,
+  "extraction_success_rate": 0.0,
+  "output_files": {
+    "markdown": "markdown/Intel_2024_10-K.md",
+    "json": "json/Intel_2024_10-K.json",
+    "metadata": "metadata/Intel_2024_10-K_metadata.json"
+  },
+  "docling_extraction_details": [
+    {
+      "image_name": "docling_image_1",
+      "extracted": false,
+      "output_file": null,
+      "method_used": null,
+      "error": "No extractable image data found"
+    },
+    {
+      "image_name": "docling_image_2",
+      "extracted": false,
+      "output_file": null,
+      "method_used": null,
+      "error": "No extractable image data found"
+    },
+    {
+      "image_name": "docling_image_3",
+      "extracted": false,
+      "output_file": null,
+      "method_used": null,
+      "error": "No extractable image data found"
+    },
+    {
+      "image_name": "docling_image_4",
+      "extracted": false,
+      "output_file": null,
+      "method_used": null,
+      "error": "No extractable image data found"
+    },
+    {
+      "image_name": "docling_image_5",
+      "extracted": false,
+      "output_file": null,
+      "method_used": null,
+      "error": "No extractable image data found"
+    },
+    {
+      "image_name": "docling_image_6",
+      "extracted": false,
+      "output_file": null,
+      "method_used": null,
+      "error": "No extractable image data found"
+    },
+    {
+      "image_name": "docling_image_7",
+      "extracted": false,
+      "output_file": null,
+      "method_used": null,
+      "error": "No extractable image data found"
+    },
+    {
+      "image_name": "docling_image_8",
+      "extracted": false,
+      "output_file": null,
+      "method_used": null,
+      "error": "No extractable image data found"
+    },
+    {
+      "image_name": "docling_image_9",
+      "extracted": false,
+      "output_file": null,
+      "method_used": null,
+      "error": "No extractable image data found"
+    },
+    {
+      "image_name": "docling_image_10",
+      "extracted": false,
+      "output_file": null,
+      "method_used": null,
+      "error": "No extractable image data found"
+    },
+    {
+      "image_name": "docling_image_11",
+      "extracted": false,
+      "output_file": null,
+      "method_used": null,
+      "error": "No extractable image data found"
+    },
+    {
+      "image_name": "docling_image_12",
+      "extracted": false,
+      "output_file": null,
+      "method_used": null,
+      "error": "No extractable image data found"
+    },
+    {
+      "image_name": "docling_image_13",
+      "extracted": false,
+      "output_file": null,
+      "method_used": null,
+      "error": "No extractable image data found"
+    },
+    {
+      "image_name": "docling_image_14",
+      "extracted": false,
+      "output_file": null,
+      "method_used": null,
+      "error": "No extractable image data found"
+    },
+    {
+      "image_name": "docling_image_15",
+      "extracted": false,
+      "output_file": null,
+      "method_used": null,
+      "error": "No extractable image data found"
+    }
+  ],
+  "actual_extraction_details": [
+    {
+      "image_name": "actual_page1_img1",
+      "page": 1,
+      "width": 600,
+      "height": 243,
+      "format": "jpeg",
+      "size_bytes": 24669,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page1_img1.jpeg"
+    },
+    {
+      "image_name": "actual_page3_img1",
+      "page": 3,
+      "width": 602,
+      "height": 255,
+      "format": "jpeg",
+      "size_bytes": 598232,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page3_img1.jpeg"
+    },
+    {
+      "image_name": "actual_page4_img1",
+      "page": 4,
+      "width": 602,
+      "height": 255,
+      "format": "jpeg",
+      "size_bytes": 598232,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page4_img1.jpeg"
+    },
+    {
+      "image_name": "actual_page5_img1",
+      "page": 5,
+      "width": 1238,
+      "height": 1613,
+      "format": "jpeg",
+      "size_bytes": 214857,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page5_img1.jpeg"
+    },
+    {
+      "image_name": "actual_page6_img1",
+      "page": 6,
+      "width": 1238,
+      "height": 1613,
+      "format": "jpeg",
+      "size_bytes": 246762,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page6_img1.jpeg"
+    },
+    {
+      "image_name": "actual_page7_img1",
+      "page": 7,
+      "width": 602,
+      "height": 255,
+      "format": "jpeg",
+      "size_bytes": 598232,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page7_img1.jpeg"
+    },
+    {
+      "image_name": "actual_page7_img2",
+      "page": 7,
+      "width": 364,
+      "height": 280,
+      "format": "jpeg",
+      "size_bytes": 11795,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page7_img2.jpeg"
+    },
+    {
+      "image_name": "actual_page7_img3",
+      "page": 7,
+      "width": 364,
+      "height": 280,
+      "format": "jpeg",
+      "size_bytes": 14205,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page7_img3.jpeg"
+    },
+    {
+      "image_name": "actual_page7_img4",
+      "page": 7,
+      "width": 364,
+      "height": 280,
+      "format": "jpeg",
+      "size_bytes": 13073,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page7_img4.jpeg"
+    },
+    {
+      "image_name": "actual_page7_img5",
+      "page": 7,
+      "width": 364,
+      "height": 280,
+      "format": "jpeg",
+      "size_bytes": 14559,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page7_img5.jpeg"
+    },
+    {
+      "image_name": "actual_page8_img1",
+      "page": 8,
+      "width": 602,
+      "height": 255,
+      "format": "jpeg",
+      "size_bytes": 598232,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page8_img1.jpeg"
+    },
+    {
+      "image_name": "actual_page9_img1",
+      "page": 9,
+      "width": 602,
+      "height": 255,
+      "format": "jpeg",
+      "size_bytes": 598232,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page9_img1.jpeg"
+    },
+    {
+      "image_name": "actual_page9_img2",
+      "page": 9,
+      "width": 7990,
+      "height": 3458,
+      "format": "jpeg",
+      "size_bytes": 2312651,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page9_img2.jpeg"
+    },
+    {
+      "image_name": "actual_page10_img1",
+      "page": 10,
+      "width": 602,
+      "height": 255,
+      "format": "jpeg",
+      "size_bytes": 598232,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page10_img1.jpeg"
+    },
+    {
+      "image_name": "actual_page11_img1",
+      "page": 11,
+      "width": 602,
+      "height": 255,
+      "format": "jpeg",
+      "size_bytes": 598232,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page11_img1.jpeg"
+    },
+    {
+      "image_name": "actual_page12_img1",
+      "page": 12,
+      "width": 602,
+      "height": 255,
+      "format": "jpeg",
+      "size_bytes": 598232,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page12_img1.jpeg"
+    },
+    {
+      "image_name": "actual_page12_img2",
+      "page": 12,
+      "width": 1008,
+      "height": 1002,
+      "format": "jpeg",
+      "size_bytes": 79830,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page12_img2.jpeg"
+    },
+    {
+      "image_name": "actual_page12_img3",
+      "page": 12,
+      "width": 1008,
+      "height": 1002,
+      "format": "jpeg",
+      "size_bytes": 94119,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page12_img3.jpeg"
+    },
+    {
+      "image_name": "actual_page12_img4",
+      "page": 12,
+      "width": 1008,
+      "height": 1002,
+      "format": "jpeg",
+      "size_bytes": 74584,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page12_img4.jpeg"
+    },
+    {
+      "image_name": "actual_page12_img5",
+      "page": 12,
+      "width": 1008,
+      "height": 1002,
+      "format": "jpeg",
+      "size_bytes": 80728,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page12_img5.jpeg"
+    },
+    {
+      "image_name": "actual_page12_img6",
+      "page": 12,
+      "width": 1008,
+      "height": 1002,
+      "format": "jpeg",
+      "size_bytes": 76019,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page12_img6.jpeg"
+    },
+    {
+      "image_name": "actual_page12_img7",
+      "page": 12,
+      "width": 1008,
+      "height": 1002,
+      "format": "jpeg",
+      "size_bytes": 109838,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page12_img7.jpeg"
+    },
+    {
+      "image_name": "actual_page13_img1",
+      "page": 13,
+      "width": 602,
+      "height": 255,
+      "format": "jpeg",
+      "size_bytes": 598232,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page13_img1.jpeg"
+    },
+    {
+      "image_name": "actual_page13_img2",
+      "page": 13,
+      "width": 1042,
+      "height": 1042,
+      "format": "jpeg",
+      "size_bytes": 67794,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page13_img2.jpeg"
+    },
+    {
+      "image_name": "actual_page13_img3",
+      "page": 13,
+      "width": 800,
+      "height": 248,
+      "format": "jpeg",
+      "size_bytes": 31144,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page13_img3.jpeg"
+    },
+    {
+      "image_name": "actual_page13_img4",
+      "page": 13,
+      "width": 484,
+      "height": 268,
+      "format": "jpeg",
+      "size_bytes": 22686,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page13_img4.jpeg"
+    },
+    {
+      "image_name": "actual_page13_img5",
+      "page": 13,
+      "width": 484,
+      "height": 268,
+      "format": "jpeg",
+      "size_bytes": 25212,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page13_img5.jpeg"
+    },
+    {
+      "image_name": "actual_page14_img1",
+      "page": 14,
+      "width": 602,
+      "height": 255,
+      "format": "jpeg",
+      "size_bytes": 598232,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page14_img1.jpeg"
+    },
+    {
+      "image_name": "actual_page15_img1",
+      "page": 15,
+      "width": 602,
+      "height": 255,
+      "format": "jpeg",
+      "size_bytes": 598232,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page15_img1.jpeg"
+    },
+    {
+      "image_name": "actual_page16_img1",
+      "page": 16,
+      "width": 602,
+      "height": 255,
+      "format": "jpeg",
+      "size_bytes": 598232,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page16_img1.jpeg"
+    },
+    {
+      "image_name": "actual_page17_img1",
+      "page": 17,
+      "width": 602,
+      "height": 255,
+      "format": "jpeg",
+      "size_bytes": 598232,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page17_img1.jpeg"
+    },
+    {
+      "image_name": "actual_page18_img1",
+      "page": 18,
+      "width": 602,
+      "height": 255,
+      "format": "jpeg",
+      "size_bytes": 598232,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page18_img1.jpeg"
+    },
+    {
+      "image_name": "actual_page18_img2",
+      "page": 18,
+      "width": 1464,
+      "height": 736,
+      "format": "jpeg",
+      "size_bytes": 107101,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page18_img2.jpeg"
+    },
+    {
+      "image_name": "actual_page19_img1",
+      "page": 19,
+      "width": 602,
+      "height": 255,
+      "format": "jpeg",
+      "size_bytes": 598232,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page19_img1.jpeg"
+    },
+    {
+      "image_name": "actual_page20_img1",
+      "page": 20,
+      "width": 602,
+      "height": 255,
+      "format": "jpeg",
+      "size_bytes": 598232,
+      "extracted": true,
+      "output_file": "data/parsed/docling_output/images/actual_Intel_2024_10-K_page20_img1.jpeg"
+    }
+  ]
+}
