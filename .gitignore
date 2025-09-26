@@ -15,3 +15,5 @@ env/
 .dvc.lock
 
 src/data/parsed/*
+src/data/parsed/*
+src/data/parsed/*

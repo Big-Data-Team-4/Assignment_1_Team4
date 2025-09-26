@@ -2,7 +2,7 @@
 
 **Document:** data/raw/Intel_2025_10-K_subset.pdf
 **Total Pages:** 19
-**Processing Date:** 2025-09-26T16:48:46.719000
+**Processing Date:** 2025-09-26T17:53:45.951742
 **Total Blocks Detected:** 460
 **LayoutLMv3 Enhanced:** True
 

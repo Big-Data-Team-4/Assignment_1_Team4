@@ -1,9 +1,8 @@
-0,1,2,3,4,5,6,7,8,9,10
-Years Ended (In Millions),,"Dec 30, 2023",,"Dec 31, 2022",,"Dec 25, 2021",,"Dec 26, 2020",,"Dec 28, 2019"
+Years Ended (In Millions),Column_2,"Dec 30, 2023",Column_4,"Dec 31, 2022",Column_6,"Dec 25, 2021",Column_8,"Dec 26, 2020",Column_10,"Dec 28, 2019"
 Net cash provided by operating activities,$,"11,471",$,"15,433",$,"29,456",$,"35,864",$,"32,618"
 "Net additions to property, plant, and equipment",,"(23,228)",,"(23,724)",,"(18,567)",,"(14,086)",,"(15,948)"
-Payments on finance leases,,(96),,(345),,,,,,
-Sale of equity investment,,,,"4,561",,,,,,
+Payments on finance leases,,(96),,(345),,—,,—,,—
+Sale of equity investment,,—,,"4,561",,—,,—,,—
 Adjusted free cash flow,$,"(11,853)",$,"(4,075)",$,"10,889",$,"21,778",$,"16,670"
 "Net cash used for investing activities
 Net cash provided by (used for) financing activities","$

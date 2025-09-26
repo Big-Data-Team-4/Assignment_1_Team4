@@ -2,7 +2,7 @@
   "document_info": {
     "pdf_path": "data/raw/Intel_2024_10-K_subset.pdf",
     "total_pages": 20,
-    "processing_timestamp": "2025-09-26T16:47:20.297813",
+    "processing_timestamp": "2025-09-26T17:52:15.848865",
     "total_blocks_detected": 503,
     "layoutlmv3_enabled": true
   },
