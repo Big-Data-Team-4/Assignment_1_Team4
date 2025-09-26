@@ -1,0 +1,15 @@
+2025-09-26 19:26:57,150 - batch_processor - INFO - Found 2 PDF files in data/raw
+2025-09-26 19:26:57,150 - batch_processor - INFO -   - Intel_2024_10-K_subset.pdf
+2025-09-26 19:26:57,150 - batch_processor - INFO -   - Intel_2025_10-K_subset.pdf
+2025-09-26 19:26:57,150 - batch_processor - INFO - 
+============================================================
+2025-09-26 19:26:57,150 - batch_processor - INFO - Processing PDF 1/2: Intel_2024_10-K_subset.pdf
+2025-09-26 19:26:57,150 - batch_processor - INFO - ============================================================
+2025-09-26 19:27:32,466 - batch_processor - INFO - Successfully processed Intel_2024_10-K_subset.pdf: 51 valid tables
+2025-09-26 19:27:32,466 - batch_processor - INFO - 
+============================================================
+2025-09-26 19:27:32,466 - batch_processor - INFO - Processing PDF 2/2: Intel_2025_10-K_subset.pdf
+2025-09-26 19:27:32,466 - batch_processor - INFO - ============================================================
+2025-09-26 19:28:14,711 - batch_processor - INFO - Successfully processed Intel_2025_10-K_subset.pdf: 34 valid tables
+2025-09-26 19:28:14,814 - batch_processor - INFO - Batch JSON results saved to: data/parsed/camelot_output/batch_extraction_results_20250926_192814.json
+2025-09-26 19:28:14,814 - batch_processor - INFO - Batch Markdown results saved to: data/parsed/camelot_output/batch_extraction_results_20250926_192814.md
