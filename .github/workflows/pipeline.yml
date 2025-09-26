@@ -40,6 +40,17 @@ jobs:
           pip uninstall -y fitz || true
           pip install -r src/requirements.txt
           pip install "dvc[azure,gs,s3,ssh]"
+
+      # NEW STEP: Clean existing outputs to override them
+      - name: Override existing outputs
+        run: |
+          echo "🧹 Cleaning existing outputs to generate fresh results..."
+          rm -rf src/data/parsed/pdfParser_output/*
+          rm -rf src/data/parsed/camelot_output/*
+          rm -rf src/data/parsed/layout_output/*
+          rm -rf src/data/parsed/docling_output/*
+          rm -rf src/data/parsed/fallback_output/*
+          echo "Ready for new outputs"
  
       # Create expected output dirs (idempotent)
       - name: Create output directories
@@ -60,7 +71,7 @@ jobs:
           else
             dvc init
           fi
-      
+     
       # Pull any DVC-tracked inputs (skip outputs)
       - name: dvc pull (inputs only)
         run: |
@@ -82,19 +93,19 @@ jobs:
         run: |
           echo "Before removing from .gitignore:"
           cat .gitignore | grep -E "(src/data|/data/parsed)" || echo "No data entries found"
-          
+         
           # Remove any lines that ignore our parsed output directory
           sed -i '\|^src/data/parsed|d' .gitignore
           sed -i '\|^/src/data/parsed|d' .gitignore
           sed -i '\|src/data/parsed/|d' .gitignore
           sed -i '\|/src/data/parsed/|d' .gitignore
-          
+         
           echo "After removing from .gitignore:"
           cat .gitignore | grep -E "(src/data|/data/parsed)" || echo "No data entries found"
-          
+         
           # Verify files are not ignored
           echo "Checking if files are ignored:"
-          git check-ignore src/data/parsed/* || echo "✅ Files are NOT ignored"
+          git check-ignore src/data/parsed/* || echo "Files are NOT ignored"
  
       # Configure git before making changes
       - name: Configure Git
@@ -107,21 +118,21 @@ jobs:
         run: |
           echo "Files in src/data/parsed:"
           find src/data/parsed/ -type f | head -20
-          
+         
           echo "Adding files to git..."
           git add -f src/data/parsed/
           git add .gitignore
-          
+         
           echo "Files staged:"
           git diff --cached --name-only
-          
+         
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
             echo "Committing changes..."
             git commit -m "CI: Update parsed PDF outputs [skip ci]"
             git push
-            echo "✅ Successfully committed parsed outputs to repository"
+            echo "Successfully committed parsed outputs to repository"
           fi
  
       # Keep an artifact as backup
@@ -134,12 +145,12 @@ jobs:
  
       - name: Display Results Summary
         run: |
-          echo "✅ PDF processing pipeline completed!"
-          echo "📁 Output directory contents:"
+          echo "PDF processing pipeline completed!"
+          echo "Output directory contents:"
           find src/data/parsed/ -type f | wc -l | xargs echo "Total output files:"
           echo ""
-          echo "📂 Files by directory:"
+          echo "Files by directory:"
           find src/data/parsed/ -type f | cut -d'/' -f1-4 | sort | uniq -c
           echo ""
-          echo "🔍 Sample files:"
+          echo "Sample files:"
           find src/data/parsed/ -type f | head -10
