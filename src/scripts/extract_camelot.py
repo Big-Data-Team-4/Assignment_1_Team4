@@ -36,7 +36,7 @@ class CamelotSmartExtractor:
     Enhanced Camelot table extractor with selective bullet filtering.
     """
     
-    def __init__(self, pdf_path, output_dir="camelot_enhanced_output", log_level=logging.INFO):
+    def __init__(self, pdf_path, output_dir="camelot_output", log_level=logging.INFO):
         self.pdf_path = Path(pdf_path)
         self.output_dir = Path(output_dir)
         self.setup_logging(log_level)
@@ -1313,8 +1313,8 @@ class BatchCamelotProcessor:
 
 def main():
     # Configuration - Updated paths
-    INPUT_DIR = "/Users/anushaprakash/Desktop/Bigdata/src/data/raw"
-    OUTPUT_DIR = "/Users/anushaprakash/Desktop/Bigdata/src/data/parsed/camelot_output"
+    INPUT_DIR = "data/raw"
+    OUTPUT_DIR = "data/parsed/camelot_output"
     
     try:
         # Create batch processor
