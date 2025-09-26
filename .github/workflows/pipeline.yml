@@ -30,6 +30,8 @@ jobs:
       - name: Install DVC and dependencies
         run: |
           pip install --upgrade pip
+          pip uninstall PyMuPDF fitz -y || true
+          pip install PyMuPDF==1.23.26
           pip install dvc
           pip install -r src/requirements.txt
       
