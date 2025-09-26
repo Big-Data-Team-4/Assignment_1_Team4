@@ -37,7 +37,7 @@ https://northeastern-my.sharepoint.com/personal/pekamwar_s_northeastern_edu/_lay
  
 ---
  
-## How to Run Application Locally
+## How to Run Application 
  Running dvc pipeline
  dvc init
  dvc repro
