@@ -2,7 +2,7 @@ name: PDF Parser Pipeline
 
 on:
   push:
-    branches: [ Test ]
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
