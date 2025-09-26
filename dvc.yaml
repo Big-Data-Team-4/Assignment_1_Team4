@@ -1,0 +1,98 @@
+stages:
+  install_requirements:
+    cmd: pip install -r src/requirements.txt
+    deps:
+      - src/requirements.txt
+    params:
+      - install.force_reinstall
+      
+
+  extract_pdfparser:
+    cmd: cd src && python scripts/extract_pdfParser.py
+    deps:
+      - src/scripts/extract_pdfParser.py
+      - src/data/raw/
+    outs:
+      - src/data/parsed/pdfParser_output/
+
+  extract_camelot:
+    cmd: cd src && python scripts/extract_camelot.py
+    deps:
+      - src/scripts/extract_camelot.py
+      - src/data/raw/
+    outs:
+      - src/data/parsed/camelot_output/
+
+  extract_layoutParser:
+    cmd: cd src && python scripts/extract_layoutParser.py
+    deps:
+      - src/scripts/extract_layoutParser.py
+      - src/data/raw/
+    outs:
+      - src/data/parsed/layout_output/
+
+  extract_docling:
+    cmd: cd src && python scripts/extract_docling.py
+    deps:
+      - src/scripts/extract_docling.py
+      - src/data/raw/
+    outs:
+      - src/data/parsed/docling_output/
+
+  extract_fallback:
+    cmd: cd src && python scripts/extract_docling_fallback.py
+    deps:
+      - src/scripts/extract_docling_fallback.py
+      - src/data/raw/
+    outs:
+      - src/data/parsed/fallback_output/
+
+
+# stages:
+#   install_requirements:
+#     cmd: pip install -r src/requirements.txt
+#     deps:
+#       - src/requirements.txt
+#     params:
+#       - install.force_reinstall
+ 
+#   extract_pdfparser:
+#     cmd: cd src && python scripts/extract_pdfParser.py
+#     deps:
+#       - src/scripts/extract_pdfParser.py
+#       - src/data/raw/
+#     outs_no_cache:
+#       - src/data/parsed/pdfParser_output/
+ 
+#   extract_camelot:
+#     cmd: cd src && python scripts/extract_camelot.py
+#     deps:
+#       - src/scripts/extract_camelot.py
+#       - src/data/raw/
+#     outs_no_cache:
+#       - src/data/parsed/camelot_output/
+ 
+#   extract_layoutParser:
+#     cmd: cd src && python scripts/extract_layoutParser.py
+#     deps:
+#       - src/scripts/extract_layoutParser.py
+#       - src/data/raw/
+#     outs_no_cache:
+#       - src/data/parsed/layout_output/
+ 
+#   extract_docling:
+#     cmd: cd src && python scripts/extract_docling.py
+#     deps:
+#       - src/scripts/extract_docling.py
+#       - src/data/raw/
+#     outs_no_cache:
+#       - src/data/parsed/docling_output/
+ 
+#   extract_fallback:
+#     cmd: cd src && python scripts/extract_docling_fallback.py
+#     deps:
+#       - src/scripts/extract_docling_fallback.py
+#       - src/data/raw/
+#     outs_no_cache:
+#       - src/data/parsed/fallback_output/
+     

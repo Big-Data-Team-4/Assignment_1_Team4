@@ -1,0 +1,10 @@
+# Minimal parameters for DVC pipeline
+install:
+  force_reinstall: false  # Set to true to force pip reinstall
+
+azure:
+  use_service: false  # Set to true when you have Azure credentials
+
+pipeline:
+  version: "1.0"
+  description: "Project LANTERN SEC filing processing"

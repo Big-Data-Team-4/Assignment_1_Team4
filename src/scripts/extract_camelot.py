@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Enhanced Camelot Table Extraction for Multiple SEC Filing PDFs
-Updated: DVC integration with correct relative paths
+Updated: Batch processing for all PDFs in a directory with enhanced smart filtering
 """
 
 import os
@@ -36,7 +36,7 @@ class CamelotSmartExtractor:
     Enhanced Camelot table extractor with selective bullet filtering.
     """
     
-    def __init__(self, pdf_path, output_dir="data/parsed/camelot_output", log_level=logging.INFO):
+    def __init__(self, pdf_path, output_dir="camelot_output", log_level=logging.INFO):
         self.pdf_path = Path(pdf_path)
         self.output_dir = Path(output_dir)
         self.setup_logging(log_level)
@@ -226,7 +226,7 @@ class CamelotSmartExtractor:
         except Exception as e:
             self.logger.error(f"Custom stream failed: {e}")
         
-        # Strategy 4: Stream tight for aligned tables
+        # New Strategy 4: Stream tight for aligned tables
         try:
             self.logger.debug("Trying stream tight settings...")
             tables = camelot.read_pdf(
@@ -262,7 +262,7 @@ class CamelotSmartExtractor:
         df = df.map(lambda x: str(x).strip() if pd.notna(x) else '')
         
         # New: Selective prefix stripping - skip if original or temp is financial
-        bullet_prefixes = r'^[•–—…ªº«» ¡\-*+•]\s*|\d+\.\s*|\([a-zA-Z]+\)\s*'  # Excluded numeric paren
+        bullet_prefixes = r'^[Ã¢â‚¬Â¢Ã¢â€"Ã¢â€"Â¦Ã¢â€"ÂªÃ¢â€"Â«Ã¢â€" Ã¢â€"Â¡\-*+Ã¢â‚¬Â¢]\s*|\d+\.\s*|\([a-zA-Z]+\)\s*'  # Excluded numeric paren
         def selective_strip(cell):
             if not cell or self._is_financial_number(cell):
                 return cell  # Preserve if original is financial
@@ -277,13 +277,12 @@ class CamelotSmartExtractor:
         df = df.loc[:, ~(df == '').all(axis=0)]
         
         # New: Drop columns that are mostly bullet markers or empty (>80%)
-        bullet_col_pattern = r'^[•–—…ªº«» ¡\-*+•a-zA-Z\.\(\)]+$'  # Excluded digits
+        bullet_col_pattern = r'^[Ã¢â‚¬Â¢Ã¢â€"Ã¢â€"Â¦Ã¢â€"ÂªÃ¢â€"Â«Ã¢â€" Ã¢â€"Â¡\-*+Ã¢â‚¬Â¢a-zA-Z\.\(\)]+$'  # Excluded digits
         for col in df.columns:
-            if col in df.columns:  # Check if column still exists
-                col_ratio = df[col].apply(lambda x: bool(re.match(bullet_col_pattern, str(x))) if str(x) else True).mean()
-                if col_ratio > 0.8:
-                    df.drop(col, axis=1, inplace=True)
-                    self.logger.debug(f"Dropped bullet-heavy column: {col}")
+            col_ratio = df[col].apply(lambda x: bool(re.match(bullet_col_pattern, str(x))) if str(x) else True).mean()
+            if col_ratio > 0.8:
+                df.drop(col, axis=1, inplace=True)
+                self.logger.debug(f"Dropped bullet-heavy column: {col}")
         
         # Drop rows that are entirely empty or whitespace
         df = df.loc[~(df == '').all(axis=1)]
@@ -358,8 +357,54 @@ class CamelotSmartExtractor:
                 if validation_result["is_valid_table"]:
                     csv_filename = f"{method}_table_{table_num}_page_{table.page}.csv"
                     csv_path = self.output_dir / "tables_csv" / csv_filename
-                    table.df.to_csv(csv_path, index=False)
+                    
+                    # FIX: Clean up column names and remove numeric headers
+                    df_to_save = table.df.copy()
+                    
+                    # Check if columns are numeric (0, 1, 2, etc.)
+                    if all(str(col).isdigit() for col in df_to_save.columns):
+                        # Option 1: Try to use first row as headers if it looks like headers
+                        if (not df_to_save.empty and 
+                            not all(str(df_to_save.iloc[0, j]).replace('.', '').replace(',', '').replace('$', '').replace('(', '').replace(')', '').isdigit() 
+                                   for j in range(min(3, len(df_to_save.columns))))):  # Check first 3 columns
+                            
+                            # Use first row as column names
+                            new_columns = []
+                            for j in range(len(df_to_save.columns)):
+                                header_val = str(df_to_save.iloc[0, j]).strip()
+                                if header_val and header_val not in ['nan', 'NaN', '']:
+                                    new_columns.append(header_val)
+                                else:
+                                    new_columns.append(f"Column_{j+1}")
+                            
+                            df_to_save.columns = new_columns
+                            df_to_save = df_to_save.iloc[1:].reset_index(drop=True)  # Remove first row, reset index
+                            self.logger.debug(f"Used first row as headers for table {table_num}")
+                        
+                        else:
+                            # Option 2: Replace with generic column names
+                            df_to_save.columns = [f"Column_{i+1}" for i in range(len(df_to_save.columns))]
+                            self.logger.debug(f"Replaced numeric columns with generic names for table {table_num}")
+                    
+                    # Ensure no empty column names
+                    clean_columns = []
+                    for i, col in enumerate(df_to_save.columns):
+                        clean_col = str(col).strip()
+                        if not clean_col or clean_col in ['nan', 'NaN', '']:
+                            clean_columns.append(f"Column_{i+1}")
+                        else:
+                            clean_columns.append(clean_col)
+                    df_to_save.columns = clean_columns
+                    
+                    # Save CSV without index (prevents 0,1,2... row numbers)
+                    df_to_save.to_csv(csv_path, index=False)
                     table_data["csv_file"] = str(csv_path)
+                    
+                    # Update the stored data with cleaned version
+                    table_data["data"] = df_to_save.to_dict('records')
+                    table_data["raw_data"] = df_to_save.values.tolist()
+                    table_data["columns"] = df_to_save.columns.tolist()
+                    
                     self.logger.info(f"Valid table saved: {csv_path}")
                 else:
                     table_data["csv_file"] = None
@@ -515,10 +560,12 @@ class CamelotSmartExtractor:
             }
     
     def _is_bulleted_list(self, df):
-        """Enhanced: Focus on first column for bullet artifacts."""
+        """
+        Enhanced: Focus on first column for bullet artifacts.
+        """
         all_text = ' '.join(df.astype(str).values.flatten())
         list_indicators = [
-            r'^(?:[•–—…ªº«» ¡\-*+]|\d+\.| [a-zA-Z]\)| \(\w+\) )\s+[A-Z]',
+            r'^(?:[Ã¢â‚¬Â¢Ã¢â€"Ã¢â€"Â¦Ã¢â€"ÂªÃ¢â€"Â«Ã¢â€" Ã¢â€"Â¡\-*+]|\d+\.| [a-zA-Z]\)| \(\w+\) )\s+[A-Z]',
             r'^\s*[a-zA-Z]\.\s+[A-Z]',
             r'^\s*\([ivx]+\)\s+[A-Z]',
             r'^\s*-{2,}\s*$',
@@ -527,7 +574,7 @@ class CamelotSmartExtractor:
         
         # Enhanced: Prioritize first column for bullet checks
         first_col_bullets = 0
-        bullet_marker = r'^(?:[•–—…ªº«» ¡\-*+]|\d+\.|\([a-zA-Z]+\))'  # Ignore numeric parens
+        bullet_marker = r'^(?:[Ã¢â‚¬Â¢Ã¢â€"Ã¢â€"Â¦Ã¢â€"ÂªÃ¢â€"Â«Ã¢â€" Ã¢â€"Â¡\-*+]|\d+\.|\([a-zA-Z]+\))'  # Ignore numeric parens
         if len(df.columns) > 0:
             first_col = df.iloc[:, 0].dropna().astype(str)
             first_col_bullets = sum(1 for cell in first_col if re.match(bullet_marker, cell.strip()))
@@ -613,7 +660,7 @@ class CamelotSmartExtractor:
             r'december 31, \d{4}',
         ]
         is_financial = any(re.search(pattern, value) for pattern in financial_patterns)
-        is_list_marker = re.match(r'^[\d+\.\(\)\w\s\-*•]{0,5}$', value.strip()) and len(value.strip()) < 3
+        is_list_marker = re.match(r'^[\d+\.\(\)\w\s\-*Ã¢â‚¬Â¢]{0,5}$', value.strip()) and len(value.strip()) < 3
         return is_financial and not is_list_marker
     
     def _count_financial_keywords(self, df):
@@ -753,11 +800,234 @@ class CamelotSmartExtractor:
                 json.dump(self.extracted_data, f, indent=2, ensure_ascii=False)
             
             self.logger.info(f"JSON results saved to: {output_path}")
+            
+            # Save Markdown
+            markdown_path = self.save_as_markdown(filename)
+            self.logger.info(f"Markdown results saved to: {markdown_path}")
+            
             return output_path
             
         except Exception as e:
             self.logger.error(f"Failed to save results: {e}")
             raise
+    
+    def save_as_markdown(self, json_filename):
+        """Convert extraction results to Markdown format and save."""
+        markdown_filename = json_filename.replace('.json', '.md')
+        markdown_path = self.output_dir / markdown_filename
+        
+        try:
+            md_content = self._generate_markdown_content()
+            
+            with open(markdown_path, 'w', encoding='utf-8') as f:
+                f.write(md_content)
+            
+            return markdown_path
+            
+        except Exception as e:
+            self.logger.error(f"Failed to save markdown: {e}")
+            raise
+    
+    def _generate_markdown_content(self):
+        """Generate markdown content from extraction data."""
+        data = self.extracted_data
+        metadata = data.get("metadata", {})
+        stats = data.get("extraction_stats", {})
+        valid_tables = data.get("tables", {}).get("valid_tables", [])
+        filtered_tables = data.get("tables", {}).get("filtered_out", [])
+        
+        # Start building markdown
+        md_content = f"# Camelot Table Extraction Report\n\n"
+        md_content += f"**Document**: {metadata.get('filename', 'Unknown')}\n"
+        md_content += f"**Generated**: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n"
+        md_content += f"**Project**: LANTERN - FinTrust Analytics\n\n"
+        md_content += "---\n\n"
+        
+        # Metadata section
+        md_content += self._format_metadata_section(metadata)
+        
+        # Statistics section
+        md_content += self._format_stats_section(stats)
+        
+        # Valid tables summary
+        md_content += self._format_table_summary(valid_tables, "Valid Tables")
+        
+        # Filtered tables summary
+        if filtered_tables:
+            md_content += self._format_table_summary(filtered_tables, "Filtered Tables", show_reasons=True)
+        
+        # Detailed table information
+        if valid_tables:
+            md_content += self._format_table_details(valid_tables, "Valid Table Details")
+        
+        return md_content
+    
+    def _format_metadata_section(self, metadata):
+        """Format the metadata section for markdown."""
+        md_content = "## Extraction Metadata\n\n"
+        
+        md_content += f"- **Filename**: `{metadata.get('filename', 'Unknown')}`\n"
+        md_content += f"- **Extraction Date**: {metadata.get('extraction_date', 'Unknown')}\n"
+        md_content += f"- **File Size**: {metadata.get('file_size_mb', 'Unknown')} MB\n"
+        md_content += f"- **Extractor**: {metadata.get('extractor', 'Unknown')}\n\n"
+        
+        return md_content
+    
+    def _format_stats_section(self, stats):
+        """Format the extraction statistics section for markdown."""
+        md_content = "## Extraction Statistics\n\n"
+        
+        # Overview stats
+        md_content += "### Overview\n"
+        md_content += f"- **Total Tables Detected**: {stats.get('total_detected', 0)}\n"
+        md_content += f"- **Valid Tables**: {stats.get('valid_tables', 0)}\n"
+        md_content += f"- **Filtered Out**: {stats.get('filtered_out', 0)}\n"
+        md_content += f"- **Filter Rate**: {stats.get('filter_rate', 0):.1%}\n"
+        md_content += f"- **High Confidence Tables**: {stats.get('high_confidence_tables', 0)}\n\n"
+        
+        # Method breakdown
+        if stats.get('valid_tables_by_method'):
+            md_content += "### Valid Tables by Method\n"
+            for method, count in stats.get('valid_tables_by_method', {}).items():
+                md_content += f"- **{method}**: {count} tables\n"
+            md_content += "\n"
+        
+        # Quality metrics
+        md_content += "### Quality Metrics\n"
+        md_content += f"- **Average Accuracy**: {stats.get('average_accuracy', 0):.3f}\n"
+        md_content += f"- **Average Confidence**: {stats.get('average_confidence', 0):.1f}\n"
+        
+        acc_range = stats.get('accuracy_range', {})
+        conf_range = stats.get('confidence_range', {})
+        md_content += f"- **Accuracy Range**: {acc_range.get('min', 0):.3f} - {acc_range.get('max', 0):.3f}\n"
+        md_content += f"- **Confidence Range**: {conf_range.get('min', 0)} - {conf_range.get('max', 0)}\n\n"
+        
+        # Page distribution
+        page_dist = stats.get('page_distribution', {})
+        if page_dist:
+            md_content += "### Page Distribution\n"
+            md_content += f"- **Pages with Valid Tables**: {stats.get('pages_with_valid_tables', 0)}\n"
+            
+            # Sort pages numerically
+            sorted_pages = sorted(page_dist.items(), key=lambda x: int(x[0]) if x[0].isdigit() else float('inf'))
+            page_list = [f"Page {page} ({count} tables)" for page, count in sorted_pages[:10]]  # Limit to first 10
+            if len(sorted_pages) > 10:
+                page_list.append(f"... and {len(sorted_pages) - 10} more pages")
+            
+            md_content += f"- **Distribution**: {', '.join(page_list)}\n\n"
+        
+        # Filter reasons
+        filter_reasons = stats.get('filter_reasons_breakdown', {})
+        if filter_reasons:
+            md_content += "### Filter Reasons Breakdown\n"
+            for reason, count in sorted(filter_reasons.items(), key=lambda x: x[1], reverse=True):
+                md_content += f"- **{reason.replace('_', ' ').title()}**: {count} tables\n"
+            md_content += "\n"
+        
+        return md_content
+    
+    def _format_table_summary(self, tables, title="Tables", show_reasons=False):
+        """Format a summary of tables for markdown."""
+        if not tables:
+            return f"## {title}\n\nNo tables found.\n\n"
+        
+        md_content = f"## {title} ({len(tables)} tables)\n\n"
+        
+        # Create summary table
+        if show_reasons:
+            md_content += "| Table ID | Page | Method | Shape | Confidence | Accuracy | Filter Reasons |\n"
+            md_content += "|----------|------|--------|-------|------------|----------|----------------|\n"
+        else:
+            md_content += "| Table ID | Page | Method | Shape | Confidence | Accuracy | CSV File |\n"
+            md_content += "|----------|------|--------|-------|------------|----------|----------|\n"
+        
+        for table in tables:
+            table_id = table.get('table_id', 'Unknown')
+            page = table.get('page', 'N/A')
+            method = table.get('method', 'Unknown')
+            shape = table.get('shape', [0, 0])
+            confidence = table.get('confidence_score', 0)
+            accuracy = table.get('accuracy', 0)
+            
+            # Format shape
+            shape_str = f"{shape[0]}×{shape[1]}" if isinstance(shape, list) and len(shape) >= 2 else str(shape)
+            
+            if show_reasons:
+                reasons = table.get('filter_reasons', [])
+                reasons_str = ', '.join(reasons) if reasons else 'N/A'
+                md_content += f"| {table_id} | {page} | {method} | {shape_str} | {confidence} | {accuracy:.3f} | {reasons_str} |\n"
+            else:
+                csv_file = table.get('csv_file', '')
+                csv_name = Path(csv_file).name if csv_file else 'N/A'
+                md_content += f"| {table_id} | {page} | {method} | {shape_str} | {confidence} | {accuracy:.3f} | `{csv_name}` |\n"
+        
+        md_content += "\n"
+        
+        return md_content
+    
+    def _format_table_details(self, tables, title="Table Details"):
+        """Format detailed information for each table in markdown."""
+        if not tables:
+            return ""
+        
+        md_content = f"## {title}\n\n"
+        
+        for i, table in enumerate(tables, 1):
+            table_id = table.get('table_id', f'Table {i}')
+            md_content += f"### {table_id}\n\n"
+            
+            # Basic info
+            md_content += f"- **Page**: {table.get('page', 'Unknown')}\n"
+            md_content += f"- **Method**: {table.get('method', 'Unknown')}\n"
+            md_content += f"- **Shape**: {table.get('shape', 'Unknown')}\n"
+            md_content += f"- **Confidence Score**: {table.get('confidence_score', 0)}\n"
+            md_content += f"- **Camelot Accuracy**: {table.get('accuracy', 0):.3f}\n"
+            
+            # Files
+            if table.get('csv_file'):
+                csv_path = Path(table['csv_file']).name
+                md_content += f"- **CSV File**: `{csv_path}`\n"
+            
+            if table.get('plot_saved'):
+                plot_path = Path(table['plot_saved']).name
+                md_content += f"- **Plot File**: `{plot_path}`\n"
+            
+            # Validation details
+            val_details = table.get('validation_details', {})
+            if val_details:
+                md_content += f"- **Non-empty Columns**: {val_details.get('non_empty_columns', 'N/A')}\n"
+                md_content += f"- **Numeric Columns**: {val_details.get('numeric_columns', 'N/A')}\n"
+                md_content += f"- **Financial Keywords**: {val_details.get('financial_keywords', 'N/A')}\n"
+                md_content += f"- **Has Proper Headers**: {val_details.get('has_proper_headers', 'N/A')}\n"
+            
+            # Data preview
+            data = table.get('data', [])
+            if data and len(data) > 0:
+                md_content += "\n**Data Preview:**\n\n"
+                
+                # Convert to DataFrame for better formatting
+                try:
+                    df = pd.DataFrame(data)
+                    
+                    # Limit preview size
+                    preview_df = df.head(3)  # First 3 rows
+                    if len(df.columns) > 5:  # Limit columns too
+                        preview_df = preview_df.iloc[:, :5]
+                        preview_df['...'] = '...'
+                    
+                    # Convert to markdown table
+                    md_table = preview_df.to_markdown(index=False)
+                    md_content += md_table + "\n\n"
+                    
+                    if len(data) > 3:
+                        md_content += f"*Showing first 3 of {len(data)} rows*\n\n"
+                    
+                except Exception as e:
+                    md_content += f"*Error formatting data preview: {e}*\n\n"
+            
+            md_content += "---\n\n"
+        
+        return md_content
     
     def run_extraction(self):
         self.logger.info("=== Starting Enhanced Camelot Extraction ===")
@@ -876,7 +1146,9 @@ class BatchCamelotProcessor:
         total_valid_tables = 0
         
         for i, pdf_file in enumerate(pdf_files, 1):
-            self.batch_logger.info(f"\nProcessing PDF {i}/{len(pdf_files)}: {pdf_file.name}")
+            self.batch_logger.info(f"\n{'='*60}")
+            self.batch_logger.info(f"Processing PDF {i}/{len(pdf_files)}: {pdf_file.name}")
+            self.batch_logger.info(f"{'='*60}")
             
             try:
                 # Create extractor for this PDF
@@ -904,6 +1176,7 @@ class BatchCamelotProcessor:
                 
             except Exception as e:
                 self.batch_logger.error(f"Failed to process {pdf_file.name}: {e}")
+                self.batch_logger.error(traceback.format_exc())
                 
                 batch_results["processing_results"][pdf_file.name] = {
                     "status": "failed",
@@ -930,7 +1203,7 @@ class BatchCamelotProcessor:
         return batch_results
     
     def save_batch_results(self, batch_results):
-        """Save the batch processing results in JSON format."""
+        """Save the batch processing results in both JSON and Markdown formats."""
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         
         # Save JSON
@@ -941,10 +1214,105 @@ class BatchCamelotProcessor:
             self.batch_logger.info(f"Batch JSON results saved to: {batch_results_file}")
         except Exception as e:
             self.batch_logger.error(f"Failed to save batch JSON results: {e}")
+        
+        # Save Markdown
+        markdown_file = self.output_dir / f"batch_extraction_results_{timestamp}.md"
+        try:
+            md_content = self._generate_batch_markdown(batch_results)
+            with open(markdown_file, 'w', encoding='utf-8') as f:
+                f.write(md_content)
+            self.batch_logger.info(f"Batch Markdown results saved to: {markdown_file}")
+        except Exception as e:
+            self.batch_logger.error(f"Failed to save batch Markdown results: {e}")
+    
+    def _generate_batch_markdown(self, batch_results):
+        """Generate markdown content for batch processing results."""
+        metadata = batch_results.get("batch_metadata", {})
+        summary = batch_results.get("batch_summary", {})
+        processing_results = batch_results.get("processing_results", {})
+        
+        # Start building markdown
+        md_content = f"# Batch Camelot Extraction Report\n\n"
+        md_content += f"**Project**: LANTERN - FinTrust Analytics\n"
+        md_content += f"**Generated**: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n"
+        md_content += f"**Batch Processing**: {metadata.get('total_pdfs', 0)} PDF files\n\n"
+        md_content += "---\n\n"
+        
+        # Batch metadata
+        md_content += "## Batch Metadata\n\n"
+        md_content += f"- **Input Directory**: `{metadata.get('input_directory', 'Unknown')}`\n"
+        md_content += f"- **Output Directory**: `{metadata.get('output_directory', 'Unknown')}`\n"
+        md_content += f"- **Start Time**: {metadata.get('start_time', 'Unknown')}\n"
+        md_content += f"- **End Time**: {metadata.get('end_time', 'Unknown')}\n"
+        md_content += f"- **Total PDFs**: {metadata.get('total_pdfs', 0)}\n\n"
+        
+        # Batch summary
+        md_content += "## Batch Summary\n\n"
+        md_content += f"- **Total PDFs Processed**: {summary.get('total_pdfs_processed', 0)}\n"
+        md_content += f"- **Successful Extractions**: {summary.get('successful_extractions', 0)}\n"
+        md_content += f"- **Failed Extractions**: {summary.get('failed_extractions', 0)}\n"
+        md_content += f"- **Success Rate**: {summary.get('success_rate', 0):.1%}\n"
+        md_content += f"- **Total Valid Tables**: {summary.get('total_valid_tables_extracted', 0)}\n"
+        md_content += f"- **Average Tables per PDF**: {summary.get('average_tables_per_pdf', 0):.1f}\n\n"
+        
+        # Processing results table
+        md_content += "## Individual PDF Results\n\n"
+        md_content += "| PDF File | Status | Valid Tables | Output Directory |\n"
+        md_content += "|----------|--------|--------------|------------------|\n"
+        
+        for pdf_name, result in processing_results.items():
+            status = result.get('status', 'unknown')
+            if status == 'success':
+                extraction_data = result.get('extraction_data', {})
+                stats = extraction_data.get('extraction_stats', {})
+                valid_tables = stats.get('valid_tables', 0)
+                status_icon = "Success"
+            else:
+                valid_tables = "N/A"
+                status_icon = "Failed"
+            
+            output_dir = result.get('output_directory', 'N/A')
+            output_name = Path(output_dir).name if output_dir != 'N/A' else 'N/A'
+            
+            md_content += f"| `{pdf_name}` | {status_icon} | {valid_tables} | `{output_name}` |\n"
+        
+        md_content += "\n"
+        
+        # Failed extractions details
+        failed_results = {k: v for k, v in processing_results.items() if v.get('status') == 'failed'}
+        if failed_results:
+            md_content += "## Failed Extractions\n\n"
+            for pdf_name, result in failed_results.items():
+                md_content += f"### {pdf_name}\n\n"
+                md_content += f"**Error**: {result.get('error', 'Unknown error')}\n\n"
+                md_content += "---\n\n"
+        
+        return md_content
+    
+    def print_batch_summary(self, batch_results):
+        """Print a summary of the batch processing results."""
+        summary = batch_results.get("batch_summary", {})
+        
+        print(f"\n{'='*70}")
+        print("BATCH PROCESSING COMPLETED!")
+        print(f"{'='*70}")
+        print(f"Total PDFs processed: {summary.get('total_pdfs_processed', 0)}")
+        print(f"Successful extractions: {summary.get('successful_extractions', 0)}")
+        print(f"Failed extractions: {summary.get('failed_extractions', 0)}")
+        print(f"Success rate: {summary.get('success_rate', 0):.1%}")
+        print(f"Total valid tables extracted: {summary.get('total_valid_tables_extracted', 0)}")
+        print(f"Average tables per PDF: {summary.get('average_tables_per_pdf', 0):.1f}")
+        print(f"\nOutput directory: {self.output_dir}")
+        print(f"Check individual PDF folders for:")
+        print(f"  - JSON results (camelot_enhanced_extraction_*.json)")
+        print(f"  - Markdown reports (camelot_enhanced_extraction_*.md)")
+        print(f"  - CSV tables (tables_csv/ folder)")
+        print(f"  - Table plots (table_plots/ folder)")
+        print(f"Also check batch summary files (JSON + Markdown) in main output directory.")
 
 
 def main():
-    # Configuration - Use relative paths for DVC integration
+    # Configuration - Updated paths
     INPUT_DIR = "data/raw"
     OUTPUT_DIR = "data/parsed/camelot_output"
     
@@ -960,13 +1328,7 @@ def main():
         batch_results = processor.process_all_pdfs()
         
         # Print summary
-        summary = batch_results.get("batch_summary", {})
-        print(f"\nBatch processing completed!")
-        print(f"Total PDFs processed: {summary.get('total_pdfs_processed', 0)}")
-        print(f"Successful extractions: {summary.get('successful_extractions', 0)}")
-        print(f"Failed extractions: {summary.get('failed_extractions', 0)}")
-        print(f"Total valid tables extracted: {summary.get('total_valid_tables_extracted', 0)}")
-        print(f"Output directory: {OUTPUT_DIR}")
+        processor.print_batch_summary(batch_results)
         
         return batch_results
         
@@ -979,3 +1341,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+    

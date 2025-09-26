@@ -14,4 +14,5 @@ env/
 .dvcignore
 .dvc.lock
 
-dvc/
+src/data/parsed/*
+src/data/parsed/*
