@@ -1,6 +1,5 @@
 # Requirements for Pdfplumber + pymupdf
 pdfplumber>=0.9.0
-fitz
 PyMuPDF==1.23.26
 
 # Requirements for Camelot
