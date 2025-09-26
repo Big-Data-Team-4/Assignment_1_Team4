@@ -14,7 +14,6 @@ warnings.filterwarnings('ignore')
 import cv2
 import numpy as np
 from PIL import Image, ImageDraw
-import fitz  # PyMuPDF
 import pandas as pd
 from dataclasses import dataclass, asdict
 from datetime import datetime
