@@ -51,11 +51,28 @@ jobs:
           mkdir -p src/data/parsed/fallback_output
  
       # If your pipeline has DVC inputs, pull them (safe to skip if none)
-      - name: dvc pull (inputs)
-        run: dvc pull || true
-
-      - name: Run DVC init
-        run: dvc init
+      # Handle existing DVC setup
+      - name: Initialize or reset DVC
+        run: |
+          if [ -d ".dvc" ]; then
+            echo "DVC already initialized, forcing reinit..."
+            dvc init --force
+          else
+            dvc init
+          fi
+      
+      # Pull any DVC-tracked inputs (skip outputs)
+      - name: dvc pull (inputs only)
+        run: |
+          dvc pull || echo "No DVC inputs to pull, continuing..."
+ 
+      # Remove any DVC tracking of output directories
+      - name: Remove DVC tracking of output directories
+        run: |
+          # Remove any .dvc files that track our output directories
+          find . -name "*.dvc" -path "*/parsed/*" -delete || true
+          # Remove output directories from dvc.yaml if they exist as outputs
+          echo "Checking dvc.yaml for output directory tracking..."
  
       - name: Run DVC Pipeline
         run: dvc repro --force
