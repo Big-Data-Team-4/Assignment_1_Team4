@@ -24,7 +24,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 class PortablePDFParser:
-    def __init__(self, pdf_dir="data/raw", output_dir="data/parsed/pdfparser_output"):
+    def __init__(self, pdf_dir="data/raw", output_dir="data/parsed/pdfParser_output"):
         """Portable PDF parser that works anywhere with just pip install"""
         self.pdf_dir = Path(pdf_dir)
         self.output_dir = Path(output_dir)
@@ -646,8 +646,8 @@ def main():
         print(" To enable OCR: pip install easyocr")
     print("=" * 50)
     
-    PDF_DIR = "../data/raw"
-    OUTPUT_DIR = "../data/parsed/pdfparser_output"
+    PDF_DIR = "data/raw"
+    OUTPUT_DIR = "data/parsed/pdfParser_output"
     
     try:
         parser = PortablePDFParser(PDF_DIR, OUTPUT_DIR)
