@@ -117,6 +117,9 @@ jobs:
       # If your pipeline has DVC inputs, pull them (safe to skip if none)
       - name: dvc pull (inputs)
         run: dvc pull || true
+
+      - name: Run DVC init
+        run: dvc init
  
       - name: Run DVC Pipeline
         run: dvc repro --force
