@@ -1,0 +1,30 @@
+# Requirements for Pdfplumber + pymupdf
+pdfplumber>=0.9.0
+fitz
+pymupdf
+
+# Requirements for Camelot
+camelot-py[cv]
+opencv-python
+ghostscript
+
+# Requirements for Docling
+docling>=2.50.0
+pandas>=1.5.0
+numpy>=1.20.0
+
+# Requirements for Azure AI Document Intelligence
+azure-ai-formrecognizer
+
+# Requirements for DVC
+dvc[azure,gs,s3,ssh]
+
+# Additional libraries for your scripts
+Pillow
+jsonlines
+python-dotenv
+PyYAML
+
+# For layout detection (PaddleOCR)
+paddleocr
+paddlepaddle
