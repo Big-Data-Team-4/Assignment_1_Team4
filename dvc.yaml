@@ -7,12 +7,12 @@ stages:
       - install.force_reinstall
 
   extract_pdfparser:
-    cmd: cd src && python scripts/extract_pdfparser.py
+    cmd: cd src && python scripts/extract_pdfParser.py
     deps:
-      - src/scripts/extract_pdfparser.py
+      - src/scripts/extract_pdfParser.py
       - src/data/raw/
     outs:
-      - src/data/parsed/pdfparser_output/
+      - src/data/parsed/pdfParser_output/
 
   extract_camelot:
     cmd: cd src && python scripts/extract_camelot.py
