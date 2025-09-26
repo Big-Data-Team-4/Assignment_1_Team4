@@ -1,0 +1,11 @@
+0,1
+▪,"®
+®
+Datacenter AI accelerators and GPUs. In 2024, we launched the Intel
+ Gaudi
+ 3 AI accelerators offering significant price-performance advantages for AI inference"
+,applications.
+"Software. Software unleashes the potential of our hardware platforms across all workloads, domains, and architectures.",
+"We aim to optimize AI frameworks and middleware, such as PyTorch, TensorFlow, vLLM, Hugging Face and WebNN to run efficiently on our hardware. Our OpenVINO™ toolkit",
+"is an open source toolkit that accelerates deep learning inference on our processors across various use cases, such as generative AI, computer vision, audio, and language with",
+industry standard models. It is used in domains from edge to AI PC to cloud and is the leading inferencing library on our silicon.,
