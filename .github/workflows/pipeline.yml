@@ -4,7 +4,7 @@ name: PDF Parser Pipeline
 on:
   push:
     branches:
-      - main
+      - Test
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
