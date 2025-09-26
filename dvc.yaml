@@ -5,6 +5,7 @@ stages:
       - src/requirements.txt
     params:
       - install.force_reinstall
+      
 
   extract_pdfparser:
     cmd: cd src && python scripts/extract_pdfParser.py

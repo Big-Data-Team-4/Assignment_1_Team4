@@ -35,7 +35,7 @@ jobs:
       
       - name: Create output directories
         run: |
-          mkdir -p src/data/parsed/pdfparser_output
+          mkdir -p src/data/parsed/pdfParser_output
           mkdir -p src/data/parsed/camelot_output
           mkdir -p src/data/parsed/layout_output
           mkdir -p src/data/parsed/docling_output

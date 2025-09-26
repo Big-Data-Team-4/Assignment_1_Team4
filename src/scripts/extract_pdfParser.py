@@ -14,7 +14,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 class PDFToJSONParser:
-    def __init__(self, pdf_dir="data/raw", output_dir="data/parsed/pdfparser_output"):
+    def __init__(self, pdf_dir="data/raw", output_dir="data/parsed/pdfParser_output"):
         """
         Initialize PDF to JSON Parser
         
@@ -560,7 +560,7 @@ def main():
     
     # Configuration - Updated paths for DVC integration
     PDF_DIR = "data/raw"        # Directory containing PDF files (relative to src/)
-    OUTPUT_DIR = "data/parsed/pdfparser_output"   # Directory for JSON and image output (relative to src/)
+    OUTPUT_DIR = "data/parsed/pdfParser_output"   # Directory for JSON and image output (relative to src/)
     
     try:
         # Initialize parser
