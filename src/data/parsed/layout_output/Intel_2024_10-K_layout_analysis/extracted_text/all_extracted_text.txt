@@ -1,0 +1,3246 @@
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_0
+Block Type: Text
+Bounding Box: {'x1': 261.1276550292969, 'y1': 118.3013916015625, 'x2': 963.6343383789062, 'y2': 145.12322998046875}
+================================================================================
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_1
+Block Type: Text
+Bounding Box: {'x1': 513.0090942382812, 'y1': 142.11065673828125, 'x2': 711.78759765625, 'y2': 161.7710723876953}
+================================================================================
+URITIES AND EXC
+Washington, D.C. 20549
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_2
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 175.6765594482422, 'x2': 681.3765258789062, 'y2': 218.7144775390625}
+================================================================================
+FORM 10-K
+(Mark One)
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_3
+Block Type: Text
+Bounding Box: {'x1': 70.78640747070312, 'y1': 223.10443115234375, 'x2': 762.8811645507812, 'y2': 302.4028625488281}
+================================================================================
+☑
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 30, 2023.
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_4
+Block Type: Text
+Bounding Box: {'x1': 107.56796264648438, 'y1': 308.513916015625, 'x2': 435.33197021484375, 'y2': 322.8099670410156}
+================================================================================
+For the transition period from                      to                    .
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_5
+Block Type: Text
+Bounding Box: {'x1': 486.6936950683594, 'y1': 333.4669189453125, 'x2': 738.0650634765625, 'y2': 349.55999755859375}
+================================================================================
+Commission File Number: 000-06217
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_6
+Block Type: Title
+Bounding Box: {'x1': 426.2601623535156, 'y1': 419.0706481933594, 'x2': 798.53173828125, 'y2': 458.4048767089844}
+================================================================================
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_7
+Block Type: Text
+Bounding Box: {'x1': 246.59136962890625, 'y1': 456.1653137207031, 'x2': 1004.1329345703125, 'y2': 506.4739074707031}
+================================================================================
+INTEL CORPORATION
+(Exact name of registrant as specified in its charter)
+Delaware
+94-1672743
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_8
+Block Type: Text
+Bounding Box: {'x1': 226.40933227539062, 'y1': 514.7300415039062, 'x2': 944.105712890625, 'y2': 548.4884643554688}
+================================================================================
+2200 Mission College Boulevard,
+Santa Clara, California
+95054-1549
+(Address of principal executive offices)
+(Zip Code)
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_9
+Block Type: Text
+Bounding Box: {'x1': 419.4890441894531, 'y1': 560.6016845703125, 'x2': 805.2774047851562, 'y2': 574.897705078125}
+================================================================================
+Registrant's telephone number, including area code: (408) 765-8080
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_11
+Block Type: Text
+Bounding Box: {'x1': 433.2000732421875, 'y1': 637.4284057617188, 'x2': 791.5748291015625, 'y2': 651.7244262695312}
+================================================================================
+Securities registered pursuant to Section 12(g) of the Act: None
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_12
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 691.4472045898438, 'x2': 789.9642333984375, 'y2': 705.9124755859375}
+================================================================================
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes ☑  No ☐
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_13
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 716.656005859375, 'x2': 797.7482299804688, 'y2': 731.1212768554688}
+================================================================================
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.    Yes ☐  No ☑
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_14
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 740.6643676757812, 'x2': 1149.7357177734375, 'y2': 771.9354858398438}
+================================================================================
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such
+shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes ☑  No ☐
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_15
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 781.4785766601562, 'x2': 1166.56298828125, 'y2': 812.7496948242188}
+================================================================================
+Indicate by check mark whether the registrant has submitted electronically every interactive data file required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during
+the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    Yes ☑  No ☐
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_16
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 822.2927856445312, 'x2': 1171.2791748046875, 'y2': 850.9937744140625}
+================================================================================
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions
+of "large accelerated filer", "accelerated filer", "smaller reporting company", and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_17
+Block Type: Text
+Bounding Box: {'x1': 91.88750457763672, 'y1': 855.9044799804688, 'x2': 1175.600830078125, 'y2': 889.576416015625}
+================================================================================
+Large Accelerated Filer
+Accelerated Filer  
+Non-Accelerated Filer  
+Smaller Reporting Company  
+Emerging Growth Company  
+☑
+☐
+☐
+☐
+☐
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_18
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 902.7207641601562, 'x2': 1144.5220947265625, 'y2': 933.9918823242188}
+================================================================================
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act.  ☐
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_19
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 938.7332763671875, 'x2': 1146.2508544921875, 'y2': 1002.4157104492188}
+================================================================================
+Indicate by check mark whether the registrant has filed a report on and attestation to its management's assessment of the effectiveness of its internal control over financial reporting under Section
+404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.  ☑
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to
+previously issued financial statements. ☐
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_20
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 1007.1571044921875, 'x2': 1172.679443359375, 'y2': 1038.42822265625}
+================================================================================
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers
+during the relevant recovery period pursuant to §240.10D-1(b). ☐
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_21
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 1044.3699951171875, 'x2': 768.6193237304688, 'y2': 1058.8353271484375}
+================================================================================
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    Yes ☐  No ☑
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_23
+Block Type: Text
+Bounding Box: {'x1': 457.0021057128906, 'y1': 1101.2620849609375, 'x2': 767.77685546875, 'y2': 1116.4566650390625}
+================================================================================
+DOCUMENTS INCORPORATED BY REFERENCE
+
+
+================================================================================
+Page 1 - Block ID: pymupdf_page_1_block_24
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 1123.5975341796875, 'x2': 1164.553466796875, 'y2': 1153.4991455078125}
+================================================================================
+Portions of the registrant's proxy statement related to its 2024 Annual Stockholders' Meeting to be filed subsequently are incorporated by reference into Part III of this Form 10-K. Except as expressly
+incorporated by reference, the registrant's proxy statement shall not be deemed to be part of this report.
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_0
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 88.7458267211914, 'x2': 271.802978515625, 'y2': 120.9320297241211}
+================================================================================
+Table of Contents
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_1
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 138.25369262695312, 'x2': 311.2535095214844, 'y2': 159.71115112304688}
+================================================================================
+Organization of Our Form 10-K
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_2
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 175.0117645263672, 'x2': 1163.4237060546875, 'y2': 225.91700744628906}
+================================================================================
+The order and presentation of content in our Form 10-K differs from the traditional SEC Form 10-K format. Our format is designed to improve readability and better present how
+we organize and manage our business. See "Form 10-K Cross-Reference Index" within the Financial Statements and Supplemental Details for a cross-reference index to the
+traditional SEC Form 10-K format.
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_3
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 241.0347137451172, 'x2': 1038.1231689453125, 'y2': 257.1278076171875}
+================================================================================
+We have defined certain terms and abbreviations used throughout our Form 10-K in "Key Terms" within the Financial Statements and Supplemental Details.
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_4
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 273.44598388671875, 'x2': 1155.8065185546875, 'y2': 323.1507568359375}
+================================================================================
+The preparation of our Consolidated Financial Statements is in conformity with US GAAP. Our Form 10-K includes key metrics that we use to measure our business, some of
+which are non-GAAP measures. See "Non-GAAP Financial Measures" within MD&A for an explanation of these measures and why management uses them and believes they
+provide investors with useful supplemental information.
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_5
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 343.07025146484375, 'x2': 1089.4400634765625, 'y2': 361.9025573730469}
+================================================================================
+Fundamentals of Our Business
+Page
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_6
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 368.27899169921875, 'x2': 1076.6241455078125, 'y2': 385.572509765625}
+================================================================================
+Availability of Company Information
+2
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_7
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 389.88653564453125, 'x2': 1076.6241455078125, 'y2': 407.1800537109375}
+================================================================================
+Introduction to Our Business
+3
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_8
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 412.69451904296875, 'x2': 1076.6241455078125, 'y2': 429.988037109375}
+================================================================================
+A Year in Review
+5
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_9
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 434.30206298828125, 'x2': 1076.6241455078125, 'y2': 451.595458984375}
+================================================================================
+Our Strategy
+7
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_10
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 455.90948486328125, 'x2': 1080.6195068359375, 'y2': 473.2030029296875}
+================================================================================
+Our Capital
+10
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_11
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 486.8755187988281, 'x2': 329.71820068359375, 'y2': 504.7522888183594}
+================================================================================
+Management's Discussion and Analysis
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_12
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 511.12872314453125, 'x2': 1080.6195068359375, 'y2': 528.4222412109375}
+================================================================================
+Our Products
+20
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_13
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 544.7405395507812, 'x2': 1080.6195068359375, 'y2': 562.0340576171875}
+================================================================================
+Segment Trends and Results
+21
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_14
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 567.5484008789062, 'x2': 1080.6195068359375, 'y2': 584.8419189453125}
+================================================================================
+Consolidated Results of Operations
+37
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_15
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 589.1558227539062, 'x2': 1080.6195068359375, 'y2': 606.4493408203125}
+================================================================================
+Liquidity and Capital Resources
+42
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_16
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 611.9639282226562, 'x2': 1080.6195068359375, 'y2': 629.2574462890625}
+================================================================================
+Critical Accounting Estimates
+44
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_17
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 633.5713500976562, 'x2': 1080.6195068359375, 'y2': 650.8648681640625}
+================================================================================
+Non-GAAP Financial Measures
+45
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_18
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 664.5374145507812, 'x2': 330.18475341796875, 'y2': 682.4141235351562}
+================================================================================
+Risk Factors and Other Key Information
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_19
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 697.1934204101562, 'x2': 1080.6195068359375, 'y2': 714.4869384765625}
+================================================================================
+Risk Factors
+48
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_20
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 720.0015258789062, 'x2': 1080.6195068359375, 'y2': 737.2950439453125}
+================================================================================
+Sales and Marketing
+63
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_21
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 741.6089477539062, 'x2': 1080.6195068359375, 'y2': 758.9024658203125}
+================================================================================
+Quantitative and Qualitative Disclosures About Market Risk
+64
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_22
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 765.6172485351562, 'x2': 1080.6195068359375, 'y2': 781.7103271484375}
+================================================================================
+Cybersecurity
+65
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_23
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 800.4295043945312, 'x2': 1080.6195068359375, 'y2': 817.7230224609375}
+================================================================================
+Properties
+66
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_24
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 822.0369262695312, 'x2': 1080.6195068359375, 'y2': 839.3304443359375}
+================================================================================
+Market for Our Common Stock
+66
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_25
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 846.0454711914062, 'x2': 1080.6195068359375, 'y2': 862.1385498046875}
+================================================================================
+Stock Performance Graph
+67
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_26
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 882.0579223632812, 'x2': 1080.6195068359375, 'y2': 898.1510009765625}
+================================================================================
+Issuer Purchases of Equity Securities
+67
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_27
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 919.2708129882812, 'x2': 1080.6195068359375, 'y2': 935.3638916015625}
+================================================================================
+Rule 10b5-1 Trading Arrangements
+67
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_28
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 955.2832641601562, 'x2': 1080.6195068359375, 'y2': 971.3763427734375}
+================================================================================
+Information About Our Executive Officers
+68
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_29
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 990.0955200195312, 'x2': 1080.6195068359375, 'y2': 1007.3890380859375}
+================================================================================
+Disclosure Pursuant to Section 13(r) of the Securities Exchange Act of 1934
+69
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_30
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 1021.0615844726562, 'x2': 385.3723449707031, 'y2': 1038.9383544921875}
+================================================================================
+Financial Statements and Supplemental Details
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_31
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 1045.314697265625, 'x2': 1080.6195068359375, 'y2': 1062.6082763671875}
+================================================================================
+Auditor's Reports
+71
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_32
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 1068.12255859375, 'x2': 1080.6195068359375, 'y2': 1085.4161376953125}
+================================================================================
+Consolidated Financial Statements
+74
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_33
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 1089.730224609375, 'x2': 1080.6195068359375, 'y2': 1107.0235595703125}
+================================================================================
+Notes to Consolidated Financial Statements
+79
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_34
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 1112.5380859375, 'x2': 1084.091796875, 'y2': 1129.8316650390625}
+================================================================================
+Key Terms
+112
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_35
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 1134.1455078125, 'x2': 1084.091796875, 'y2': 1151.4390869140625}
+================================================================================
+Controls and Procedures
+115
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_36
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 1155.753173828125, 'x2': 1084.091796875, 'y2': 1173.0467529296875}
+================================================================================
+Exhibits
+116
+
+
+================================================================================
+Page 2 - Block ID: pymupdf_page_2_block_37
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 1178.56103515625, 'x2': 1084.633544921875, 'y2': 1195.8546142578125}
+================================================================================
+Form 10-K Cross-Reference Index
+121
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_0
+Block Type: Text
+Bounding Box: {'x1': 1070.115478515625, 'y1': 38.41986083984375, 'x2': 1177.18603515625, 'y2': 52.71590042114258}
+================================================================================
+Table of Contents
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_1
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 88.54676818847656, 'x2': 335.1467590332031, 'y2': 113.57154083251953}
+================================================================================
+Forward-Looking Statements
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_2
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 129.3957977294922, 'x2': 1173.9600830078125, 'y2': 215.11317443847656}
+================================================================================
+This Form 10-K contains forward-looking statements that involve a number of risks and uncertainties. Words such as "accelerate", "achieve", "aim", "ambitions", "anticipate",
+"believe", "committed", "continue", "could", "designed", "estimate", "expect", "forecast", "future", "goals", "grow", "guidance", "intend", "likely", "may", "might", "milestones", "next
+generation", "objective", "on track", "opportunity", "outlook", "pending", "plan", "position", "possible", "potential", "predict", "progress", "ramp", "roadmap", "seek", "should", "strive",
+"targets", "to be", "upcoming", "will", "would", and variations of such words and similar expressions are intended to identify such forward-looking statements, which may include
+statements regarding:
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_3
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 230.2310028076172, 'x2': 1105.550048828125, 'y2': 264.3302001953125}
+================================================================================
+•
+our business plans and strategy and anticipated benefits therefrom, including with respect to our IDM 2.0 strategy, our Smart Capital strategy, our partnership with
+Brookfield, the transition to an internal foundry model, updates to our reporting structure, and our AI strategy;
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_4
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 269.84478759765625, 'x2': 873.039306640625, 'y2': 285.9378662109375}
+================================================================================
+•
+projections of our future financial performance, including future revenue, gross margins, capital expenditures, and cash flows;
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_5
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 292.65264892578125, 'x2': 282.98126220703125, 'y2': 308.7457275390625}
+================================================================================
+•
+projected costs and yield trends;
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_6
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 314.26031494140625, 'x2': 1154.9097900390625, 'y2': 347.1590576171875}
+================================================================================
+•
+future cash requirements, the availability, uses, sufficiency, and cost of capital resources, and sources of funding, including for future capital and R&D investments and for
+returns to stockholders, such as stock repurchases and dividends, and credit ratings expectations;
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_7
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 353.87408447265625, 'x2': 1157.8865966796875, 'y2': 403.5787353515625}
+================================================================================
+•
+future products, services, and technologies, and the expected goals, timeline, ramps, progress, availability, production, regulation, and benefits of such products, services,
+and technologies, including future process nodes and packaging technology, product roadmaps, schedules, future product architectures, expectations regarding process
+performance, per-watt parity, and metrics, and expectations regarding product and process leadership;
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_8
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 410.29376220703125, 'x2': 1163.85302734375, 'y2': 509.2154541015625}
+================================================================================
+•
+investment plans and impacts of investment plans, including in the US and abroad;
+•
+internal and external manufacturing plans, including future internal manufacturing volumes, manufacturing expansion plans and the financing therefor, and external foundry
+usage;
+•
+future production capacity and product supply;
+•
+supply expectations, including regarding constraints, limitations, pricing, and industry shortages;
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_9
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 515.9304809570312, 'x2': 1164.96533203125, 'y2': 553.6309814453125}
+================================================================================
+•
+plans and goals related to Intel's foundry business, including with respect to anticipated customers, future manufacturing capacity and service, technology, and IP offerings;
+•
+expected timing and impact of acquisitions, divestitures, and other significant transactions, including the sale of our NAND memory business;
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_10
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 560.3460083007812, 'x2': 698.246826171875, 'y2': 619.6539306640625}
+================================================================================
+•
+expected completion and impacts of restructuring activities and cost-saving or efficiency initiatives
+•
+future social and environmental performance goals, measures, strategies, and results;
+•
+our anticipated growth, future market share, and trends in our businesses and operations;
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_11
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 626.3689575195312, 'x2': 918.717529296875, 'y2': 664.0694580078125}
+================================================================================
+•
+projected growth and trends in markets relevant to our businesses;
+•
+anticipated trends and impacts related to industry component, substrate, and foundry capacity utilization, shortages, and constraints;
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_12
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 670.7842407226562, 'x2': 374.25140380859375, 'y2': 686.8773193359375}
+================================================================================
+•
+expectations regarding government incentives;
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_13
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 692.3919067382812, 'x2': 431.16290283203125, 'y2': 730.0924072265625}
+================================================================================
+•
+future technology trends and developments, such as AI;
+•
+future macro environmental and economic conditions;
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_14
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 736.8074340820312, 'x2': 564.8152465820312, 'y2': 774.5079345703125}
+================================================================================
+•
+geopolitical tensions and conflicts and their potential impact on our business;
+•
+tax- and accounting-related expectations;
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_15
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 781.2227172851562, 'x2': 561.6029663085938, 'y2': 797.3157958984375}
+================================================================================
+•
+expectations regarding our relationships with certain sanctioned parties; and
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_16
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 802.8303833007812, 'x2': 442.28631591796875, 'y2': 818.9234619140625}
+================================================================================
+•
+other characterizations of future events or circumstances.
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_17
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 846.0452270507812, 'x2': 1149.81591796875, 'y2': 862.1383056640625}
+================================================================================
+Such statements involve many risks and uncertainties that could cause our actual results to differ materially from those expressed or implied, including those associated with:
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_18
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 878.4566040039062, 'x2': 1014.6980590820312, 'y2': 916.1571044921875}
+================================================================================
+•
+the high level of competition and rapid technological change in our industry;
+•
+the significant long-term and inherently risky investments we are making in R&D and manufacturing facilities that may not realize a favorable return;
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_19
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 921.6716918945312, 'x2': 1090.7996826171875, 'y2': 959.3721923828125}
+================================================================================
+•
+the complexities and uncertainties in developing and implementing new semiconductor products and manufacturing process technologies;
+•
+our ability to time and scale our capital investments appropriately and successfully secure favorable alternative financing arrangements and government grants;
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_20
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 964.8867797851562, 'x2': 647.2695922851562, 'y2': 980.9798583984375}
+================================================================================
+•
+implementing new business strategies and investing in new businesses and technologies;
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_21
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 987.6946411132812, 'x2': 1135.21044921875, 'y2': 1042.2010498046875}
+================================================================================
+•
+changes in demand for our products;
+•
+macroeconomic conditions and geopolitical tensions and conflicts, including geopolitical and trade tensions between the US and China, the impacts of Russia's war on
+Ukraine, tensions and conflict affecting Israel, and rising tensions between the US and Taiwan;
+
+
+================================================================================
+Page 3 - Block ID: pymupdf_page_3_block_22
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 1048.916015625, 'x2': 407.0777893066406, 'y2': 1065.0091552734375}
+================================================================================
+•
+the evolving market for products with AI capabilities;
+
+
+================================================================================
+Page 4 - Block ID: pymupdf_page_4_block_0
+Block Type: Text
+Bounding Box: {'x1': 1070.115478515625, 'y1': 38.42010498046875, 'x2': 1177.18603515625, 'y2': 52.71614456176758}
+================================================================================
+Table of Contents
+
+
+================================================================================
+Page 4 - Block ID: pymupdf_page_4_block_1
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 88.58159637451172, 'x2': 1160.4910888671875, 'y2': 126.28211975097656}
+================================================================================
+•
+our complex global supply chain, including from disruptions, delays, trade tensions and conflicts, or shortages;
+•
+product defects, errata and other product issues, particularly as we develop next-generation products and implement next-generation manufacturing process technologies;
+
+
+================================================================================
+Page 4 - Block ID: pymupdf_page_4_block_2
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 132.9971160888672, 'x2': 479.09112548828125, 'y2': 170.69764709472656}
+================================================================================
+•
+potential security vulnerabilities in our products;
+•
+increasing and evolving cybersecurity threats and privacy risks;
+
+
+================================================================================
+Page 4 - Block ID: pymupdf_page_4_block_3
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 177.4126434326172, 'x2': 471.65460205078125, 'y2': 236.72059631347656}
+================================================================================
+•
+IP risks including related litigation and regulatory proceedings;
+•
+the need to attract, retain, and motivate key talent;
+•
+strategic transactions and investments;
+
+
+================================================================================
+Page 4 - Block ID: pymupdf_page_4_block_4
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 243.4355926513672, 'x2': 728.9171142578125, 'y2': 281.1361083984375}
+================================================================================
+•
+sales-related risks, including customer concentration and the use of distributors and other third parties;
+•
+our significantly reduced return of capital in recent years;
+
+
+================================================================================
+Page 4 - Block ID: pymupdf_page_4_block_5
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 287.85113525390625, 'x2': 519.12255859375, 'y2': 347.1590576171875}
+================================================================================
+•
+our debt obligations and our ability to access sources of capital;
+•
+complex and evolving laws and regulations across many jurisdictions;
+•
+fluctuations in currency exchange rates;
+
+
+================================================================================
+Page 4 - Block ID: pymupdf_page_4_block_6
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 353.87408447265625, 'x2': 422.0607604980469, 'y2': 413.1820068359375}
+================================================================================
+•
+changes in our effective tax rate;
+•
+catastrophic events;
+•
+environmental, health, safety, and product regulations;
+
+
+================================================================================
+Page 4 - Block ID: pymupdf_page_4_block_7
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 419.89703369140625, 'x2': 674.451904296875, 'y2': 457.5975341796875}
+================================================================================
+•
+our initiatives and new legal requirements with respect to corporate responsibility matters; and
+•
+other risks and uncertainties described in this report and our other filings with the SEC.
+
+
+================================================================================
+Page 4 - Block ID: pymupdf_page_4_block_8
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 490.72174072265625, 'x2': 1165.027099609375, 'y2': 523.6204833984375}
+================================================================================
+Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. Readers are urged to carefully review and consider
+the various disclosures made in this Form 10-K and in other documents we file from time to time with the SEC that disclose risks and uncertainties that may affect our business.
+
+
+================================================================================
+Page 4 - Block ID: pymupdf_page_4_block_9
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 533.9365844726562, 'x2': 1172.843017578125, 'y2': 619.6541748046875}
+================================================================================
+Unless specifically indicated otherwise, the forward-looking statements in this Form 10-K do not reflect the potential impact of any divestitures, mergers, acquisitions, or other
+business combinations that have not been completed as of the date of this filing. In addition, the forward-looking statements in this Form 10-K are based on management's
+expectations as of the date of this filing, unless an earlier date is specified, including expectations based on third-party information and projections that management believes to
+be reputable. We do not undertake, and expressly disclaim any duty, to update such statements, whether as a result of new information, new developments, or otherwise, except
+to the extent that disclosure may be required by law.
+
+
+================================================================================
+Page 4 - Block ID: pymupdf_page_4_block_10
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 634.7366943359375, 'x2': 439.2904357910156, 'y2': 659.761474609375}
+================================================================================
+Note Regarding Third-Party Information
+
+
+================================================================================
+Page 4 - Block ID: pymupdf_page_4_block_11
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 676.7861938476562, 'x2': 1171.2803955078125, 'y2': 761.3031005859375}
+================================================================================
+This Form 10-K includes market data and certain other statistical information and estimates that are based on reports and other publications from industry analysts, market
+research firms, and other independent sources, as well as management's own good faith estimates and analyses. Intel believes these third-party reports to be reputable, but has
+not independently verified the underlying data sources, methodologies, or assumptions. The reports and other publications referenced are generally available to the public and
+were not commissioned by Intel. Information that is based on estimates, forecasts, projections, market research, or similar methodologies is inherently subject to uncertainties,
+and actual events or circumstances may differ materially from events and circumstances reflected in this information.
+
+
+================================================================================
+Page 4 - Block ID: pymupdf_page_4_block_12
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 776.9215698242188, 'x2': 1154.4168701171875, 'y2': 802.6385498046875}
+================================================================================
+Intel, Arc, Arria, Celeron, Intel Agilex, Intel Atom, Intel Core, eASIC, Intel Evo, FlexRAN, Granulate, the Intel logo, Intel Optane, Intel Unison, MAX, Movidius, OpenVINO, OpenVINO logo, Pentium, Stratix, Thunderbolt and the
+Thunderbolt logo, Intel vPro, and Xeon are trademarks of Intel Corporation or its subsidiaries.
+
+
+================================================================================
+Page 4 - Block ID: pymupdf_page_4_block_13
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 812.9342651367188, 'x2': 831.0086059570312, 'y2': 825.4466552734375}
+================================================================================
+The Bluetooth  word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Intel Corporation is under license.
+®
+
+
+================================================================================
+Page 4 - Block ID: pymupdf_page_4_block_14
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 835.7423706054688, 'x2': 397.40167236328125, 'y2': 848.2547607421875}
+================================================================================
+*    Other names and brands may be claimed as the property of others.
+
+
+================================================================================
+Page 4 - Block ID: pymupdf_page_4_block_15
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 864.0164794921875, 'x2': 398.2177734375, 'y2': 889.041259765625}
+================================================================================
+Availability of Company Information
+
+
+================================================================================
+Page 4 - Block ID: pymupdf_page_4_block_16
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 906.0664672851562, 'x2': 1174.07470703125, 'y2': 1025.3953857421875}
+================================================================================
+We use our Investor Relations website, www.intc.com, as a routine channel for distribution of important, and often material, information about us, including our quarterly and
+annual earnings results and presentations, press releases, announcements, information about upcoming webcasts, analyst presentations, and investor days, archives of these
+events, financial information, corporate governance practices, and corporate responsibility information. We also post our filings on this website the same day they are
+electronically filed with, or furnished to, the SEC, including our annual and quarterly reports on Forms 10-K and 10-Q and current reports on Form 8-K, our proxy statements, and
+any amendments to those reports. All such information is available free of charge. Our Investor Relations website allows interested persons to sign up to automatically receive e-
+mail alerts when we post financial information and issue press releases, and to receive information about upcoming events. We encourage interested persons to follow our
+Investor Relations website in addition to our filings with the SEC to timely receive information about the company.
+
+
+================================================================================
+Page 7 - Block ID: pymupdf_page_7_block_0
+Block Type: Text
+Bounding Box: {'x1': 1065.070068359375, 'y1': 38.16362380981445, 'x2': 1177.1788330078125, 'y2': 54.2567253112793}
+================================================================================
+Table of Contents
+
+
+================================================================================
+Page 7 - Block ID: pymupdf_page_7_block_1
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 91.1465835571289, 'x2': 265.3817138671875, 'y2': 123.3327865600586}
+================================================================================
+A Year in Review
+
+
+================================================================================
+Page 7 - Block ID: pymupdf_page_7_block_3
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 328.66558837890625, 'x2': 792.0173950195312, 'y2': 344.7586669921875}
+================================================================================
+Revenue
+Gross Margin
+Diluted EPS Attributable to Intel
+Cash Flows
+
+
+================================================================================
+Page 7 - Block ID: pymupdf_page_7_block_4
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 347.87164306640625, 'x2': 897.4397583007812, 'y2': 378.3699951171875}
+================================================================================
+■ GAAP $B
+■ GAAP ■ Non-GAAP
+■ GAAP ■ Non-GAAP
+■ Operating Cash Flow $B
+■ Adjusted Free Cash Flow  $B
+1
+
+
+================================================================================
+Page 7 - Block ID: pymupdf_page_7_block_6
+Block Type: Text
+Bounding Box: {'x1': 249.0484619140625, 'y1': 645.5757446289062, 'x2': 338.73406982421875, 'y2': 696.4803466796875}
+================================================================================
+Gross margin
+down 2.6 ppts
+from 2022
+
+
+================================================================================
+Page 7 - Block ID: pymupdf_page_7_block_7
+Block Type: Text
+Bounding Box: {'x1': 363.18194580078125, 'y1': 645.5757446289062, 'x2': 452.8675537109375, 'y2': 696.4803466796875}
+================================================================================
+Gross margin
+down 3.7 ppts
+from 2022
+
+
+================================================================================
+Page 7 - Block ID: pymupdf_page_7_block_12
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 740.4087524414062, 'x2': 199.70123291015625, 'y2': 773.3074951171875}
+================================================================================
+Lower revenue in CCG,
+DCAI, and NEX.
+
+
+================================================================================
+Page 7 - Block ID: pymupdf_page_7_block_13
+Block Type: Text
+Bounding Box: {'x1': 249.0484619140625, 'y1': 740.4087524414062, 'x2': 461.2198791503906, 'y2': 911.3553466796875}
+================================================================================
+Lower GAAP gross margin from
+lower revenue, higher unit cost,
+and higher excess capacity
+charges, partially offset by the
+sell-through of previously
+reserved inventory, lower
+inventory reserves taken in 2023,
+lower product ramp costs, and
+the absence of one-time charges
+recognized in 2022.
+
+
+================================================================================
+Page 7 - Block ID: pymupdf_page_7_block_14
+Block Type: Text
+Bounding Box: {'x1': 477.3154296875, 'y1': 740.4087524414062, 'x2': 675.8899536132812, 'y2': 842.9315185546875}
+================================================================================
+Lower GAAP EPS from lower
+gross margin and absence of
+one-time gains recognized in
+2022, partially offset by lower
+R&D and MG&A spending, and
+a higher tax benefit.
+
+
+================================================================================
+Page 7 - Block ID: pymupdf_page_7_block_15
+Block Type: Text
+Bounding Box: {'x1': 698.5487060546875, 'y1': 740.4087524414062, 'x2': 924.2894897460938, 'y2': 824.9256591796875}
+================================================================================
+Lower operating cash flow primarily
+driven by lower net income,
+partially offset by favorable
+changes in working capital and
+other adjustments.
+
+
+================================================================================
+Page 7 - Block ID: pymupdf_page_7_block_16
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 945.4351196289062, 'x2': 346.4168701171875, 'y2': 963.3118286132812}
+================================================================================
+Managing to our long-term financial model
+
+
+================================================================================
+Page 7 - Block ID: pymupdf_page_7_block_17
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 979.2915649414062, 'x2': 1176.134765625, 'y2': 1081.8153076171875}
+================================================================================
+Our 2023 results reflect the continued advancement of our transformational journey. We continued to prioritize investments critical to our IDM 2.0 transformation, achieved
+operational milestones, and executed disciplined expense management. To achieve our long-term financial model, we believe it is imperative that we drive to world-class product
+cost and operational efficiency. A key component of our overall strategy is our internal foundry model. Under this model, we intend to reshape our operational dynamics and
+establish transparency and accountability through standalone profit and loss reporting for our manufacturing group in 2024. We expect this model to enable increased efficiencies
+across a number of aspects of our organization that we believe are integral to achieving our financial and operational goals. At the same time, we continue to prioritize capital
+investments critical to our efforts to regain process leadership and establish a leading-edge, at-scale foundry business.
+
+
+================================================================================
+Page 7 - Block ID: pymupdf_page_7_block_18
+Block Type: Text
+Bounding Box: {'x1': 54.54325485229492, 'y1': 1248.4410400390625, 'x2': 347.5309143066406, 'y2': 1262.7371826171875}
+================================================================================
+See "Non-GAAP Financial Measures" within MD&A.
+
+
+================================================================================
+Page 7 - Block ID: pymupdf_page_7_block_20
+Block Type: Text
+Bounding Box: {'x1': 432.0559387207031, 'y1': 623.730712890625, 'x2': 884.3237915039062, 'y2': 634.1912231445312}
+================================================================================
+GAAP
+non-GAAP
+GAAP
+non-GAAP
+1
+1
+1
+
+
+================================================================================
+Page 7 - Block ID: pymupdf_page_7_block_22
+Block Type: Text
+Bounding Box: {'x1': 127.18728637695312, 'y1': 1310.8629150390625, 'x2': 1175.589599609375, 'y2': 1325.1590576171875}
+================================================================================
+Fundamentals of Our Business
+5
+
+
+================================================================================
+Page 8 - Block ID: pymupdf_page_8_block_0
+Block Type: Text
+Bounding Box: {'x1': 1065.070068359375, 'y1': 38.16362380981445, 'x2': 1177.1788330078125, 'y2': 54.2567253112793}
+================================================================================
+Table of Contents
+
+
+================================================================================
+Page 8 - Block ID: pymupdf_page_8_block_1
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 88.33647155761719, 'x2': 262.82208251953125, 'y2': 106.21322631835938}
+================================================================================
+Delivering leadership products
+
+
+================================================================================
+Page 8 - Block ID: pymupdf_page_8_block_2
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 122.19292449951172, 'x2': 1138.7091064453125, 'y2': 173.09852600097656}
+================================================================================
+We seek to develop and offer leading products that will help enable a future in which every human can have more computing power and quicker access to data. We remain
+committed to our goal of delivering five technology nodes in four years to regain transistor performance and power performance leadership by 2025. This year, we achieved
+several key milestones on our product roadmap, including:
+
+
+================================================================================
+Page 8 - Block ID: pymupdf_page_8_block_3
+Block Type: Text
+Bounding Box: {'x1': 76.41336822509766, 'y1': 187.9712371826172, 'x2': 1156.490478515625, 'y2': 205.84799194335938}
+================================================================================
+▪
+We launched the Intel  Core™ Ultra processors, featuring our first integrated neural processing unit, for power-efficient AI acceleration and local inference on the PC.
+®
+
+
+================================================================================
+Page 8 - Block ID: pymupdf_page_8_block_4
+Block Type: Text
+Bounding Box: {'x1': 76.41336822509766, 'y1': 211.9790496826172, 'x2': 1125.26171875, 'y2': 247.52430725097656}
+================================================================================
+▪
+We introduced the 13th Gen Intel  Core™ mobile processor family, led by the launch of the first 24-core processor for laptops, and introduced the new Intel vPro
+Platform powered by the full lineup of 13th Gen Intel Core processors.
+®
+
+
+================================================================================
+Page 8 - Block ID: pymupdf_page_8_block_5
+Block Type: Text
+Bounding Box: {'x1': 76.41336822509766, 'y1': 253.9936981201172, 'x2': 1090.8575439453125, 'y2': 271.8704528808594}
+================================================================================
+▪
+We introduced the 14th Gen Intel  Core™ desktop processor family, delivering fast desktop frequencies and enhanced desktop experience for enthusiasts.
+®
+
+
+================================================================================
+Page 8 - Block ID: pymupdf_page_8_block_6
+Block Type: Text
+Bounding Box: {'x1': 76.41336822509766, 'y1': 278.0024719238281, 'x2': 1152.6990966796875, 'y2': 353.4993591308594}
+================================================================================
+▪
+We launched the 4th Gen Intel  Xeon  Scalable processors, a critical part of our heterogeneous hardware and software portfolio to accelerate real-world data center,
+cloud and edge workloads, including AI, and also launched the 4th Gen Intel Xeon Scalable processors with Intel  vRAN Boost, a new general-purpose chip that fully
+integrates Layer 1 acceleration into the Xeon SoC and is designed to eliminate the need for external accelerator cards.
+▪
+We launched the 5th Gen Intel  Xeon  Scalable processors for data center, cloud, and edge, with embedded capabilities for powering AI workloads.
+®
+®
+®
+®
+®
+
+
+================================================================================
+Page 8 - Block ID: pymupdf_page_8_block_7
+Block Type: Text
+Bounding Box: {'x1': 76.41336822509766, 'y1': 359.6304016113281, 'x2': 1076.6815185546875, 'y2': 377.5071716308594}
+================================================================================
+▪
+We introduced two new Intel  Arc™ Pro Graphics Processing Units, Intel Arc Pro A60 and Intel Pro A60M, and shipped Intel Arc Pro A40-based systems.
+®
+
+
+================================================================================
+Page 8 - Block ID: pymupdf_page_8_block_8
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 393.2427062988281, 'x2': 396.24395751953125, 'y2': 411.1194763183594}
+================================================================================
+Investing in leading-edge, at-scale manufacturing
+
+
+================================================================================
+Page 8 - Block ID: pymupdf_page_8_block_11
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 576.9067993164062, 'x2': 160.55056762695312, 'y2': 594.7835083007812}
+================================================================================
+Unlocking value
+
+
+================================================================================
+Page 8 - Block ID: pymupdf_page_8_block_20
+Block Type: Text
+Bounding Box: {'x1': 127.18728637695312, 'y1': 758.6696166992188, 'x2': 1175.589599609375, 'y2': 772.9656372070312}
+================================================================================
+Fundamentals of Our Business
+6
+
+
+================================================================================
+Page 9 - Block ID: pymupdf_page_9_block_0
+Block Type: Text
+Bounding Box: {'x1': 1065.070068359375, 'y1': 38.16362380981445, 'x2': 1177.1788330078125, 'y2': 54.2567253112793}
+================================================================================
+Table of Contents
+
+
+================================================================================
+Page 9 - Block ID: pymupdf_page_9_block_1
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 91.1465835571289, 'x2': 212.52169799804688, 'y2': 123.3327865600586}
+================================================================================
+Our Strategy
+
+
+================================================================================
+Page 9 - Block ID: pymupdf_page_9_block_2
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 145.0015106201172, 'x2': 1176.061279296875, 'y2': 247.52430725097656}
+================================================================================
+Technology permeates every aspect of our lives and is increasingly central to every aspect of human existence. As we look ahead to the next decade, we expect to see
+continued demand for processing power. Semiconductors are the underlying technology powering this digital expansion, and we are strategically positioning ourselves to create
+a resilient global semiconductor supply chain by investing in geographically balanced manufacturing capacity. The demand for compute is being accelerated by five superpowers:
+ubiquitous compute, pervasive connectivity, cloud-to-edge infrastructure, AI, and sensing. Together these superpowers combine to amplify and reinforce each other, and will
+exponentially increase the world's need for computing by packing even more processing capability onto ever-smaller microchips. We intend to lead the industry by harnessing
+these superpowers for our customers' growth and our own.
+
+
+================================================================================
+Page 9 - Block ID: pymupdf_page_9_block_3
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 263.84234619140625, 'x2': 1165.3023681640625, 'y2': 313.5477294921875}
+================================================================================
+We are uniquely positioned with the depth and breadth of our silicon, platforms, and software, and packaging and process technology with at-scale manufacturing. With these
+strengths and the tailwinds of the superpowers driving digital disruption, our strategy to win is focused on four key themes: product leadership, open platforms, manufacturing at
+scale, and our people.
+
+
+================================================================================
+Page 9 - Block ID: pymupdf_page_9_block_4
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 330.3207092285156, 'x2': 159.65516662597656, 'y2': 351.7781677246094}
+================================================================================
+Our Priorities
+
+
+================================================================================
+Page 9 - Block ID: pymupdf_page_9_block_5
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 795.3823852539062, 'x2': 187.948486328125, 'y2': 813.2590942382812}
+================================================================================
+Product Leadership
+
+
+================================================================================
+Page 9 - Block ID: pymupdf_page_9_block_6
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 830.4400024414062, 'x2': 1159.5115966796875, 'y2': 864.5389404296875}
+================================================================================
+Lead and democratize compute with Intel x86 and xPU. Our product offerings provide end-to-end solutions, scaling from data center to network, PCs, edge computing, and the
+emerging fields of AI and autonomous driving, to serve an increasingly smart and connected world.
+
+
+================================================================================
+Page 9 - Block ID: pymupdf_page_9_block_7
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 879.6567993164062, 'x2': 1163.6890869140625, 'y2': 930.5623779296875}
+================================================================================
+At our core is the x86 computing ecosystem, which supports an extensive and deep universe of software applications, with billions of lines of code written and optimized for x86
+CPUs. We continue to advance this ecosystem with x86 microarchitectures focused on performance, which push the limits of low latency and single-threaded application
+performance, and microarchitectures focused on efficiency, which are designed for computing throughput efficiency to enable scalable multithreaded performance.
+
+
+================================================================================
+Page 9 - Block ID: pymupdf_page_9_block_8
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 945.6802368164062, 'x2': 1165.8499755859375, 'y2': 996.5848388671875}
+================================================================================
+Beyond the CPU, we are delivering a growing family of xPU products, which encompass client and data center GPUs, IPUs, FPGAs, and other accelerators. The xPU approach
+recognizes that different workloads benefit from different computing architectures, and our broad portfolio helps meet our customers' increasingly diverse computing needs. As
+part of our strategy, we seek to develop and offer leading products across each of these architectural categories.
+
+
+================================================================================
+Page 9 - Block ID: pymupdf_page_9_block_9
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 1011.7026977539062, 'x2': 1165.920166015625, 'y2': 1132.2322998046875}
+================================================================================
+We also seek to address every phase of the AI continuum, including the largest, most challenging GenAI and large language models. We believe AI represents a generational
+shift in computing by expanding human abilities and solving the most challenging problems. We are in the early stages of realizing AI's full potential and GenAI is just the
+beginning. Our strategy is to bring AI to where the data is being generated and used and we believe we have a full spectrum of hardware and software platforms, offering open
+and modular solutions, for competitive total cost of ownership and time to value that customers need to win in this era of exponential growth and AI everywhere. We are infusing
+AI into Intel technologies, supporting today's GenAI workloads, fueling emerging usages like AI PC and AI at the edge, and pioneering innovations that we believe advance the
+future of AI in the next decade. We believe our leadership in IP, process, packaging, security, software, services, manufacturing, and foundry services positions us to realize AI's
+full potential to transform industries and solve the world's biggest challenges.
+
+
+================================================================================
+Page 9 - Block ID: pymupdf_page_9_block_10
+Block Type: Text
+Bounding Box: {'x1': 127.18728637695312, 'y1': 1194.4224853515625, 'x2': 1175.589599609375, 'y2': 1208.7186279296875}
+================================================================================
+Fundamentals of Our Business
+7
+
+
+================================================================================
+Page 10 - Block ID: pymupdf_page_10_block_0
+Block Type: Text
+Bounding Box: {'x1': 1065.070068359375, 'y1': 38.16362380981445, 'x2': 1177.1788330078125, 'y2': 54.2567253112793}
+================================================================================
+Table of Contents
+
+
+================================================================================
+Page 10 - Block ID: pymupdf_page_10_block_1
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 93.13822937011719, 'x2': 160.35037231445312, 'y2': 111.01498413085938}
+================================================================================
+Open Platforms
+
+
+================================================================================
+Page 10 - Block ID: pymupdf_page_10_block_2
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 138.9985809326172, 'x2': 1175.6497802734375, 'y2': 309.9451904296875}
+================================================================================
+We aim to deliver open software and hardware platforms with industry-defining standards. Around the globe, companies are building their networks, systems, and solutions on
+open standards-based platforms. Intel has helped set the stage for this movement, with our historic contributions in developing standards such as CXL, Thunderbolt™, and PCI
+Express*. We also contributed to the design, build, and validation of open-source products in the industry such as Linux*, Android*, and others. The world's developers constantly
+innovate and expand the capabilities of these open platforms while increasing their stability, reliability, and security. In addition, microservices have enabled the development of
+flexible, loosely coupled services that are connected via application programming interfaces to create end-to-end processes. We use industry collaboration, co-engineering, and
+open-source contributions to accelerate software innovation. Through our oneAPI initiative, developers use a unified language across CPUs, GPUs, and FPGAs that is designed
+to reduce development time and to enhance productivity. We also deliver a steady stream of open-source code and optimizations that are designed for projects across virtually
+every platform and usage model. We are committed to co-engineering and jointly designing, building, and validating new products with software industry leaders to accelerate
+mutual technology advancements and help new software and hardware work better together. Our commitment extends to developers through our developer-first approach based
+on openness, choice, and trust.
+
+
+================================================================================
+Page 10 - Block ID: pymupdf_page_10_block_3
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 326.26422119140625, 'x2': 1176.8935546875, 'y2': 428.7869873046875}
+================================================================================
+Ultimately, we believe our pivot to a software-defined, silicon-enhanced strategy will enable us to realize value at all layers of the compute stack. This should allow us to continue
+to monetize foundational and ecosystem-enabling software through hardware sales, limited licensing, and customer-enabling service offerings. Additionally, we are expanding our
+software portfolio by developing and monetizing software solutions, services, and platforms with SaaS, software subscriptions, and other business models. We are prioritizing
+three portfolios of offerings for our SaaS and subscription-based software: AI, trust and security, and performance optimization. We are also scaling the availability of Intel
+Developer Cloud, which is designed to enable developers to learn, prototype, test, and run their own AI workloads across multiple Intel hardware architectures to experience the
+competitive performance of Intel platforms and develop their AI software from today’s hardware portfolio to next-generation architectures.
+®
+
+
+================================================================================
+Page 10 - Block ID: pymupdf_page_10_block_4
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 443.90484619140625, 'x2': 1161.3670654296875, 'y2': 494.8104248046875}
+================================================================================
+An open approach and deep engagement with the developer ecosystem are essential to lowering barriers to entry and unlocking AI innovations for developers and customers.
+We are expediting an open AI software ecosystem that we believe is needed to break down proprietary walls. We offer customers, partners, and developers early access and a
+rapid path to scale their AI solutions with the Intel Developer Cloud and integrated and scalable hardware and software systems and solutions.
+
+
+================================================================================
+Page 10 - Block ID: pymupdf_page_10_block_5
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 509.92730712890625, 'x2': 1149.750244140625, 'y2': 560.8328857421875}
+================================================================================
+We believe AI will only be truly accessible to all when its use is ethical and responsible. Partnering with industry leaders, we are working to deliver innovative ecosystem tools
+and solutions intended to make AI safer and more secure, and help address privacy concerns as AI scales exponentially. We are building platforms and technologies for the
+convergence of AI and security to help customers confidently secure diverse AI workloads across the data center, cloud, PC, and edge.
+
+
+================================================================================
+Page 10 - Block ID: pymupdf_page_10_block_6
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 580.5073852539062, 'x2': 212.83807373046875, 'y2': 598.3840942382812}
+================================================================================
+Manufacturing at Scale
+
+
+================================================================================
+Page 10 - Block ID: pymupdf_page_10_block_7
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 616.7651977539062, 'x2': 813.6000366210938, 'y2': 632.8582763671875}
+================================================================================
+IDM 2.0, the next evolution and expansion of our IDM model, is a differentiated strategy that combines three capabilities:
+
+
+================================================================================
+Page 10 - Block ID: pymupdf_page_10_block_8
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 647.9761352539062, 'x2': 1153.286865234375, 'y2': 698.8807373046875}
+================================================================================
+Internal factory network. Our global, internal factory network has been foundational to our success, enabling product optimization, improved economics, and supply resilience.
+We intend to remain a leading developer of process technology and a major manufacturer of semiconductors and will continue to build the majority of our products in our
+factories.
+
+
+================================================================================
+Page 10 - Block ID: pymupdf_page_10_block_9
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 713.9985961914062, 'x2': 1171.7132568359375, 'y2': 764.9041748046875}
+================================================================================
+Strategic use of foundry capacity. We expect to expand our use of third-party foundry manufacturing capacity, which will provide us with increased flexibility and scale to optimize
+our product roadmaps for cost, performance, schedule, and supply. Our use of foundry capacity will include manufacturing for a range of modular tiles on advanced process
+technologies.
+
+
+================================================================================
+Page 10 - Block ID: pymupdf_page_10_block_10
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 781.2222290039062, 'x2': 1174.7039794921875, 'y2': 883.7449951171875}
+================================================================================
+Open System Foundry. We are building a world-class foundry business to meet the growing long-term global demand for semiconductors. We plan to differentiate our foundry
+offerings from those of others through a combination of leading-edge packaging and process technology, committed capacity in the US and Europe available for customers
+globally, and a world-class IP portfolio that will include x86 cores, as well as other ecosystem IP. The current foundry model enabled explosion of ecosystem innovation at the
+wafer level. We believe this established model has historically served the industry well, but a new mindset is needed in our new era of chipmaking. As innovation evolves, we see
+the rack has collapsed into a system and the system has collapsed into an advanced package. We are building out an Open System Foundry that has four components: wafer
+fabrication, packaging, chiplet standard, and software.
+
+
+================================================================================
+Page 10 - Block ID: pymupdf_page_10_block_11
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 898.8628540039062, 'x2': 1100.3790283203125, 'y2': 931.7625732421875}
+================================================================================
+The Open System Foundry involves engaging with customers at multiple levels, from basic wafer manufacturing to helping define and implement their desired system
+architectures. We intend to build our customers' silicon designs and deliver full end-to-end customizable products built with our advanced packaging technology.
+
+
+================================================================================
+Page 10 - Block ID: pymupdf_page_10_block_12
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 948.0806274414062, 'x2': 1152.06298828125, 'y2': 980.9793701171875}
+================================================================================
+We believe our IDM 2.0 strategy enables us to deliver leading process technology and products to meet growing long-term demand using internal and external capacity, while
+leveraging our core strengths to provide foundry services to others and providing superior capacity, supply resilience, and an advantageous cost structure.
+
+
+================================================================================
+Page 10 - Block ID: pymupdf_page_10_block_13
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 997.2974243164062, 'x2': 1166.4501953125, 'y2': 1047.0018310546875}
+================================================================================
+In the upcoming year, we plan to implement an internal foundry model, where our business units engage with our manufacturing group in an arm's-length fashion, similar to how
+fabless semiconductor companies engage with external foundries. The model is integral to our IDM 2.0 operational and financial strategies and aims to fully leverage our
+invested capital while serving a wide variety of chip customers worldwide.
+
+
+================================================================================
+Page 10 - Block ID: pymupdf_page_10_block_15
+Block Type: Text
+Bounding Box: {'x1': 127.18728637695312, 'y1': 1109.1920166015625, 'x2': 1175.589599609375, 'y2': 1123.4881591796875}
+================================================================================
+Fundamentals of Our Business
+8
+
+
+================================================================================
+Page 11 - Block ID: pymupdf_page_11_block_0
+Block Type: Text
+Bounding Box: {'x1': 1065.070068359375, 'y1': 38.16167068481445, 'x2': 1177.1788330078125, 'y2': 54.2547721862793}
+================================================================================
+Table of Contents
+
+
+================================================================================
+Page 11 - Block ID: pymupdf_page_11_block_1
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 88.57964324951172, 'x2': 1167.26416015625, 'y2': 174.29676818847656}
+================================================================================
+Recent events, including the pandemic-related global chip shortage, made clear how supply chain disruptions can severely impact everyday life. The steady rise of chipmaking
+capacity in Asia has made the world vulnerable to continued and increasingly extreme shortages. We believe a secure, balanced, and resilient supply of semiconductors is
+essential to the interests of the entire global economy. With one of the most geographically balanced supply chains across North America, Europe and Asia, we plan to partner
+with the public sector to strengthen the resilience of the global semiconductor supply chain by investing in a more geographically balanced capacity. We believe our investments
+will help develop a more resilient supply chain for generations to come and hedge against geopolitical instability.
+
+
+================================================================================
+Page 11 - Block ID: pymupdf_page_11_block_2
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 193.9712371826172, 'x2': 130.13058471679688, 'y2': 211.84799194335938}
+================================================================================
+Our People
+
+
+================================================================================
+Page 11 - Block ID: pymupdf_page_11_block_3
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 230.2290496826172, 'x2': 1166.17919921875, 'y2': 279.9334716796875}
+================================================================================
+Our world-class talent is at the heart of everything we do. Together we strive to have a positive effect on business, society, and the planet. Delivering on our strategy and growth
+ambitions requires attracting, developing, and retaining top talent from across the world. Our people build our technology, unlock new business opportunities, and work with our
+partners and customers to create global impact.
+
+
+================================================================================
+Page 11 - Block ID: pymupdf_page_11_block_4
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 296.25152587890625, 'x2': 1128.5003662109375, 'y2': 329.1512451171875}
+================================================================================
+Fostering a culture of empowerment, inclusion, and accountability is also core to our strategy. We are committed to creating an inclusive workplace where the world’s best
+engineers and technologists can fulfill their dreams and create technology that improves the life of every person on the planet.
+
+
+================================================================================
+Page 11 - Block ID: pymupdf_page_11_block_5
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 345.9242248535156, 'x2': 204.50279235839844, 'y2': 367.3816833496094}
+================================================================================
+Growth Imperative
+
+
+================================================================================
+Page 11 - Block ID: pymupdf_page_11_block_6
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 382.68218994140625, 'x2': 1168.327880859375, 'y2': 433.5867919921875}
+================================================================================
+We are investing to position the company for accelerated long-term growth, focusing on both our core businesses and our growth businesses. In our client and server
+businesses, our strategy is to invest to strengthen the competitiveness of our product roadmap and to explore new opportunities. We believe we have significant opportunities to
+grow and gain share in graphics; mobility, including autonomous driving; networking and edge; AI; software; and foundry services.
+
+
+================================================================================
+Page 11 - Block ID: pymupdf_page_11_block_7
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 449.1595764160156, 'x2': 347.61175537109375, 'y2': 470.6170349121094}
+================================================================================
+Focus on Innovation and Execution
+
+
+================================================================================
+Page 11 - Block ID: pymupdf_page_11_block_8
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 485.91754150390625, 'x2': 1173.72705078125, 'y2': 553.6287841796875}
+================================================================================
+We are focused on executing our product and process roadmap and accelerating our cadence of innovation. We have set a detailed process and packaging technology roadmap
+and announced key architectural innovations to further our goal of delivering leadership products in every area in which we compete. We are returning our culture to its roots in
+innovation and execution, drawing on principles established by our former CEO Andy Grove that emphasize discipline and accountability. This includes using OKRs throughout
+the organization to drive a common purpose.
+
+
+================================================================================
+Page 11 - Block ID: pymupdf_page_11_block_9
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 569.9468383789062, 'x2': 1156.832763671875, 'y2': 602.8465576171875}
+================================================================================
+To help us execute toward our IDM 2.0 strategy, we are leveraging our Smart Capital approach. This approach is designed to enable us to adjust quickly to opportunities in the
+market, while managing our margin structure and capital spending. The key elements of Smart Capital include:
+
+
+================================================================================
+Page 11 - Block ID: pymupdf_page_11_block_10
+Block Type: Text
+Bounding Box: {'x1': 76.41336822509766, 'y1': 617.9634399414062, 'x2': 1170.615234375, 'y2': 691.6766357421875}
+================================================================================
+▪
+Smart capacity investments. We are aggressively building out manufacturing shell space, which gives us flexibility in how and when we bring additional capacity online
+based on milestone triggers such as product readiness, market conditions, and customer commitments.
+▪
+Government incentives. We are continuing to work with governments in the US and Europe to advance and benefit from incentives for domestic manufacturing capacity
+for leading-edge semiconductors.
+
+
+================================================================================
+Page 11 - Block ID: pymupdf_page_11_block_11
+Block Type: Text
+Bounding Box: {'x1': 76.41336822509766, 'y1': 697.1919555664062, 'x2': 1152.409912109375, 'y2': 730.0906982421875}
+================================================================================
+▪
+SCIP. We are accessing strategically aligned capital to increase our flexibility and help efficiently accelerate and scale manufacturing build-outs. This type of co-
+investment also demonstrates how private capital is unlocked and becomes a force multiplier for government incentives for semiconductor manufacturing expansion.
+
+
+================================================================================
+Page 11 - Block ID: pymupdf_page_11_block_12
+Block Type: Text
+Bounding Box: {'x1': 76.41336822509766, 'y1': 736.8052368164062, 'x2': 1115.072998046875, 'y2': 769.7039794921875}
+================================================================================
+▪
+Customer commitments. IFS is working closely with potential customers to make advance payments to secure capacity. This provides us with the advantage of
+committed volume, de-risking investments while providing capacity corridors for our foundry customers.
+
+
+================================================================================
+Page 11 - Block ID: pymupdf_page_11_block_13
+Block Type: Text
+Bounding Box: {'x1': 76.41336822509766, 'y1': 776.4194946289062, 'x2': 963.2887573242188, 'y2': 792.5125732421875}
+================================================================================
+▪
+External foundries. We intend to continue our use of external foundries where their unique capabilities support our leadership products.
+
+
+================================================================================
+Page 11 - Block ID: pymupdf_page_11_block_14
+Block Type: Text
+Bounding Box: {'x1': 127.18728637695312, 'y1': 866.7057495117188, 'x2': 1175.589599609375, 'y2': 881.0017700195312}
+================================================================================
+Fundamentals of Our Business
+9
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_0
+Block Type: Text
+Bounding Box: {'x1': 1065.070068359375, 'y1': 38.16264724731445, 'x2': 1177.1788330078125, 'y2': 54.2557487487793}
+================================================================================
+Table of Contents
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_1
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 91.1456069946289, 'x2': 194.88998413085938, 'y2': 123.3318099975586}
+================================================================================
+Our Capital
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_2
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 145.0005340576172, 'x2': 1177.039306640625, 'y2': 161.09364318847656}
+================================================================================
+We deploy various forms of capital to execute our strategy in a way that seeks to reflect our corporate values, help our customers succeed, and create value for our stakeholders.
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_3
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 182.66934204101562, 'x2': 730.1976928710938, 'y2': 204.12680053710938}
+================================================================================
+Capital
+Strategy
+Value
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_4
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 211.0239715576172, 'x2': 106.83211517333984, 'y2': 227.11708068847656}
+================================================================================
+Financial
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_5
+Block Type: Text
+Bounding Box: {'x1': 187.78964233398438, 'y1': 235.0317840576172, 'x2': 635.3533325195312, 'y2': 279.9354248046875}
+================================================================================
+Leverage financial capital to invest in ourselves and exit businesses to
+optimize our portfolio, both to drive our strategy and long-term value
+creation.
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_6
+Block Type: Text
+Bounding Box: {'x1': 682.5118408203125, 'y1': 232.6313934326172, 'x2': 1142.604736328125, 'y2': 266.7303466796875}
+================================================================================
+We strategically invest financial capital to continue to build our business,
+create long-term value and provide returns to our stockholders.
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_7
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 287.85015869140625, 'x2': 118.05362701416016, 'y2': 303.9432373046875}
+================================================================================
+Intellectual
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_8
+Block Type: Text
+Bounding Box: {'x1': 187.78964233398438, 'y1': 316.66070556640625, 'x2': 669.0034790039062, 'y2': 367.5662841796875}
+================================================================================
+Invest significantly in R&D and IP to enable us to deliver
+on our accelerated process technology roadmap, introduce leading x86 and
+xPU products, and develop new businesses and capabilities.
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_9
+Block Type: Text
+Bounding Box: {'x1': 682.5118408203125, 'y1': 309.45758056640625, 'x2': 1162.389892578125, 'y2': 360.3631591796875}
+================================================================================
+We develop IP to enable next-generation products, create synergies across
+our businesses, expand into new markets, and establish and support our
+brands.
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_10
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 381.48297119140625, 'x2': 140.46783447265625, 'y2': 397.5760498046875}
+================================================================================
+Manufacturing
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_11
+Block Type: Text
+Bounding Box: {'x1': 187.78964233398438, 'y1': 403.09039306640625, 'x2': 671.3514404296875, 'y2': 453.9959716796875}
+================================================================================
+Build manufacturing capacity efficiently to
+meet the growing long-term global demand for semiconductors, aligned with
+our IDM 2.0 strategy.
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_12
+Block Type: Text
+Bounding Box: {'x1': 682.5118408203125, 'y1': 403.09039306640625, 'x2': 1151.711669921875, 'y2': 453.9959716796875}
+================================================================================
+Our geographically balanced manufacturing scope and scale enable us to
+provide our customers with a broad range of leading-edge products and
+foundry capabilities.
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_13
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 460.71148681640625, 'x2': 95.625, 'y2': 476.8045654296875}
+================================================================================
+Human
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_14
+Block Type: Text
+Bounding Box: {'x1': 187.78964233398438, 'y1': 490.72125244140625, 'x2': 676.9838256835938, 'y2': 524.8201904296875}
+================================================================================
+Build a diverse, inclusive, and safe work environment to attract, develop, and
+retain top talent needed to build transformative products.
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_15
+Block Type: Text
+Bounding Box: {'x1': 682.5118408203125, 'y1': 482.31890869140625, 'x2': 1157.3441162109375, 'y2': 533.2225341796875}
+================================================================================
+Our talented employees enable the development of solutions and enhance
+the intellectual and manufacturing capital critical to helping our customers
+win the technology inflections of the future.
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_16
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 539.9380493164062, 'x2': 199.7156524658203, 'y2': 556.0311279296875}
+================================================================================
+Social and Relationship
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_17
+Block Type: Text
+Bounding Box: {'x1': 187.78964233398438, 'y1': 579.5513305664062, 'x2': 643.304931640625, 'y2': 612.4510498046875}
+================================================================================
+Build trusted relationships for both Intel and our stakeholders, including
+employees, suppliers, customers, local communities, and governments.
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_18
+Block Type: Text
+Bounding Box: {'x1': 682.5118408203125, 'y1': 561.5454711914062, 'x2': 1173.11474609375, 'y2': 629.2576904296875}
+================================================================================
+We collaborate with stakeholders on programs to empower underserved
+communities through education and technology, and on initiatives to advance
+accountability and capabilities across our global supply chain, including
+accountability for the respect of human rights.
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_19
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 635.9712524414062, 'x2': 95.62500762939453, 'y2': 652.0643310546875}
+================================================================================
+Natural
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_20
+Block Type: Text
+Bounding Box: {'x1': 187.78964233398438, 'y1': 667.1821899414062, 'x2': 675.9602661132812, 'y2': 700.0819091796875}
+================================================================================
+Strive to reduce our environmental footprint through efficient and responsible
+use of natural resources and materials used to create our products.
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_21
+Block Type: Text
+Bounding Box: {'x1': 682.5118408203125, 'y1': 658.7798461914062, 'x2': 1150.638916015625, 'y2': 708.4842529296875}
+================================================================================
+With our proactive efforts, we seek to mitigate climate and water impacts,
+achieve efficiencies, lower costs, and position ourselves to respond to the
+expectations of our stakeholders.
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_22
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 736.0618896484375, 'x2': 612.2798461914062, 'y2': 757.5194091796875}
+================================================================================
+Comprehensive ESG and Corporate Responsibility Strategy: RISE
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_23
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 774.0200805664062, 'x2': 1117.0281982421875, 'y2': 823.7244873046875}
+================================================================================
+Our commitment to corporate responsibility and sustainability leadership is deeply integrated throughout our business. We strive to create an inclusive and positive work
+environment where every employee has a voice and a sense of belonging, and we are proactive in our efforts to reduce our environmental footprint through efficient and
+responsible use of natural resources and materials.
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_24
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 840.0435180664062, 'x2': 1173.3115234375, 'y2': 924.5604248046875}
+================================================================================
+We continue to raise the bar for ourselves and leverage our leadership position in the global technology ecosystem to make greater strides in corporate responsibility and apply
+technology to address social and environmental challenges. Through our RISE strategy, we aim to create a more responsible, inclusive, and sustainable world, enabled by
+our technology and the expertise and passion of our employees. Our corporate responsibility strategy is designed to increase the scale of our work through collaboration with our
+stakeholders and other organizations; we know that we cannot achieve the broad social impact to which we aspire by acting alone. More information about our RISE goals,
+including progress we have made toward achieving them, is included in our Corporate Responsibility Report .
+1
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_25
+Block Type: Text
+Bounding Box: {'x1': 54.54325485229492, 'y1': 1157.2086181640625, 'x2': 917.035888671875, 'y2': 1171.5047607421875}
+================================================================================
+The contents of our Corporate Responsibility Report are referenced for general information only and are not incorporated by reference in this Form 10-K.
+
+
+================================================================================
+Page 12 - Block ID: pymupdf_page_12_block_28
+Block Type: Text
+Bounding Box: {'x1': 70.7489013671875, 'y1': 1216.0289306640625, 'x2': 1175.59521484375, 'y2': 1232.6541748046875}
+================================================================================
+Fundamentals of Our Business
+Our Capital
+10
+
+
+================================================================================
+Page 13 - Block ID: pymupdf_page_13_block_0
+Block Type: Text
+Bounding Box: {'x1': 1065.070068359375, 'y1': 38.16460037231445, 'x2': 1177.1788330078125, 'y2': 54.2577018737793}
+================================================================================
+Table of Contents
+
+
+================================================================================
+Page 13 - Block ID: pymupdf_page_13_block_1
+Block Type: Text
+Bounding Box: {'x1': 112.51968383789062, 'y1': 105.35292053222656, 'x2': 278.0758972167969, 'y2': 130.377685546875}
+================================================================================
+Financial Capital
+
+
+================================================================================
+Page 13 - Block ID: pymupdf_page_13_block_2
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 159.4067840576172, 'x2': 1165.8662109375, 'y2': 245.12294006347656}
+================================================================================
+We take a disciplined approach to our financial capital allocation strategy, which continues to focus on building stakeholder value and is driven by our priority to invest in the
+business and capacity and our capital needs. We also seek to pay competitive dividends, optimize our portfolio, look for innovative ways to unlock value across our assets, and,
+from time-to-time, engage in mergers and acquisitions. As we invest in our IDM 2.0 strategy and implement our next phase of capacity expansions and the acceleration of our
+process technology roadmap, our allocation priorities have shifted more heavily toward investing in the business and away from stock repurchases. In the long term, we will
+continue to look for opportunities to further our strategy through acquisitions while remaining disciplined on capital allocation.
+
+
+================================================================================
+Page 13 - Block ID: pymupdf_page_13_block_3
+Block Type: Text
+Bounding Box: {'x1': 367.34588623046875, 'y1': 264.7973937988281, 'x2': 606.5484008789062, 'y2': 282.6741638183594}
+================================================================================
+Cash from Operating Activities $B
+
+
+================================================================================
+Page 13 - Block ID: pymupdf_page_13_block_4
+Block Type: Text
+Bounding Box: {'x1': 291.1756286621094, 'y1': 460.96649169921875, 'x2': 642.293212890625, 'y2': 475.2625427246094}
+================================================================================
+■ Cash from Operating Activities
+■ Adjusted Free Cash Flow
+
+
+================================================================================
+Page 13 - Block ID: pymupdf_page_13_block_5
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 492.3763732910156, 'x2': 391.3464660644531, 'y2': 513.8338623046875}
+================================================================================
+Our Financial Capital Allocation Strategy
+
+
+================================================================================
+Page 13 - Block ID: pymupdf_page_13_block_6
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 528.8892211914062, 'x2': 203.23861694335938, 'y2': 546.7659301757812}
+================================================================================
+Invest in the Business
+
+
+================================================================================
+Page 13 - Block ID: pymupdf_page_13_block_7
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 557.9458618164062, 'x2': 1158.445556640625, 'y2': 590.8436279296875}
+================================================================================
+Our first allocation priority is to invest in R&D and capital spending to capitalize on the opportunity presented by the world's demand for semiconductors. In 2023, we continued
+our focus on capital investment and the deployment of our Smart Capital strategy.
+
+
+================================================================================
+Page 13 - Block ID: pymupdf_page_13_block_8
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 606.9165649414062, 'x2': 308.1560974121094, 'y2': 624.7932739257812}
+================================================================================
+Return Excess Cash to Stockholders
+
+
+================================================================================
+Page 13 - Block ID: pymupdf_page_13_block_9
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 635.9712524414062, 'x2': 1159.4693603515625, 'y2': 703.6834716796875}
+================================================================================
+Our capital allocation strategy includes returning excess cash to stockholders. We achieve this through our dividend policy and, when permissible, stock repurchases. In 2023,
+we declared a reduced quarterly dividend on our common stock. This dividend reduction reflects our deliberate approach to capital allocation, is expected to support the critical
+investments needed to execute our business strategy, and is designed to position us to create long-term value. We expect future stock repurchases to continue to be curtailed
+during this time of meaningful investment in capital.
+
+
+================================================================================
+Page 13 - Block ID: pymupdf_page_13_block_10
+Block Type: Text
+Bounding Box: {'x1': 142.06121826171875, 'y1': 723.3579711914062, 'x2': 797.5474243164062, 'y2': 741.2346801757812}
+================================================================================
+R&D and Capital Investments $B
+Cash to Stockholders $B
+
+
+================================================================================
+Page 13 - Block ID: pymupdf_page_13_block_12
+Block Type: Text
+Bounding Box: {'x1': 185.31378173828125, 'y1': 942.3336791992188, 'x2': 754.2415771484375, 'y2': 956.6296997070312}
+================================================================================
+■ R&D
+■ Logic
+■ Memory
+■ Repurchases
+■ Dividend
+2
+
+
+================================================================================
+Page 13 - Block ID: pymupdf_page_13_block_13
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 971.8442993164062, 'x2': 330.09808349609375, 'y2': 989.7210083007812}
+================================================================================
+Optimize our Portfolio and Unlock Value
+
+
+================================================================================
+Page 13 - Block ID: pymupdf_page_13_block_14
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 1000.8989868164062, 'x2': 1138.670166015625, 'y2': 1033.7987060546875}
+================================================================================
+Our capital allocation strategy also includes opportunistic investment in and acquisition of companies that complement our strategic objectives. We look for acquisitions that
+supplement and strengthen our capital and R&D investments.
+
+
+================================================================================
+Page 13 - Block ID: pymupdf_page_13_block_15
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 1044.11376953125, 'x2': 1157.1846923828125, 'y2': 1095.0194091796875}
+================================================================================
+We also seek to drive value creation through transactions such as the 2022 Mobileye IPO, the 2023 minority stake sales in IMS, and the 2023 announcement of our intent to
+operate PSG as a standalone business which we expect to enable potential private and public equity investments. Together, these transactions provide an additional source of
+capital to support the critical investments needed to advance our business strategy.
+
+
+================================================================================
+Page 13 - Block ID: pymupdf_page_13_block_16
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 1105.33642578125, 'x2': 1136.95458984375, 'y2': 1139.4354248046875}
+================================================================================
+Lastly, we take action when investments do not strategically align to our key priorities. In the last three years, we exited numerous businesses, including the NAND memory
+business and Intel  Optane™ memory business.
+®
+
+
+================================================================================
+Page 13 - Block ID: pymupdf_page_13_block_17
+Block Type: Text
+Bounding Box: {'x1': 54.54325485229492, 'y1': 1154.8082275390625, 'x2': 347.5309143066406, 'y2': 1169.1043701171875}
+================================================================================
+See "Non-GAAP Financial Measures" within MD&A.
+
+
+================================================================================
+Page 13 - Block ID: pymupdf_page_13_block_18
+Block Type: Text
+Bounding Box: {'x1': 54.54325485229492, 'y1': 1175.2144775390625, 'x2': 1167.3944091796875, 'y2': 1205.1160888671875}
+================================================================================
+2021-2023 capital investments in Memory are not presented due to the divestiture of the NAND memory business announced in October 2020. 2019 and 2020 capital investments presented include
+Memory.
+
+
+================================================================================
+Page 13 - Block ID: pymupdf_page_13_block_24
+Block Type: Text
+Bounding Box: {'x1': 70.7489013671875, 'y1': 1254.4429931640625, 'x2': 1175.60205078125, 'y2': 1271.0682373046875}
+================================================================================
+Fundamentals of Our Business
+Our Capital
+11
+
+
+================================================================================
+Page 14 - Block ID: pymupdf_page_14_block_0
+Block Type: Text
+Bounding Box: {'x1': 1070.115478515625, 'y1': 38.41571044921875, 'x2': 1177.18603515625, 'y2': 52.71175003051758}
+================================================================================
+Table of Contents
+
+
+================================================================================
+Page 14 - Block ID: pymupdf_page_14_block_1
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 88.57671356201172, 'x2': 700.3029174804688, 'y2': 104.66981506347656}
+================================================================================
+When assessing our current sources of liquidity, we include our total cash and investments  as follows:
+1
+
+
+================================================================================
+Page 14 - Block ID: pymupdf_page_14_block_2
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 123.38921356201172, 'x2': 1153.0206298828125, 'y2': 139.48231506347656}
+================================================================================
+(In Millions)
+Dec 30, 2023
+Dec 31, 2022
+
+
+================================================================================
+Page 14 - Block ID: pymupdf_page_14_block_3
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 144.9985809326172, 'x2': 1174.730224609375, 'y2': 163.49012756347656}
+================================================================================
+Cash and cash equivalents
+$
+7,079 
+$
+11,144
+
+
+================================================================================
+Page 14 - Block ID: pymupdf_page_14_block_4
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 167.8032684326172, 'x2': 1174.7305908203125, 'y2': 205.50575256347656}
+================================================================================
+Short-term investments
+17,955 
+17,194 
+Loans receivable and other
+5 
+463
+
+
+================================================================================
+Page 14 - Block ID: pymupdf_page_14_block_5
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 211.0220184326172, 'x2': 1174.730224609375, 'y2': 229.51356506347656}
+================================================================================
+Total cash and investments
+$
+25,039 
+$
+28,801 
+1
+
+
+================================================================================
+Page 14 - Block ID: pymupdf_page_14_block_6
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 236.2329559326172, 'x2': 1174.730224609375, 'y2': 255.92762756347656}
+================================================================================
+Total debt
+$
+49,266 
+$
+42,051
+
+
+================================================================================
+Page 14 - Block ID: pymupdf_page_14_block_7
+Block Type: Text
+Bounding Box: {'x1': 54.54325485229492, 'y1': 282.10321044921875, 'x2': 347.5309143066406, 'y2': 296.3992614746094}
+================================================================================
+See "Non-GAAP Financial Measures" within MD&A.
+
+
+================================================================================
+Page 14 - Block ID: pymupdf_page_14_block_8
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 311.85797119140625, 'x2': 1134.920654296875, 'y2': 344.7557373046875}
+================================================================================
+We maintain a diverse investment portfolio that we continually analyze based on issuer, industry, and country. Substantially all of our investments in debt instruments are in
+investment-grade securities.
+
+
+================================================================================
+Page 14 - Block ID: pymupdf_page_14_block_11
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 614.3657836914062, 'x2': 1175.702880859375, 'y2': 716.8885498046875}
+================================================================================
+Our cash and investments and related cash flows may be affected by certain discretionary actions we may take with customers and suppliers to accelerate or delay certain cash
+receipts or payments to manage liquidity, among other factors, for our strategic business requirements. In 2023 these actions included, among others, negotiating with suppliers
+to optimize our payment terms and conditions, adjusting the amounts and timing of cash flows associated with customer sales programs and collections, managing inventory
+levels and purchasing practices, and selling certain of our accounts receivable on a non-recourse basis to third-party financial institutions. While such actions have benefited, and
+may further benefit, cash flow in the near term, we may experience a corresponding detriment to cash flow in future periods as these actions cease or as the impacts of these
+actions reverse or normalize.
+
+
+================================================================================
+Page 14 - Block ID: pymupdf_page_14_block_12
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 732.0064086914062, 'x2': 349.41717529296875, 'y2': 748.0994873046875}
+================================================================================
+Our cash flows for each period were as follows:
+
+
+================================================================================
+Page 14 - Block ID: pymupdf_page_14_block_13
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 766.8189086914062, 'x2': 1153.1707763671875, 'y2': 782.9119873046875}
+================================================================================
+Years Ended (In Millions)
+Dec 30, 2023
+Dec 31, 2022
+Dec 25, 2021
+
+
+================================================================================
+Page 14 - Block ID: pymupdf_page_14_block_15
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 902.9173583984375, 'x2': 211.99832153320312, 'y2': 924.3748779296875}
+================================================================================
+Operating Activities
+
+
+================================================================================
+Page 14 - Block ID: pymupdf_page_14_block_16
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 939.6782836914062, 'x2': 837.8190307617188, 'y2': 955.7713623046875}
+================================================================================
+Cash provided by operating activities is net income adjusted for certain non-cash items and changes in assets and liabilities.
+
+
+================================================================================
+Page 14 - Block ID: pymupdf_page_14_block_22
+Block Type: Text
+Bounding Box: {'x1': 127.18728637695312, 'y1': 1133.1968994140625, 'x2': 1175.59521484375, 'y2': 1147.4930419921875}
+================================================================================
+MD&A
+43
+
+
+================================================================================
+Page 15 - Block ID: pymupdf_page_15_block_0
+Block Type: Text
+Bounding Box: {'x1': 1070.115478515625, 'y1': 38.41571044921875, 'x2': 1177.18603515625, 'y2': 52.71175003051758}
+================================================================================
+Table of Contents
+
+
+================================================================================
+Page 15 - Block ID: pymupdf_page_15_block_1
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 102.94862365722656, 'x2': 358.3730773925781, 'y2': 127.97339630126953}
+================================================================================
+Non-GAAP Financial Measures
+
+
+================================================================================
+Page 15 - Block ID: pymupdf_page_15_block_2
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 143.7954559326172, 'x2': 1154.610107421875, 'y2': 212.70887756347656}
+================================================================================
+In addition to disclosing financial results in accordance with US GAAP, this document contains references to the non-GAAP financial measures below. We believe these non-
+GAAP financial measures provide investors with useful supplemental information about our operating performance, enable comparison of financial trends and results between
+periods where certain items may vary independent of business performance, and allow for greater transparency with respect to key metrics used by management in operating
+our business and measuring our performance. These non-GAAP financial measures are used in our performance-based RSUs and our cash bonus plans.
+
+
+================================================================================
+Page 15 - Block ID: pymupdf_page_15_block_3
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 227.8267059326172, 'x2': 1175.5286865234375, 'y2': 365.1619873046875}
+================================================================================
+Our non-GAAP financial measures reflect adjustments based on one or more of the following items, as well as the related income tax effects. Beginning in 2023, income tax
+effects are calculated using a fixed long-term projected tax rate of 13% across all adjustments. We project this long-term non-GAAP tax rate on an annual basis using a five-year
+non-GAAP financial projection that excludes the income tax effects of each adjustment. The projected non-GAAP tax rate also considers factors such as our tax structure, our tax
+positions in various jurisdictions, and key legislation in significant jurisdictions where we operate. This long-term non-GAAP tax rate may be subject to change for a variety of
+reasons, including the rapidly evolving global tax environment, significant changes in our geographic earnings mix, or changes to our strategy or business operations.
+Management uses this non-GAAP tax rate in managing internal short- and long-term operating plans and in evaluating our performance; we believe this approach facilitates
+comparison of our operating results and provides useful evaluation of our current operating performance. Prior-period non-GAAP financial measures have been retroactively
+adjusted to reflect this updated approach.
+
+
+================================================================================
+Page 15 - Block ID: pymupdf_page_15_block_4
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 382.67828369140625, 'x2': 1169.6605224609375, 'y2': 416.7791748046875}
+================================================================================
+Our non-GAAP financial measures should not be considered a substitute for, or superior to, financial measures calculated in accordance with US GAAP, and the financial results
+calculated in accordance with US GAAP and reconciliations from these results should be carefully evaluated.
+
+
+================================================================================
+Page 15 - Block ID: pymupdf_page_15_block_5
+Block Type: Text
+Bounding Box: {'x1': 54.63703918457031, 'y1': 437.89703369140625, 'x2': 209.63426208496094, 'y2': 453.9901123046875}
+================================================================================
+Non-GAAP adjustment
+
+
+================================================================================
+Page 15 - Block ID: pymupdf_page_15_block_6
+Block Type: Text
+Bounding Box: {'x1': 50.39806365966797, 'y1': 455.90484619140625, 'x2': 1078.9183349609375, 'y2': 494.8026123046875}
+================================================================================
+or measure
+Definition
+Usefulness to management and investors
+NAND memory business We completed the first closing of the divestiture of our NAND memory
+We exclude the impact of our NAND memory business in ce
+
+
+================================================================================
+Page 15 - Block ID: pymupdf_page_15_block_7
+Block Type: Text
+Bounding Box: {'x1': 218.2689971923828, 'y1': 495.51422119140625, 'x2': 685.8700561523438, 'y2': 529.6151123046875}
+================================================================================
+business to SK hynix on December 29, 2021 and fully deconsolidated our
+ongoing interests in the NAND OpCo Business in Q1 2022.
+
+
+================================================================================
+Page 15 - Block ID: pymupdf_page_15_block_8
+Block Type: Text
+Bounding Box: {'x1': 698.492431640625, 'y1': 478.70953369140625, 'x2': 1171.682373046875, 'y2': 650.8572998046875}
+================================================================================
+We exclude the impact of our NAND memory business in certain non-
+GAAP measures. While the second closing of the sale is still pending and
+subject to closing conditions, we deconsolidated this business in Q1 2022
+and management does not view the historical results of the business as a
+part of our core operations. We believe these adjustments provide
+investors with a useful view, through the eyes of management, of our core
+business model and how management currently evaluates core
+operational performance. In making these adjustments, we have not made
+any changes to our methods for measuring and calculating revenue or
+other financial statement amounts.
+
+
+================================================================================
+Page 15 - Block ID: pymupdf_page_15_block_9
+Block Type: Text
+Bounding Box: {'x1': 50.39806365966797, 'y1': 657.5767211914062, 'x2': 168.8793182373047, 'y2': 690.4744873046875}
+================================================================================
+Acquisition-related
+adjustments
+
+
+================================================================================
+Page 15 - Block ID: pymupdf_page_15_block_10
+Block Type: Text
+Bounding Box: {'x1': 218.2689971923828, 'y1': 657.5767211914062, 'x2': 689.0535888671875, 'y2': 794.9119873046875}
+================================================================================
+Amortization of acquisition-related intangible assets consists of
+amortization of intangible assets such as developed technology, brands,
+and customer relationships acquired in connection with business
+combinations. Charges related to the amortization of these intangibles are
+recorded within both cost of sales and MG&A in our US GAAP financial
+statements. Amortization charges are recorded over the estimated useful
+life of the related acquired intangible asset, and thus are generally
+recorded over multiple years.
+
+
+================================================================================
+Page 15 - Block ID: pymupdf_page_15_block_11
+Block Type: Text
+Bounding Box: {'x1': 698.492431640625, 'y1': 657.5767211914062, 'x2': 1169.0462646484375, 'y2': 776.9041748046875}
+================================================================================
+We exclude amortization charges for our acquisition-related intangible
+assets for purposes of calculating certain non-GAAP measures because
+these charges are inconsistent in size and are significantly impacted by
+the timing and valuation of our acquisitions. These adjustments facilitate a
+useful evaluation of our current operating performance and comparison to
+our past operating performance and provide investors with additional
+means to evaluate cost and expense trends.
+
+
+================================================================================
+Page 15 - Block ID: pymupdf_page_15_block_12
+Block Type: Text
+Bounding Box: {'x1': 50.39806365966797, 'y1': 801.6235961914062, 'x2': 140.06927490234375, 'y2': 834.5213623046875}
+================================================================================
+Share-based
+compensation
+
+
+================================================================================
+Page 15 - Block ID: pymupdf_page_15_block_13
+Block Type: Text
+Bounding Box: {'x1': 218.2689971923828, 'y1': 801.6235961914062, 'x2': 677.039794921875, 'y2': 834.5213623046875}
+================================================================================
+Share-based compensation consists of charges related to our employee
+equity incentive plans.
+
+
+================================================================================
+Page 15 - Block ID: pymupdf_page_15_block_14
+Block Type: Text
+Bounding Box: {'x1': 698.492431640625, 'y1': 801.6235961914062, 'x2': 1173.295654296875, 'y2': 955.7635498046875}
+================================================================================
+We exclude charges related to share-based compensation for purposes of
+calculating certain non-GAAP measures because we believe these
+adjustments provide better comparability to peer company results and
+because these charges are not viewed by management as part of our core
+operating performance. We believe these adjustments provide investors
+with a useful view, through the eyes of management, of our core business
+model, how management currently evaluates core operational
+performance, and additional means to evaluate expense trends, including
+in comparison to other peer companies.
+
+
+================================================================================
+Page 15 - Block ID: pymupdf_page_15_block_15
+Block Type: Text
+Bounding Box: {'x1': 127.18728637695312, 'y1': 1025.1578369140625, 'x2': 1175.59521484375, 'y2': 1039.4539794921875}
+================================================================================
+MD&A
+45
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_0
+Block Type: Text
+Bounding Box: {'x1': 1070.115478515625, 'y1': 38.42352294921875, 'x2': 1177.18603515625, 'y2': 52.71956253051758}
+================================================================================
+Table of Contents
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_1
+Block Type: Text
+Bounding Box: {'x1': 54.61827850341797, 'y1': 94.58452606201172, 'x2': 209.61550903320312, 'y2': 110.67762756347656}
+================================================================================
+Non-GAAP adjustment
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_2
+Block Type: Text
+Bounding Box: {'x1': 93.2754898071289, 'y1': 111.38921356201172, 'x2': 1078.9183349609375, 'y2': 129.88075256347656}
+================================================================================
+or measure
+Definition
+Usefulness to management and investors
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_3
+Block Type: Text
+Bounding Box: {'x1': 50.39806365966797, 'y1': 135.3970184326172, 'x2': 686.6104736328125, 'y2': 219.91981506347656}
+================================================================================
+Patent settlement
+A portion of the charge from our IP settlements represents a catch-up of
+cumulative amortization that would have been incurred for the right to use
+the related patents in prior periods. This charge related to prior periods is
+excluded from our non-GAAP results; amortization related to the right to
+use the patents in the current and ongoing periods is included.
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_4
+Block Type: Text
+Bounding Box: {'x1': 698.492431640625, 'y1': 135.3970184326172, 'x2': 1152.9959716796875, 'y2': 203.10731506347656}
+================================================================================
+We exclude the catch-up charge related to prior periods for purposes of
+calculating certain non-GAAP measures because this adjustment
+facilitates comparison to past operating results and provides a useful
+evaluation of our current operating performance.
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_5
+Block Type: Text
+Bounding Box: {'x1': 50.39806365966797, 'y1': 227.8345184326172, 'x2': 160.09225463867188, 'y2': 260.7322998046875}
+================================================================================
+Optane inventory
+impairment
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_6
+Block Type: Text
+Bounding Box: {'x1': 218.2314910888672, 'y1': 227.8345184326172, 'x2': 641.8082275390625, 'y2': 260.7322998046875}
+================================================================================
+A charge in 2022 as we initiated the wind-down of our Intel Optane
+memory business.
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_7
+Block Type: Text
+Bounding Box: {'x1': 698.492431640625, 'y1': 227.8345184326172, 'x2': 1157.02001953125, 'y2': 312.3494873046875}
+================================================================================
+We exclude these impairments for purposes of calculating certain non-
+GAAP measures because these charges do not reflect our current
+operating performance. This adjustment facilitates a useful evaluation of
+our current operating performance and comparisons to past operating
+results.
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_8
+Block Type: Text
+Bounding Box: {'x1': 50.39806365966797, 'y1': 320.26422119140625, 'x2': 200.91604614257812, 'y2': 353.1619873046875}
+================================================================================
+Restructuring and other
+charges
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_9
+Block Type: Text
+Bounding Box: {'x1': 218.2314910888672, 'y1': 320.26422119140625, 'x2': 692.009521484375, 'y2': 474.4041748046875}
+================================================================================
+Restructuring charges are costs associated with a formal restructuring
+plan and are primarily related to employee severance and benefit
+arrangements. Other charges may include periodic goodwill and asset
+impairments, certain pension charges, and costs associated with
+restructuring activity. 2023 includes a benefit as a result of developments
+in the VLSI litigation in Q4 2023, an EC-imposed fine, and a fee related to
+the termination of our agreement to acquire Tower. 2022 includes a benefit
+related to the annulled EC fine and 2021 includes a charge related to the
+VLSI litigation.
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_10
+Block Type: Text
+Bounding Box: {'x1': 698.492431640625, 'y1': 320.26422119140625, 'x2': 1167.40087890625, 'y2': 422.7869873046875}
+================================================================================
+We exclude restructuring and other charges, including any adjustments to
+charges recorded in prior periods, for purposes of calculating certain non-
+GAAP measures because these costs do not reflect our core operating
+performance. These adjustments facilitate a useful evaluation of our core
+operating performance and comparisons to past operating results and
+provide investors with additional means to evaluate expense trends.
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_11
+Block Type: Text
+Bounding Box: {'x1': 50.39806365966797, 'y1': 490.72515869140625, 'x2': 204.90625, 'y2': 524.8182373046875}
+================================================================================
+(Gains) losses on equity
+investments, net
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_12
+Block Type: Text
+Bounding Box: {'x1': 218.2314910888672, 'y1': 490.72515869140625, 'x2': 666.5586547851562, 'y2': 558.4354248046875}
+================================================================================
+(Gains) losses on equity investments, net consists of ongoing mark-to-
+market adjustments on marketable equity securities, observable price
+adjustments on non-marketable equity securities, related impairment
+charges, and the sale of equity investments and other.
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_13
+Block Type: Text
+Bounding Box: {'x1': 698.492431640625, 'y1': 490.72515869140625, 'x2': 1158.6016845703125, 'y2': 558.4354248046875}
+================================================================================
+We exclude these non-operating gains and losses for purposes of
+calculating certain non-GAAP measures because it provides better
+comparability between periods. The exclusion reflects how management
+evaluates the core operations of the business.
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_14
+Block Type: Text
+Bounding Box: {'x1': 50.39806365966797, 'y1': 566.3501586914062, 'x2': 175.26072692871094, 'y2': 599.2479248046875}
+================================================================================
+(Gains) losses from
+divestiture
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_15
+Block Type: Text
+Bounding Box: {'x1': 218.2314910888672, 'y1': 566.3501586914062, 'x2': 690.62939453125, 'y2': 685.6776123046875}
+================================================================================
+(Gains) losses are recognized at the close of a divestiture, or over a
+specified deferral period when deferred consideration is received at the
+time of closing. Based on our ongoing obligation under the NAND wafer
+manufacturing and sale agreement entered into in connection with the first
+closing of the sale of our NAND memory business on December 29, 2021,
+a portion of the initial closing consideration was deferred and will be
+recognized between first and second closing.
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_16
+Block Type: Text
+Bounding Box: {'x1': 698.492431640625, 'y1': 566.3501586914062, 'x2': 1163.673095703125, 'y2': 650.8651123046875}
+================================================================================
+We exclude gains or losses resulting from divestitures for purposes of
+calculating certain non-GAAP measures because they do not reflect our
+current operating performance. These adjustments facilitate a useful
+evaluation of our current operating performance and comparisons to past
+operating results.
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_18
+Block Type: Text
+Bounding Box: {'x1': 698.492431640625, 'y1': 692.3892211914062, 'x2': 1170.069091796875, 'y2': 846.5369873046875}
+================================================================================
+This non-GAAP financial measure is helpful in understanding our capital
+requirements and sources of liquidity by providing an additional means to
+evaluate the cash flow trends of our business. Since the 2017 divestiture,
+McAfee equity distributions and sales contributed to prior operating and
+free cash flow, and while the McAfee equity sale in Q1 2022 would have
+typically been excluded from adjusted free cash flow as an equity sale, we
+believe including the sale proceeds in adjusted free cash flow facilitate a
+better, more consistent comparison to current and past presentations of
+liquidity.
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_19
+Block Type: Text
+Bounding Box: {'x1': 50.39806365966797, 'y1': 854.4517211914062, 'x2': 143.28158569335938, 'y2': 887.3494873046875}
+================================================================================
+Total cash and
+investments
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_20
+Block Type: Text
+Bounding Box: {'x1': 218.2314910888672, 'y1': 854.4517211914062, 'x2': 680.2002563476562, 'y2': 904.1541748046875}
+================================================================================
+Total cash and investments is used by management when assessing our
+sources of liquidity, which include cash and cash equivalents, short-term
+investments, and loans receivable and other.
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_21
+Block Type: Text
+Bounding Box: {'x1': 698.492431640625, 'y1': 854.4517211914062, 'x2': 1167.392578125, 'y2': 887.3494873046875}
+================================================================================
+This non-GAAP measure is helpful in understanding our capital resources
+and liquidity position.
+
+
+================================================================================
+Page 16 - Block ID: pymupdf_page_16_block_22
+Block Type: Text
+Bounding Box: {'x1': 127.18728637695312, 'y1': 973.5485229492188, 'x2': 1175.59521484375, 'y2': 987.8445434570312}
+================================================================================
+MD&A
+46
+
+
+================================================================================
+Page 17 - Block ID: pymupdf_page_17_block_0
+Block Type: Text
+Bounding Box: {'x1': 1070.115478515625, 'y1': 38.41571044921875, 'x2': 1177.18603515625, 'y2': 52.71175003051758}
+================================================================================
+Table of Contents
+
+
+================================================================================
+Page 17 - Block ID: pymupdf_page_17_block_1
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 88.58452606201172, 'x2': 795.687744140625, 'y2': 104.67762756347656}
+================================================================================
+Following are the reconciliations of our most comparable US GAAP measures to our non-GAAP measures presented:
+
+
+================================================================================
+Page 17 - Block ID: pymupdf_page_17_block_2
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 114.99077606201172, 'x2': 1148.744140625, 'y2': 131.08387756347656}
+================================================================================
+Years Ended (In Millions, Except Per Share Amounts)
+Dec 30, 2023
+Dec 31, 2022
+Dec 25, 2021
+
+
+================================================================================
+Page 17 - Block ID: pymupdf_page_17_block_3
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 138.9985809326172, 'x2': 1162.72607421875, 'y2': 156.29481506347656}
+================================================================================
+Net revenue
+$
+54,228 
+$
+63,054 
+$
+79,024
+
+
+================================================================================
+Page 17 - Block ID: pymupdf_page_17_block_4
+Block Type: Text
+Bounding Box: {'x1': 67.20391082763672, 'y1': 160.6079559326172, 'x2': 1162.7169189453125, 'y2': 177.89637756347656}
+================================================================================
+NAND memory business
+— 
+— 
+(4,306)
+
+
+================================================================================
+Page 17 - Block ID: pymupdf_page_17_block_5
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 184.6157684326172, 'x2': 1162.72607421875, 'y2': 203.10731506347656}
+================================================================================
+Non-GAAP net revenue
+$
+54,228 
+$
+63,054 
+$
+74,718
+
+
+================================================================================
+Page 17 - Block ID: pymupdf_page_17_block_6
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 212.2251434326172, 'x2': 1175.5975341796875, 'y2': 344.7557373046875}
+================================================================================
+Gross margin percentage
+40.0 %
+42.6 %
+55.4 %
+Acquisition-related adjustments
+2.3 %
+2.1 %
+1.6 %
+Share-based compensation
+1.3 %
+1.0 %
+0.4 %
+Patent settlement
+— %
+0.3 %
+— %
+Optane inventory impairment
+— %
+1.1 %
+— %
+NAND memory business
+— %
+— %
+0.6 %
+Non-GAAP gross margin percentage
+43.6 %
+47.3 %
+58.1 %
+
+
+================================================================================
+Page 17 - Block ID: pymupdf_page_17_block_7
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 352.67047119140625, 'x2': 1162.72607421875, 'y2': 560.8338623046875}
+================================================================================
+Earnings per share attributable to Intel—diluted
+$
+0.40 
+$
+1.94 
+$
+4.86 
+Acquisition-related adjustments
+0.33 
+0.37 
+0.36 
+Share-based compensation
+0.77 
+0.76 
+0.50 
+Patent settlement
+— 
+0.05 
+— 
+Optane inventory impairment
+— 
+0.18 
+— 
+Restructuring and other charges
+(0.01)
+— 
+0.65 
+(Gains) losses on equity investments, net
+(0.01)
+(1.04)
+(0.67)
+(Gains) losses from divestiture
+(0.04)
+(0.28)
+— 
+NAND memory business
+— 
+— 
+(0.33)
+Adjustments attributable to non-controlling interest
+(0.02)
+— 
+— 
+Income tax effects
+(0.37)
+(0.31)
+(0.32)
+
+
+================================================================================
+Page 17 - Block ID: pymupdf_page_17_block_8
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 563.9439086914062, 'x2': 1162.72607421875, 'y2': 582.4432373046875}
+================================================================================
+Non-GAAP earnings per share attributable to Intel—diluted
+$
+1.05 
+$
+1.67 
+$
+5.05
+
+
+================================================================================
+Page 17 - Block ID: pymupdf_page_17_block_9
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 631.1704711914062, 'x2': 1153.620849609375, 'y2': 649.6619873046875}
+================================================================================
+Years Ended (In Millions)
+Dec 30, 2023
+Dec 31, 2022
+Dec 25, 2021
+Dec 26, 2020
+Dec 28, 2019
+
+
+================================================================================
+Page 17 - Block ID: pymupdf_page_17_block_13
+Block Type: Text
+Bounding Box: {'x1': 127.18728637695312, 'y1': 884.7125854492188, 'x2': 1175.59521484375, 'y2': 899.0086059570312}
+================================================================================
+MD&A
+47
+
+
+================================================================================
+Page 18 - Block ID: pymupdf_page_18_block_0
+Block Type: Text
+Bounding Box: {'x1': 1070.115478515625, 'y1': 38.41571044921875, 'x2': 1177.18603515625, 'y2': 52.71175003051758}
+================================================================================
+Table of Contents
+
+
+================================================================================
+Page 18 - Block ID: pymupdf_page_18_block_1
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 112.55018615722656, 'x2': 306.5043029785156, 'y2': 137.574951171875}
+================================================================================
+Stock Performance Graph
+
+
+================================================================================
+Page 18 - Block ID: pymupdf_page_18_block_2
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 153.3970184326172, 'x2': 1172.716796875, 'y2': 187.49794006347656}
+================================================================================
+The graph and table that follow compare the cumulative TSR of Intel's common stock with the cumulative total return of the S&P 100 Index*, the S&P 500 Index*, the S&P 500 IT
+Index*, and the SOX Index*  for the five years ended December 30, 2023. The cumulative returns shown on the graph are based on Intel's fiscal year.
+1
+
+
+================================================================================
+Page 18 - Block ID: pymupdf_page_18_block_3
+Block Type: Text
+Bounding Box: {'x1': 356.3733215332031, 'y1': 202.3735809326172, 'x2': 868.408203125, 'y2': 239.45346069335938}
+================================================================================
+Comparison of Five-Year Cumulative Return for
+Intel, S&P 100 Index, S&P 500 Index, S&P 500 IT Index, and SOX Index
+
+
+================================================================================
+Page 18 - Block ID: pymupdf_page_18_block_4
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 709.1939086914062, 'x2': 1171.57958984375, 'y2': 822.5213623046875}
+================================================================================
+Years Ended
+Dec 29, 2018
+Dec 28, 2019
+Dec 26, 2020
+Dec 25, 2021
+Dec 31, 2022
+Dec 30, 2023
+Intel Corporation
+$
+100 
+$
+132 
+$
+106 
+$
+118 
+$
+63 
+$
+123 
+S&P 100 Index
+$
+100 
+$
+134 
+$
+160 
+$
+209 
+$
+166 
+$
+221 
+S&P 500 Index
+$
+100 
+$
+133 
+$
+155 
+$
+200 
+$
+165 
+$
+209 
+S&P 500 IT Index
+$
+100 
+$
+152 
+$
+216 
+$
+292 
+$
+211 
+$
+333 
+SOX Index
+$
+100 
+$
+165 
+$
+248 
+$
+360 
+$
+235 
+$
+392
+
+
+================================================================================
+Page 18 - Block ID: pymupdf_page_18_block_6
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 878.4173583984375, 'x2': 418.5386047363281, 'y2': 903.442138671875}
+================================================================================
+Issuer Purchases of Equity Securities
+
+
+================================================================================
+Page 18 - Block ID: pymupdf_page_18_block_8
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 986.4907836914062, 'x2': 1164.3603515625, 'y2': 1037.3963623046875}
+================================================================================
+We issue RSUs as part of our equity incentive plans. In our Consolidated Financial Statements, we treat shares of common stock withheld for tax purposes on behalf of our
+employees in connection with the vesting of RSUs as common stock repurchases because they reduce the number of shares that would have been issued upon vesting. These
+withheld shares of common stock are not considered common stock repurchases under our authorized common stock repurchase program.
+
+
+================================================================================
+Page 18 - Block ID: pymupdf_page_18_block_9
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 1052.4720458984375, 'x2': 396.1865539550781, 'y2': 1077.496826171875}
+================================================================================
+Rule 10b5-1 Trading Arrangements
+
+
+================================================================================
+Page 18 - Block ID: pymupdf_page_18_block_10
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 1094.52197265625, 'x2': 1170.6727294921875, 'y2': 1144.2322998046875}
+================================================================================
+Our directors and officers (as defined in Rule 16a-1 under the Exchange Act) may from time to time enter into plans or other arrangements for the purchase or sale of our shares
+that are intended to satisfy the affirmative defense conditions of Rule 10b5–1(c) or may represent a non-Rule 10b5-1 trading arrangement under the Exchange Act. During the
+quarter ended December 30, 2023, no such plans or arrangements were adopted or terminated, including by modification.
+
+
+================================================================================
+Page 18 - Block ID: pymupdf_page_18_block_13
+Block Type: Text
+Bounding Box: {'x1': 124.69267272949219, 'y1': 1206.4234619140625, 'x2': 1138.551025390625, 'y2': 1220.7196044921875}
+================================================================================
+Risk Factors and Other Key Information
+67
+
+
+================================================================================
+Page 19 - Block ID: pymupdf_page_19_block_0
+Block Type: Text
+Bounding Box: {'x1': 1070.115478515625, 'y1': 38.41571044921875, 'x2': 1177.18603515625, 'y2': 52.71175003051758}
+================================================================================
+Table of Contents
+
+
+================================================================================
+Page 19 - Block ID: pymupdf_page_19_block_1
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 88.54237365722656, 'x2': 518.1693725585938, 'y2': 113.56714630126953}
+================================================================================
+Financial Statements and Supplemental Details
+
+
+================================================================================
+Page 19 - Block ID: pymupdf_page_19_block_2
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 129.3892059326172, 'x2': 783.5146484375, 'y2': 145.48231506347656}
+================================================================================
+We have defined certain terms and abbreviations used throughout our Form 10-K in "Key Terms" within this section.
+
+
+================================================================================
+Page 19 - Block ID: pymupdf_page_19_block_3
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 165.4048309326172, 'x2': 1156.8509521484375, 'y2': 317.1463623046875}
+================================================================================
+Index to Consolidated Financial Statements
+Page
+Reports of Independent Registered Public Accounting Firm
+(PCAOB ID: 42)
+71
+Consolidated Statements of Income
+74
+Consolidated Statements of Comprehensive Income
+75
+Consolidated Balance Sheets
+76
+Consolidated Statements of Cash Flows
+77
+Consolidated Statements of Stockholders' Equity
+78
+Notes to Consolidated Financial Statements
+79
+
+
+================================================================================
+Page 19 - Block ID: pymupdf_page_19_block_4
+Block Type: Text
+Bounding Box: {'x1': 60.00140380859375, 'y1': 325.06109619140625, 'x2': 95.22167205810547, 'y2': 341.1541748046875}
+================================================================================
+Basis
+
+
+================================================================================
+Page 19 - Block ID: pymupdf_page_19_block_5
+Block Type: Text
+Bounding Box: {'x1': 60.00140380859375, 'y1': 344.26422119140625, 'x2': 1148.0303955078125, 'y2': 398.7713623046875}
+================================================================================
+Note 1: Basis of Presentation
+79
+Note 2: Accounting Policies
+79
+Performance and Operations
+
+
+================================================================================
+Page 19 - Block ID: pymupdf_page_19_block_6
+Block Type: Text
+Bounding Box: {'x1': 60.00140380859375, 'y1': 401.88922119140625, 'x2': 1148.0303955078125, 'y2': 533.2244873046875}
+================================================================================
+Note 3: Operating Segments
+85
+Note 4: Non-Controlling Interests
+86
+Note 5: Earnings Per Share
+88
+Note 6: Other Financial Statement Details
+88
+Note 7: Restructuring and Other Charges
+90
+Note 8: Income Taxes
+91
+Investments, Long-Term Assets, and Debt
+
+
+================================================================================
+Page 19 - Block ID: pymupdf_page_19_block_7
+Block Type: Text
+Bounding Box: {'x1': 60.00140380859375, 'y1': 536.3345336914062, 'x2': 1148.0303955078125, 'y2': 667.6697998046875}
+================================================================================
+Note 9: Investments
+93
+Note 10: Acquisitions and Divestitures
+95
+Note 11: Goodwill
+95
+Note 12: Identified Intangible Assets
+96
+Note 13: Borrowings
+96
+Note 14: Fair Value
+99
+Risk Management and Other
+
+
+================================================================================
+Page 19 - Block ID: pymupdf_page_19_block_8
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 670.7798461914062, 'x2': 1152.04443359375, 'y2': 782.9041748046875}
+================================================================================
+Note 15: Other Comprehensive Income (Loss)
+100
+Note 16: Derivative Financial Instruments
+101
+Note 17: Retirement Benefit Plans
+103
+Note 18: Employee Equity Incentive Plans
+106
+Note 19: Commitments and Contingencies
+108
+Key Terms
+112
+
+
+================================================================================
+Page 19 - Block ID: pymupdf_page_19_block_9
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 790.8267211914062, 'x2': 1152.04443359375, 'y2': 864.5369873046875}
+================================================================================
+Index to Supplemental Details
+Controls and Procedures
+115
+Exhibits
+116
+Form 10-K Cross-Reference Index
+121
+
+
+================================================================================
+Page 20 - Block ID: pymupdf_page_20_block_0
+Block Type: Text
+Bounding Box: {'x1': 1070.115478515625, 'y1': 38.40789794921875, 'x2': 1177.18603515625, 'y2': 52.70393753051758}
+================================================================================
+Table of Contents
+
+
+================================================================================
+Page 20 - Block ID: pymupdf_page_20_block_1
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 127.1534194946289, 'x2': 505.5772705078125, 'y2': 159.33963012695312}
+================================================================================
+Consolidated Statements of Income
+
+
+================================================================================
+Page 20 - Block ID: pymupdf_page_20_block_2
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 199.0142059326172, 'x2': 1174.6551513671875, 'y2': 255.91981506347656}
+================================================================================
+Years Ended (In Millions, Except Per Share Amounts)
+Dec 30, 2023
+Dec 31, 2022
+Dec 25, 2021
+Net revenue
+$
+54,228 
+$
+63,054 
+$
+79,024 
+Cost of sales
+32,517 
+36,188 
+35,209
+
+
+================================================================================
+Page 20 - Block ID: pymupdf_page_20_block_4
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 496.71734619140625, 'x2': 1174.6551513671875, 'y2': 515.2088623046875}
+================================================================================
+Net income attributable to Intel
+$
+1,689 
+$
+8,014 
+$
+19,868
+
+
+================================================================================
+Page 20 - Block ID: pymupdf_page_20_block_5
+Block Type: Text
+Bounding Box: {'x1': 49.1976432800293, 'y1': 520.7251586914062, 'x2': 1174.6551513671875, 'y2': 575.2322998046875}
+================================================================================
+Earnings per share attributable to Intel—basic
+$
+0.40 
+$
+1.95 
+$
+4.89 
+Earnings per share attributable to Intel—diluted
+$
+0.40 
+$
+1.94 
+$
+4.86 
+Weighted average shares of common stock outstanding:
+
+
+================================================================================
+Page 20 - Block ID: pymupdf_page_20_block_6
+Block Type: Text
+Bounding Box: {'x1': 60.00140380859375, 'y1': 578.3423461914062, 'x2': 1174.6551513671875, 'y2': 596.8338623046875}
+================================================================================
+Basic
+4,190 
+4,108 
+4,059
+
+
+================================================================================
+Page 20 - Block ID: pymupdf_page_20_block_7
+Block Type: Text
+Bounding Box: {'x1': 60.00140380859375, 'y1': 602.3501586914062, 'x2': 1174.6551513671875, 'y2': 620.8416748046875}
+================================================================================
+Diluted
+4,212 
+4,123 
+4,090
+
+
+================================================================================
+Page 20 - Block ID: pymupdf_page_20_block_8
+Block Type: Text
+Bounding Box: {'x1': 47.60334014892578, 'y1': 639.8219604492188, 'x2': 194.80789184570312, 'y2': 654.1179809570312}
+================================================================================
+See accompanying notes.
+
+
+================================================================================
+Page 20 - Block ID: pymupdf_page_20_block_9
+Block Type: Text
+Bounding Box: {'x1': 69.94236755371094, 'y1': 713.0485229492188, 'x2': 1175.59521484375, 'y2': 729.6697998046875}
+================================================================================
+Financial Statements
+Consolidated Statements of Income
+74
+
