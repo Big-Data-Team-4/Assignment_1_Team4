@@ -1,0 +1,136 @@
+# stages:
+#   install_requirements:
+#     cmd: pip install -r src/requirements.txt
+#     deps:
+#       - src/requirements.txt
+#     params:
+#       - install.force_reinstall
+
+#   extract_pdfparser:
+#     cmd: cd src && python scripts/extract_pdfparser.py
+#     deps:
+#       - src/scripts/extract_pdfparser.py
+#       - src/data/raw/
+#     outs:
+#       - src/data/parsed/pdfparser_output/
+
+#   extract_camelot:
+#     cmd: cd src && python scripts/extract_camelot.py
+#     deps:
+#       - src/scripts/extract_camelot.py
+#       - src/data/raw/
+#     outs:
+#       - src/data/parsed/camelot_output/
+
+#   extract_layoutParser:
+#     cmd: cd src && python scripts/extract_layoutParser.py
+#     deps:
+#       - src/scripts/extract_layoutParser.py
+#       - src/data/raw/
+#     outs:
+#       - src/data/parsed/layout_output/
+
+#   extract_docling:
+#     cmd: cd src && python scripts/extract_docling.py
+#     deps:
+#       - src/scripts/extract_docling.py
+#       - src/data/raw/
+#     outs:
+#       - src/data/parsed/docling_output/
+
+#   extract_fallback:
+#     cmd: cd src && python scripts/extract_docling_fallback.py
+#     deps:
+#       - src/scripts/extract_docling_fallback.py
+#       - src/data/raw/
+#     outs:
+#       - src/data/parsed/fallback_output/ //
+#####################################################################################
+
+name: PDF Parser Pipeline
+
+# Controls when the action will run
+on:
+  push:
+    branches:
+      - main
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    # Set environment variables for the entire job
+    env:
+      AZURE_DOC_INTELLIGENCE_ENDPOINT: ${{ secrets.AZURE_DOC_INTELLIGENCE_ENDPOINT }}
+      AZURE_DOC_INTELLIGENCE_KEY: ${{ secrets.AZURE_DOC_INTELLIGENCE_KEY }}
+    
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      
+      # Stage 1: Install Requirements
+      - name: Install Requirements
+        run: |
+          pip install --upgrade pip
+          pip install -r src/requirements.txt
+      
+      # Create output directories
+      - name: Create Output Directories
+        run: |
+          mkdir -p src/data/parsed/pdfparser_output
+          mkdir -p src/data/parsed/camelot_output
+          mkdir -p src/data/parsed/layout_output
+          mkdir -p src/data/parsed/docling_output
+          mkdir -p src/data/parsed/fallback_output
+      
+      # Stage 2: Extract PDFParser
+      - name: Extract PDFParser
+        run: |
+          cd src && python scripts/extract_pdfparser.py
+      
+      # Stage 3: Extract Camelot
+      - name: Extract Camelot
+        run: |
+          cd src && python scripts/extract_camelot.py
+      
+      # Stage 4: Extract LayoutParser
+      - name: Extract LayoutParser
+        run: |
+          cd src && python scripts/extract_layoutParser.py
+      
+      # Stage 5: Extract Docling
+      - name: Extract Docling
+        run: |
+          cd src && python scripts/extract_docling.py
+      
+      # Stage 6: Extract Fallback
+      - name: Extract Fallback
+        run: |
+          cd src && python scripts/extract_docling_fallback.py
+      
+      # Upload processed results as artifacts
+      - name: Upload Processing Results
+        uses: actions/upload-artifact@v4
+        with:
+          name: parsed-outputs
+          path: |
+            src/data/parsed/pdfparser_output/
+            src/data/parsed/camelot_output/
+            src/data/parsed/layout_output/
+            src/data/parsed/docling_output/
+            src/data/parsed/fallback_output/
+      
+      # Optional: Display completion status
+      - name: Pipeline Completion
+        run: |
+          echo "✅ PDF parsing pipeline completed successfully!"
+          echo "📊 Processing results:"
+          find src/data/parsed/ -type f -name "*.json" -o -name "*.csv" -o -name "*.txt" | wc -l | xargs echo "Total output files:"
