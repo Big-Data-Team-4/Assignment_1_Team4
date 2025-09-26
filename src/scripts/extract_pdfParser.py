@@ -6,7 +6,6 @@ from pathlib import Path
 from datetime import datetime
 import traceback
 from PIL import Image  # For image handling
-import fitz  # PyMuPDF
 from io import BytesIO
 
 # Configure logging for debugging
