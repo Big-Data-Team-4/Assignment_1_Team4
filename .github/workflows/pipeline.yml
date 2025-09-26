@@ -40,7 +40,10 @@ jobs:
           mkdir -p src/data/parsed/layout_output
           mkdir -p src/data/parsed/docling_output
           mkdir -p src/data/parsed/fallback_output
-      
+
+      - name: Run DVC init
+        run: dvc init
+
       - name: Run DVC Pipeline
         run: dvc repro --force
       
