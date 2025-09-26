@@ -49,5 +49,5 @@ https://northeastern-my.sharepoint.com/personal/pekamwar_s_northeastern_edu/_lay
 |----------------|--------------|--------------|
 | **Anusha Prakash** | 002306070  | 33.33% |
 | **Komal Khairnar**  | 002472617  | 33.33% |
-| **Shriya Pekamwar**  | 002059178  | 33.33% |
+| **Shriya Pekamwar**  | 002059178  | 33.33% ||
  
