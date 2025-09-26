@@ -27,50 +27,30 @@ jobs:
         with:
           python-version: '3.10'
       
-  stages:
-  install_requirements:
-    cmd: pip install -r src/requirements.txt
-    deps:
-      - src/requirements.txt
-    params:
-      - install.force_reinstall
-
-  extract_pdfparser:
-    cmd: cd src && python scripts/extract_pdfparser.py
-    deps:
-      - src/scripts/extract_pdfparser.py
-      - src/data/raw/
-    outs:
-      - src/data/parsed/pdfparser_output/
-
-  extract_camelot:
-    cmd: cd src && python scripts/extract_camelot.py
-    deps:
-      - src/scripts/extract_camelot.py
-      - src/data/raw/
-    outs:
-      - src/data/parsed/camelot_output/
-
-  extract_layoutParser:
-    cmd: cd src && python scripts/extract_layoutParser.py
-    deps:
-      - src/scripts/extract_layoutParser.py
-      - src/data/raw/
-    outs:
-      - src/data/parsed/layout_output/
-
-  extract_docling:
-    cmd: cd src && python scripts/extract_docling.py
-    deps:
-      - src/scripts/extract_docling.py
-      - src/data/raw/
-    outs:
-      - src/data/parsed/docling_output/
-
-  extract_fallback:
-    cmd: cd src && python scripts/extract_docling_fallback.py
-    deps:
-      - src/scripts/extract_docling_fallback.py
-      - src/data/raw/
-    outs:
-      - src/data/parsed/fallback_output/
+      - name: Install DVC and dependencies
+        run: |
+          pip install --upgrade pip
+          pip install dvc
+          pip install -r src/requirements.txt
+      
+      - name: Create output directories
+        run: |
+          mkdir -p src/data/parsed/pdfparser_output
+          mkdir -p src/data/parsed/camelot_output
+          mkdir -p src/data/parsed/layout_output
+          mkdir -p src/data/parsed/docling_output
+          mkdir -p src/data/parsed/fallback_output
+      
+      - name: Run DVC Pipeline
+        run: dvc repro --force
+      
+      - name: Upload Pipeline Results
+        uses: actions/upload-artifact@v4
+        with:
+          name: pdf-processing-results
+          path: src/data/parsed/
+      
+      - name: Display Results Summary
+        run: |
+          echo "✅ PDF processing pipeline completed!"
+          find src/data/parsed/ -type f | wc -l | xargs echo "Total output files:"
