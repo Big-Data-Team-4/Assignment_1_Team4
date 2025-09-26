@@ -1,0 +1,39 @@
+   Table of Contents
+A Year in Review
+2023 revenue was $54.2 billion, down $8.8 billion, or 14%, from 2022. CCG revenue decreased 8% due to lower notebook and desktop
+volume from lower demand across market segments, partially offset by increased volume in the second half of the year as customer
+inventory levels normalized compared to higher levels in the first half. Notebook ASPs decreased due to a higher mix of small core
+products combined with a higher mix of older generation products. This was partially offset by higher desktop ASPs due to an increased
+mix of product sales to the commercial and gaming market segments. DCAI revenue decreased 20% due to lower server volume
+resulting from a softening CPU data center market, partially offset by higher ASPs from a lower mix of hyperscale customer-related
+revenue and a higher mix of high core count products. NEX revenue decreased 31% as customers tempered purchases to reduce
+inventories and adjust to a lower demand environment across product lines. We invested $16.0 billion in R&D, made capital investments
+of $25.8 billion, and had $11.5 billion in cash from operations and $(11.9) billion of adjusted free cash flow.
+Revenue Gross Margin Diluted EPS Attributable to Intel Cash Flows
+■ GAAP $B ■ GAAP ■ Non-GAAP ■ GAAP ■ Non-GAAP ■ ■ O Ad p j e u r s a t t e in d g F C re a e s h C a F s lo h w F $ lo B w1 $B
+$54.2B 40.0% 43.6% $0.40 $1.05 $11.5B $(11.9)B
+GAAP GAAP non-GAAP1 GAAP non-GAAP1 GAAP non-GAAP1
+Revenue down 14% from Gross margin Gross margin Diluted EPS Diluted EPS Operating Adjusted free
+2022 revenue down 2.6 ppts down 3.7 ppts down $1.54 or down $0.62 or cash flow cash flow down
+ from 2022 from 2022 79% from 37% from down $4.0B or $7.8B or 191%
+ 2022 2022 26% from from 2022
+  2022
+Lower revenue in CCG, Lower GAAP gross margin from Lower GAAP EPS from lower Lower operating cash flow primarily
+DCAI, and NEX. lower revenue, higher unit cost, gross margin and absence of driven by lower net income,
+ and higher excess capacity one-time gains recognized in partially offset by favorable
+ charges, partially offset by the 2022, partially offset by lower changes in working capital and
+ sell-through of previously R&D and MG&A spending, and other adjustments.
+ reserved inventory, lower a higher tax benefit.
+ inventory reserves taken in 2023,
+ lower product ramp costs, and
+ the absence of one-time charges
+ recognized in 2022.
+Managing to our long-term financial model
+Our 2023 results reflect the continued advancement of our transformational journey. We continued to prioritize investments critical to our IDM 2.0 transformation, achieved
+operational milestones, and executed disciplined expense management. To achieve our long-term financial model, we believe it is imperative that we drive to world-class product
+cost and operational efficiency. A key component of our overall strategy is our internal foundry model. Under this model, we intend to reshape our operational dynamics and
+establish transparency and accountability through standalone profit and loss reporting for our manufacturing group in 2024. We expect this model to enable increased efficiencies
+across a number of aspects of our organization that we believe are integral to achieving our financial and operational goals. At the same time, we continue to prioritize capital
+investments critical to our efforts to regain process leadership and establish a leading-edge, at-scale foundry business.
+1 See "Non-GAAP Financial Measures" within MD&A.
+Fundamentals of Our Business 5

@@ -1,0 +1,46 @@
+   Table of Contents
+Non-GAAP Financial Measures
+In addition to disclosing financial results in accordance with US GAAP, this document contains references to the non-GAAP financial measures below. We believe these non-
+GAAP financial measures provide investors with useful supplemental information about our operating performance, enable comparison of financial trends and results between
+periods where certain items may vary independent of business performance, and allow for greater transparency with respect to key metrics used by management in operating
+our business and measuring our performance. These non-GAAP financial measures are used in our performance-based RSUs and our cash bonus plans.
+Our non-GAAP financial measures reflect adjustments based on one or more of the following items, as well as the related income tax effects. Beginning in 2023, income tax
+effects are calculated using a fixed long-term projected tax rate of 13% across all adjustments. We project this long-term non-GAAP tax rate on an annual basis using a five-year
+non-GAAP financial projection that excludes the income tax effects of each adjustment. The projected non-GAAP tax rate also considers factors such as our tax structure, our tax
+positions in various jurisdictions, and key legislation in significant jurisdictions where we operate. This long-term non-GAAP tax rate may be subject to change for a variety of
+reasons, including the rapidly evolving global tax environment, significant changes in our geographic earnings mix, or changes to our strategy or business operations.
+Management uses this non-GAAP tax rate in managing internal short- and long-term operating plans and in evaluating our performance; we believe this approach facilitates
+comparison of our operating results and provides useful evaluation of our current operating performance. Prior-period non-GAAP financial measures have been retroactively
+adjusted to reflect this updated approach.
+Our non-GAAP financial measures should not be considered a substitute for, or superior to, financial measures calculated in accordance with US GAAP, and the financial results
+calculated in accordance with US GAAP and reconciliations from these results should be carefully evaluated.
+Non-GAAP adjustment
+or measure Definition Usefulness to management and investors
+NAND memory business We completed the first closing of the divestiture of our NAND memory We exclude the impact of our NAND memory business in certain non-
+ business to SK hynix on December 29, 2021 and fully deconsolidated our GAAP measures. While the second closing of the sale is still pending and
+ ongoing interests in the NAND OpCo Business in Q1 2022. subject to closing conditions, we deconsolidated this business in Q1 2022
+  and management does not view the historical results of the business as a
+  part of our core operations. We believe these adjustments provide
+  investors with a useful view, through the eyes of management, of our core
+  business model and how management currently evaluates core
+  operational performance. In making these adjustments, we have not made
+  any changes to our methods for measuring and calculating revenue or
+  other financial statement amounts.
+Acquisition-related Amortization of acquisition-related intangible assets consists of We exclude amortization charges for our acquisition-related intangible
+adjustments amortization of intangible assets such as developed technology, brands, assets for purposes of calculating certain non-GAAP measures because
+ and customer relationships acquired in connection with business these charges are inconsistent in size and are significantly impacted by
+ combinations. Charges related to the amortization of these intangibles are the timing and valuation of our acquisitions. These adjustments facilitate a
+ recorded within both cost of sales and MG&A in our US GAAP financial useful evaluation of our current operating performance and comparison to
+ statements. Amortization charges are recorded over the estimated useful our past operating performance and provide investors with additional
+ life of the related acquired intangible asset, and thus are generally means to evaluate cost and expense trends.
+ recorded over multiple years.
+Share-based Share-based compensation consists of charges related to our employee We exclude charges related to share-based compensation for purposes of
+compensation equity incentive plans. calculating certain non-GAAP measures because we believe these
+  adjustments provide better comparability to peer company results and
+  because these charges are not viewed by management as part of our core
+  operating performance. We believe these adjustments provide investors
+  with a useful view, through the eyes of management, of our core business
+  model, how management currently evaluates core operational
+  performance, and additional means to evaluate expense trends, including
+  in comparison to other peer companies.
+MD&A 45

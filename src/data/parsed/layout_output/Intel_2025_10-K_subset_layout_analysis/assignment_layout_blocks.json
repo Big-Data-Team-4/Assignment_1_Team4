@@ -1,0 +1,5526 @@
+{
+  "document": "data/raw/Intel_2025_10-K_subset.pdf",
+  "total_pages": 19,
+  "layout_blocks": [
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 261.1276550292969,
+        "y1": 118.3013916015625,
+        "x2": 963.6383666992188,
+        "y2": 145.12322998046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_0"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 513.0090942382812,
+        "y1": 142.11065673828125,
+        "x2": 711.790283203125,
+        "y2": 161.7710723876953
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_1"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 543.3946533203125,
+        "y1": 175.6765594482422,
+        "x2": 681.3807983398438,
+        "y2": 204.28204345703125
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_2"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 202.62136840820312,
+        "x2": 122.84085083007812,
+        "y2": 218.7144775390625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_3"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 70.78640747070312,
+        "y1": 223.10443115234375,
+        "x2": 738.48583984375,
+        "y2": 278.3945007324219
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_4"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 70.78640747070312,
+        "y1": 283.1253356933594,
+        "x2": 762.8831176757812,
+        "y2": 302.4028625488281
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_5"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 107.56796264648438,
+        "y1": 308.513916015625,
+        "x2": 435.329833984375,
+        "y2": 322.8099670410156
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_6"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 486.6936950683594,
+        "y1": 333.4669189453125,
+        "x2": 738.0671997070312,
+        "y2": 349.55999755859375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_7"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Title",
+      "bounding_box": {
+        "x1": 426.2601623535156,
+        "y1": 419.0706481933594,
+        "x2": 798.5376586914062,
+        "y2": 458.4048767089844
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_8"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 466.6429748535156,
+        "y1": 456.1653137207031,
+        "x2": 758.1361694335938,
+        "y2": 470.46136474609375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_9"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 387.3028564453125,
+        "y1": 472.71539306640625,
+        "x2": 944.1078491210938,
+        "y2": 488.8084716796875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_10"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 246.59136962890625,
+        "y1": 492.1778564453125,
+        "x2": 1004.1329956054688,
+        "y2": 506.4739074707031
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_11"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 226.40933227539062,
+        "y1": 514.7300415039062,
+        "x2": 944.1078491210938,
+        "y2": 530.8231201171875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_12"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 302.18572998046875,
+        "y1": 534.1924438476562,
+        "x2": 935.8862915039062,
+        "y2": 548.4884643554688
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_13"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 419.4890441894531,
+        "y1": 560.6016845703125,
+        "x2": 805.2793579101562,
+        "y2": 574.897705078125
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_14"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 450.2685241699219,
+        "y1": 576.2070922851562,
+        "x2": 774.5092163085938,
+        "y2": 590.5031127929688
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_15"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 186.87057495117188,
+        "y1": 594.21337890625,
+        "x2": 1089.6112060546875,
+        "y2": 608.5093994140625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_16"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 148.0070343017578,
+        "y1": 612.2196044921875,
+        "x2": 1037.730712890625,
+        "y2": 626.515625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_17"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 433.2000732421875,
+        "y1": 637.4284057617188,
+        "x2": 791.5767822265625,
+        "y2": 651.7244262695312
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_18"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 691.4472045898438,
+        "x2": 789.9642333984375,
+        "y2": 705.9124755859375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_19"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 716.656005859375,
+        "x2": 797.7482299804688,
+        "y2": 731.1212768554688
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_20"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 740.6643676757812,
+        "x2": 1149.7376708984375,
+        "y2": 771.9354858398438
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_21"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 781.4785766601562,
+        "x2": 1166.56494140625,
+        "y2": 812.7496948242188
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_22"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 822.2927856445312,
+        "x2": 1171.2791748046875,
+        "y2": 850.9937744140625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_23"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 91.88750457763672,
+        "y1": 855.9044799804688,
+        "x2": 1175.5987548828125,
+        "y2": 870.2005004882812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_24"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 153.46519470214844,
+        "y1": 875.1714477539062,
+        "x2": 1054.843994140625,
+        "y2": 889.576416015625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_25"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 902.7207641601562,
+        "x2": 1144.5220947265625,
+        "y2": 933.9918823242188
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_26"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 938.7332763671875,
+        "x2": 1146.2528076171875,
+        "y2": 1002.4157104492188
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_27"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 1007.1571044921875,
+        "x2": 1172.510986328125,
+        "y2": 1038.42822265625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_28"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 1044.3699951171875,
+        "x2": 768.6193237304688,
+        "y2": 1058.8353271484375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_29"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 1063.57666015625,
+        "x2": 1165.209228515625,
+        "y2": 1093.478271484375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_30"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 457.0021057128906,
+        "y1": 1101.2620849609375,
+        "x2": 767.7767333984375,
+        "y2": 1116.4566650390625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_31"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 1123.5975341796875,
+        "x2": 1164.553466796875,
+        "y2": 1153.4991455078125
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_1_block_32"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 70.78640747070312,
+        "y1": 223.10443115234375,
+        "x2": 738.48583984375,
+        "y2": 278.3945007324219
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_1_block_4"
+    },
+    {
+      "page_number": 1,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 938.7332763671875,
+        "x2": 1146.2528076171875,
+        "y2": 1002.4157104492188
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_1_block_28"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 88.7458267211914,
+        "x2": 271.802978515625,
+        "y2": 120.9320297241211
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_0"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 138.25369262695312,
+        "x2": 311.25335693359375,
+        "y2": 159.71115112304688
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_1"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 175.0117645263672,
+        "x2": 1163.4261474609375,
+        "y2": 225.91700744628906
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_2"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 241.0347137451172,
+        "x2": 1038.1207275390625,
+        "y2": 257.1278076171875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_3"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 273.44598388671875,
+        "x2": 1155.8065185546875,
+        "y2": 323.1507568359375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_4"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 343.07025146484375,
+        "x2": 1089.4422607421875,
+        "y2": 361.9025573730469
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_5"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 368.27899169921875,
+        "x2": 1076.6263427734375,
+        "y2": 385.572509765625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_6"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 389.88653564453125,
+        "x2": 1076.6263427734375,
+        "y2": 407.1800537109375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_7"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 427.09954833984375,
+        "x2": 1076.6263427734375,
+        "y2": 444.39306640625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_8"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 448.70709228515625,
+        "x2": 1076.6263427734375,
+        "y2": 466.00048828125
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_9"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 479.6730041503906,
+        "x2": 329.71820068359375,
+        "y2": 497.5497741699219
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_10"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 502.72589111328125,
+        "x2": 1080.6217041015625,
+        "y2": 520.019287109375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_11"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 539.9387817382812,
+        "x2": 1080.6217041015625,
+        "y2": 557.2322998046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_12"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 561.5462036132812,
+        "x2": 1080.6217041015625,
+        "y2": 578.8397216796875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_13"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 584.3543090820312,
+        "x2": 1080.6217041015625,
+        "y2": 601.6478271484375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_14"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 605.9617309570312,
+        "x2": 1080.6217041015625,
+        "y2": 623.2552490234375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_15"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 636.9277954101562,
+        "x2": 330.18719482421875,
+        "y2": 654.8045043945312
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_16"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 670.7842407226562,
+        "x2": 1080.6217041015625,
+        "y2": 688.0777587890625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_17"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 692.3919067382812,
+        "x2": 1080.6217041015625,
+        "y2": 709.6854248046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_18"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 713.9993286132812,
+        "x2": 1080.6217041015625,
+        "y2": 731.2928466796875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_19"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 738.0076293945312,
+        "x2": 1080.6217041015625,
+        "y2": 754.1007080078125
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_20"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 772.8198852539062,
+        "x2": 1080.6217041015625,
+        "y2": 790.1134033203125
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_21"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 795.6277465820312,
+        "x2": 1080.6217041015625,
+        "y2": 812.9212646484375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_22"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 818.4358520507812,
+        "x2": 1080.6217041015625,
+        "y2": 834.5289306640625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_23"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 854.4483032226562,
+        "x2": 1080.6217041015625,
+        "y2": 870.5413818359375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_24"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 891.6611938476562,
+        "x2": 1080.6217041015625,
+        "y2": 907.7542724609375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_25"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 927.6738891601562,
+        "x2": 1080.6217041015625,
+        "y2": 943.7669677734375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_26"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 962.4859008789062,
+        "x2": 1080.6217041015625,
+        "y2": 979.7794189453125
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_27"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 994.6521606445312,
+        "x2": 385.3723449707031,
+        "y2": 1012.5288696289062
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_28"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 1018.9055786132812,
+        "x2": 1080.6217041015625,
+        "y2": 1036.1990966796875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_29"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 1040.512939453125,
+        "x2": 1080.6217041015625,
+        "y2": 1057.8065185546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_30"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 1062.12060546875,
+        "x2": 1080.6217041015625,
+        "y2": 1079.4141845703125
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_31"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 1084.928466796875,
+        "x2": 1084.6357421875,
+        "y2": 1102.2220458984375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_32"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 1106.535888671875,
+        "x2": 1084.6357421875,
+        "y2": 1123.8294677734375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_33"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 1128.1435546875,
+        "x2": 1084.6357421875,
+        "y2": 1145.4371337890625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_34"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 1150.951416015625,
+        "x2": 1084.6357421875,
+        "y2": 1168.2449951171875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_2_block_35"
+    },
+    {
+      "page_number": 2,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 175.0117645263672,
+        "x2": 1163.4261474609375,
+        "y2": 225.91700744628906
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_2_block_2"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 1070.115478515625,
+        "y1": 38.41986083984375,
+        "x2": 1177.18798828125,
+        "y2": 52.71590042114258
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_0"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 88.54676818847656,
+        "x2": 335.1467590332031,
+        "y2": 113.57154083251953
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_1"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 129.3957977294922,
+        "x2": 1173.9576416015625,
+        "y2": 215.11317443847656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_2"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 230.2310028076172,
+        "x2": 1135.201416015625,
+        "y2": 264.3302001953125
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_3"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 269.84478759765625,
+        "x2": 948.902587890625,
+        "y2": 285.9378662109375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_4"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 292.65264892578125,
+        "x2": 1154.909912109375,
+        "y2": 325.5516357421875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_5"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 331.06597900390625,
+        "x2": 1157.8841552734375,
+        "y2": 381.9713134765625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_6"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 387.48565673828125,
+        "x2": 515.9510498046875,
+        "y2": 403.5787353515625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_7"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 410.29376220703125,
+        "x2": 796.2149047851562,
+        "y2": 426.3868408203125
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_8"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 431.90118408203125,
+        "x2": 686.4776611328125,
+        "y2": 447.9942626953125
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_9"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 454.70904541015625,
+        "x2": 1170.8431396484375,
+        "y2": 487.6080322265625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_10"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 493.12237548828125,
+        "x2": 972.287353515625,
+        "y2": 509.2154541015625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_11"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 515.9304809570312,
+        "x2": 748.678466796875,
+        "y2": 532.0235595703125
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_12"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 537.5379028320312,
+        "x2": 624.0319213867188,
+        "y2": 553.6309814453125
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_13"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 560.3460083007812,
+        "x2": 646.4893188476562,
+        "y2": 576.4390869140625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_14"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 581.9534301757812,
+        "x2": 501.5460510253906,
+        "y2": 598.0465087890625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_15"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 603.5608520507812,
+        "x2": 831.4541015625,
+        "y2": 619.6539306640625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_16"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 626.3689575195312,
+        "x2": 431.16046142578125,
+        "y2": 642.4620361328125
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_17"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 647.9763793945312,
+        "x2": 418.2706604003906,
+        "y2": 664.0694580078125
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_18"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 670.7842407226562,
+        "x2": 564.8128662109375,
+        "y2": 686.8773193359375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_19"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 692.3919067382812,
+        "x2": 339.83538818359375,
+        "y2": 708.4849853515625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_20"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 713.9993286132812,
+        "x2": 561.6051025390625,
+        "y2": 730.0924072265625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_21"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 736.8074340820312,
+        "x2": 442.28387451171875,
+        "y2": 752.9005126953125
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_22"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 780.0222778320312,
+        "x2": 1149.8134765625,
+        "y2": 796.1153564453125
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_23"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 812.4336547851562,
+        "x2": 556.818115234375,
+        "y2": 828.5267333984375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_24"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 834.0410766601562,
+        "x2": 1014.6956787109375,
+        "y2": 850.1341552734375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_25"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 855.6487426757812,
+        "x2": 953.9065551757812,
+        "y2": 871.7418212890625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_26"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 877.2561645507812,
+        "x2": 647.2672119140625,
+        "y2": 893.3492431640625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_27"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 897.6633911132812,
+        "x2": 1090.7972412109375,
+        "y2": 913.7564697265625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_28"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 920.4712524414062,
+        "x2": 608.0567626953125,
+        "y2": 936.5643310546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_29"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 942.0786743164062,
+        "x2": 1168.39111328125,
+        "y2": 974.9776611328125
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_30"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 981.6924438476562,
+        "x2": 407.0753479003906,
+        "y2": 997.7855224609375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_31"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 1003.3001098632812,
+        "x2": 776.9555053710938,
+        "y2": 1019.3931884765625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_32"
+    },
+    {
+      "page_number": 3,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 1026.10791015625,
+        "x2": 1164.4931640625,
+        "y2": 1042.2010498046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_3_block_33"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 1070.115478515625,
+        "y1": 38.42010498046875,
+        "x2": 1177.18798828125,
+        "y2": 52.71614456176758
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_0"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 88.58159637451172,
+        "x2": 379.0314636230469,
+        "y2": 104.67469787597656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_1"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 110.18901824951172,
+        "x2": 479.08868408203125,
+        "y2": 126.28211975097656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_2"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 132.9971160888672,
+        "x2": 475.65673828125,
+        "y2": 149.09022521972656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_3"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 154.6045379638672,
+        "x2": 1167.780029296875,
+        "y2": 188.70399475097656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_4"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 194.2183074951172,
+        "x2": 325.4015808105469,
+        "y2": 210.31141662597656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_5"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 215.8257293701172,
+        "x2": 728.9147338867188,
+        "y2": 231.91883850097656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_6"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 238.6338348388672,
+        "x2": 480.7452392578125,
+        "y2": 254.72694396972656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_7"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 260.24127197265625,
+        "x2": 402.2811279296875,
+        "y2": 276.3343505859375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_8"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 283.04937744140625,
+        "x2": 519.1201782226562,
+        "y2": 299.1424560546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_9"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 304.65679931640625,
+        "x2": 330.2128601074219,
+        "y2": 320.7498779296875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_10"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 326.26422119140625,
+        "x2": 284.34454345703125,
+        "y2": 342.3572998046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_11"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 349.07232666015625,
+        "x2": 204.51473999023438,
+        "y2": 365.1654052734375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_12"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 370.67974853515625,
+        "x2": 422.0583190917969,
+        "y2": 386.7728271484375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_13"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 392.28717041015625,
+        "x2": 674.4540405273438,
+        "y2": 408.3802490234375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_14"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 415.09527587890625,
+        "x2": 838.5657958984375,
+        "y2": 431.1883544921875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_15"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 458.31011962890625,
+        "x2": 1165.024658203125,
+        "y2": 492.4095458984375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_16"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 507.52740478515625,
+        "x2": 1172.840576171875,
+        "y2": 593.2449951171875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_17"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 608.3275146484375,
+        "x2": 439.2938537597656,
+        "y2": 633.352294921875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_18"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 649.1768188476562,
+        "x2": 1171.2803955078125,
+        "y2": 734.8939208984375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_19"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 749.3121948242188,
+        "x2": 1139.1197509765625,
+        "y2": 776.2293701171875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_20"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 798.5294799804688,
+        "x2": 397.3997802734375,
+        "y2": 811.0418701171875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_21"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 826.8035888671875,
+        "x2": 398.22119140625,
+        "y2": 851.828369140625
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_22"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 867.6528930664062,
+        "x2": 1174.076904296875,
+        "y2": 988.1824951171875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_4_block_23"
+    },
+    {
+      "page_number": 4,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 867.6528930664062,
+        "x2": 1174.076904296875,
+        "y2": 988.1824951171875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_4_block_23"
+    },
+    {
+      "page_number": 5,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 91.1465835571289,
+        "x2": 444.70172119140625,
+        "y2": 123.3327865600586
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_5_block_0"
+    },
+    {
+      "page_number": 5,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 145.0015106201172,
+        "x2": 1173.9158935546875,
+        "y2": 265.5306396484375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_5_block_1"
+    },
+    {
+      "page_number": 5,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 283.2134704589844,
+        "x2": 212.52169799804688,
+        "y2": 315.3996887207031
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_5_block_2"
+    },
+    {
+      "page_number": 5,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 337.06793212890625,
+        "x2": 1176.9383544921875,
+        "y2": 439.5911865234375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_5_block_3"
+    },
+    {
+      "page_number": 5,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 455.90972900390625,
+        "x2": 1123.4261474609375,
+        "y2": 505.6141357421875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_5_block_4"
+    },
+    {
+      "page_number": 5,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 522.3870849609375,
+        "x2": 159.65516662597656,
+        "y2": 543.8446044921875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_5_block_5"
+    },
+    {
+      "page_number": 5,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 558.9004516601562,
+        "x2": 227.05072021484375,
+        "y2": 576.7771606445312
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_5_block_6"
+    },
+    {
+      "page_number": 5,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 599.9595336914062,
+        "x2": 1159.5137939453125,
+        "y2": 632.8587646484375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_5_block_7"
+    },
+    {
+      "page_number": 5,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 649.1768188476562,
+        "x2": 1139.2186279296875,
+        "y2": 716.8880615234375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_5_block_8"
+    },
+    {
+      "page_number": 5,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 732.0054321289062,
+        "x2": 1143.4300537109375,
+        "y2": 782.9110107421875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_5_block_9"
+    },
+    {
+      "page_number": 5,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 798.0283813476562,
+        "x2": 1172.4490966796875,
+        "y2": 900.5516357421875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_5_block_10"
+    },
+    {
+      "page_number": 5,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 916.8701782226562,
+        "x2": 1148.2520751953125,
+        "y2": 984.5809326171875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_5_block_11"
+    },
+    {
+      "page_number": 5,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 1004.2554321289062,
+        "x2": 160.35037231445312,
+        "y2": 1022.1321411132812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_5_block_12"
+    },
+    {
+      "page_number": 5,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 1035.71142578125,
+        "x2": 1165.6651611328125,
+        "y2": 1086.6165771484375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_5_block_13"
+    },
+    {
+      "page_number": 5,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 124.69267272949219,
+        "y1": 1133.2008056640625,
+        "x2": 1138.5474853515625,
+        "y2": 1148.6976318359375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_5_block_14"
+    },
+    {
+      "page_number": 6,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 88.58110809326172,
+        "x2": 1149.60595703125,
+        "y2": 139.48622131347656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_6_block_0"
+    },
+    {
+      "page_number": 6,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 159.1606903076172,
+        "x2": 212.84051513671875,
+        "y2": 177.03744506835938
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_6_block_1"
+    },
+    {
+      "page_number": 6,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 190.6167449951172,
+        "x2": 1175.18310546875,
+        "y2": 223.51551818847656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_6_block_2"
+    },
+    {
+      "page_number": 6,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 239.8335418701172,
+        "x2": 1159.57080078125,
+        "y2": 324.3504638671875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_6_block_3"
+    },
+    {
+      "page_number": 6,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 335.86724853515625,
+        "x2": 1168.3189697265625,
+        "y2": 403.5784912109375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_6_block_4"
+    },
+    {
+      "page_number": 6,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 418.69586181640625,
+        "x2": 1167.5897216796875,
+        "y2": 556.0311279296875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_6_block_5"
+    },
+    {
+      "page_number": 6,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 566.1021118164062,
+        "x2": 130.1330108642578,
+        "y2": 583.9788208007812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_6_block_6"
+    },
+    {
+      "page_number": 6,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 597.5581665039062,
+        "x2": 1166.2001953125,
+        "y2": 648.4637451171875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_6_block_7"
+    },
+    {
+      "page_number": 6,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 663.5816040039062,
+        "x2": 1128.4979248046875,
+        "y2": 696.4803466796875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_6_block_8"
+    },
+    {
+      "page_number": 6,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 708.4515380859375,
+        "x2": 347.61468505859375,
+        "y2": 729.9090576171875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_6_block_9"
+    },
+    {
+      "page_number": 6,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 740.4077758789062,
+        "x2": 1127.28857421875,
+        "y2": 773.3065185546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_6_block_10"
+    },
+    {
+      "page_number": 6,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 789.6255493164062,
+        "x2": 1165.664794921875,
+        "y2": 822.5242919921875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_6_block_11"
+    },
+    {
+      "page_number": 6,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 76.41336822509766,
+        "y1": 838.8423461914062,
+        "x2": 1164.1859130859375,
+        "y2": 871.7410888671875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_6_block_12"
+    },
+    {
+      "page_number": 6,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 76.41336822509766,
+        "y1": 877.2554321289062,
+        "x2": 1135.349365234375,
+        "y2": 893.3485107421875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_6_block_13"
+    },
+    {
+      "page_number": 6,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 76.41336822509766,
+        "y1": 899.8229370117188,
+        "x2": 1169.45068359375,
+        "y2": 950.9686279296875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_6_block_14"
+    },
+    {
+      "page_number": 6,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 76.41336822509766,
+        "y1": 951.6812133789062,
+        "x2": 1163.6182861328125,
+        "y2": 984.5809326171875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_6_block_15"
+    },
+    {
+      "page_number": 6,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 76.41336822509766,
+        "y1": 991.2954711914062,
+        "x2": 1098.3983154296875,
+        "y2": 1007.3885498046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_6_block_16"
+    },
+    {
+      "page_number": 6,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 124.69267272949219,
+        "y1": 1065.9771728515625,
+        "x2": 1138.5474853515625,
+        "y2": 1081.4735107421875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_6_block_17"
+    },
+    {
+      "page_number": 6,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 239.8335418701172,
+        "x2": 1159.57080078125,
+        "y2": 324.3504638671875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_6_block_3"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 91.1465835571289,
+        "x2": 194.8948211669922,
+        "y2": 123.3327865600586
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_0"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 145.0015106201172,
+        "x2": 1177.036865234375,
+        "y2": 161.09461975097656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_1"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 182.66934204101562,
+        "x2": 730.1818237304688,
+        "y2": 204.12680053710938
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_2"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 211.0239715576172,
+        "x2": 106.83453369140625,
+        "y2": 227.11708068847656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_3"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 187.78964233398438,
+        "y1": 242.2349090576172,
+        "x2": 658.5574340820312,
+        "y2": 272.7332763671875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_4"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 682.4931030273438,
+        "y1": 232.6313934326172,
+        "x2": 1166.6156005859375,
+        "y2": 266.7313232421875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_5"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 287.85113525390625,
+        "x2": 118.05604553222656,
+        "y2": 303.9442138671875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_6"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 187.78964233398438,
+        "y1": 316.66070556640625,
+        "x2": 665.0009765625,
+        "y2": 367.5662841796875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_7"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 682.4931030273438,
+        "y1": 309.45855712890625,
+        "x2": 1162.37109375,
+        "y2": 360.3641357421875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_8"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 381.48394775390625,
+        "x2": 140.47003173828125,
+        "y2": 397.5770263671875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_9"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 187.78964233398438,
+        "y1": 411.49371337890625,
+        "x2": 591.2860107421875,
+        "y2": 445.5936279296875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_10"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 682.4931030273438,
+        "y1": 403.09136962890625,
+        "x2": 1151.695068359375,
+        "y2": 453.9959716796875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_11"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 460.71148681640625,
+        "x2": 95.627197265625,
+        "y2": 476.8045654296875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_12"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 187.78964233398438,
+        "y1": 488.32086181640625,
+        "x2": 676.9859619140625,
+        "y2": 521.2196044921875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_13"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 682.4931030273438,
+        "y1": 488.32086181640625,
+        "x2": 1157.3275146484375,
+        "y2": 521.2196044921875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_14"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 532.7359008789062,
+        "x2": 199.7178497314453,
+        "y2": 548.8289794921875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_15"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 187.78964233398438,
+        "y1": 560.3462524414062,
+        "x2": 643.3025512695312,
+        "y2": 593.2449951171875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_16"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 682.4931030273438,
+        "y1": 560.3462524414062,
+        "x2": 1163.4154052734375,
+        "y2": 593.2449951171875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_17"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 605.9614868164062,
+        "x2": 95.62742614746094,
+        "y2": 622.0545654296875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_18"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 187.78964233398438,
+        "y1": 635.9722290039062,
+        "x2": 675.96240234375,
+        "y2": 670.0711669921875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_19"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 682.4931030273438,
+        "y1": 627.5689086914062,
+        "x2": 1154.31884765625,
+        "y2": 678.4744873046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_20"
+    },
+    {
+      "page_number": 7,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 70.76765441894531,
+        "y1": 1023.9625854492188,
+        "x2": 1175.591552734375,
+        "y2": 1040.5877685546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_7_block_21"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 112.51968383789062,
+        "y1": 105.35194396972656,
+        "x2": 278.0796813964844,
+        "y2": 130.376708984375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_8_block_0"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 154.6040496826172,
+        "x2": 1139.2138671875,
+        "y2": 188.70301818847656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_8_block_1"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 367.34588623046875,
+        "y1": 208.3784637451172,
+        "x2": 606.5482788085938,
+        "y2": 226.25521850585938
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_8_block_2"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 291.1756286621094,
+        "y1": 406.94793701171875,
+        "x2": 642.29541015625,
+        "y2": 421.2439880371094
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_8_block_3"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 438.3578186035156,
+        "x2": 391.3464660644531,
+        "y2": 459.8152770996094
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_8_block_4"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 470.0688781738281,
+        "x2": 203.23861694335938,
+        "y2": 487.9456481933594
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_8_block_5"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 499.12359619140625,
+        "x2": 1158.44775390625,
+        "y2": 533.2235107421875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_8_block_6"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 548.0962524414062,
+        "x2": 308.1560974121094,
+        "y2": 565.9729614257812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_8_block_7"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 577.1509399414062,
+        "x2": 1171.6571044921875,
+        "y2": 644.8621826171875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_8_block_8"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 142.06121826171875,
+        "y1": 665.7368774414062,
+        "x2": 797.5473022460938,
+        "y2": 683.6135864257812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_8_block_9"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 185.31378173828125,
+        "y1": 883.5133666992188,
+        "x2": 754.2435302734375,
+        "y2": 897.8093872070312
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_8_block_11"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 913.0230102539062,
+        "x2": 330.10052490234375,
+        "y2": 930.8997192382812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_8_block_12"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 942.0786743164062,
+        "x2": 1158.477783203125,
+        "y2": 992.9832763671875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_8_block_13"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 1003.2993774414062,
+        "x2": 1138.667724609375,
+        "y2": 1037.3992919921875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_8_block_14"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 1052.51708984375,
+        "x2": 1168.227783203125,
+        "y2": 1085.4158935546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_8_block_15"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 54.54325485229492,
+        "y1": 1101.9898681640625,
+        "x2": 347.5287780761719,
+        "y2": 1116.2860107421875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_8_block_16"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 54.54325485229492,
+        "y1": 1122.3970947265625,
+        "x2": 1121.1378173828125,
+        "y2": 1151.0975341796875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_8_block_17"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 70.76765441894531,
+        "y1": 1201.6246337890625,
+        "x2": 1175.591552734375,
+        "y2": 1218.2489013671875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_8_block_23"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 577.1509399414062,
+        "x2": 1171.6571044921875,
+        "y2": 644.8621826171875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_8_block_10"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 54.54325485229492,
+        "y1": 1122.3970947265625,
+        "x2": 1121.1378173828125,
+        "y2": 1151.0975341796875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_8_block_21"
+    },
+    {
+      "page_number": 8,
+      "block_type": "Figure",
+      "bounding_box": {
+        "x1": 142,
+        "y1": 730,
+        "x2": 403,
+        "y2": 835
+      },
+      "confidence": 0.7,
+      "block_id": "figure_page_8_block_53"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 112.51968383789062,
+        "y1": 105.35292053222656,
+        "x2": 295.5213317871094,
+        "y2": 130.377685546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_0"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 159.86074829101562,
+        "x2": 285.6477966308594,
+        "y2": 181.31820678710938
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_1"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 193.0181121826172,
+        "x2": 1168.3746337890625,
+        "y2": 242.72254943847656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_2"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 259.4955139160156,
+        "x2": 376.38336181640625,
+        "y2": 280.9529724121094
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_3"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 291.45269775390625,
+        "x2": 1162.6363525390625,
+        "y2": 342.3572998046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_4"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 357.47515869140625,
+        "x2": 1154.42919921875,
+        "y2": 408.3807373046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_5"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 76.41336822509766,
+        "y1": 418.69683837890625,
+        "x2": 1167.7506103515625,
+        "y2": 521.2196044921875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_6"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 76.41336822509766,
+        "y1": 527.9341430664062,
+        "x2": 1164.196533203125,
+        "y2": 577.6395263671875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_7"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 76.41336822509766,
+        "y1": 584.3540649414062,
+        "x2": 1141.195068359375,
+        "y2": 635.2596435546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_8"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 76.41336822509766,
+        "y1": 640.7739868164062,
+        "x2": 1159.7918701171875,
+        "y2": 673.6727294921875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_9"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 76.41336822509766,
+        "y1": 680.3872680664062,
+        "x2": 1133.30224609375,
+        "y2": 713.2869873046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_10"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 728.1597290039062,
+        "x2": 808.6443481445312,
+        "y2": 746.0364379882812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_11"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 757.2144165039062,
+        "x2": 1171.01708984375,
+        "y2": 808.1199951171875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_12"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 819.6362915039062,
+        "x2": 1163.7154541015625,
+        "y2": 852.5350341796875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_13"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 862.8511352539062,
+        "x2": 1151.764892578125,
+        "y2": 913.7567138671875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_14"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 925.2730102539062,
+        "x2": 1164.4788818359375,
+        "y2": 941.3660888671875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_15"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 952.1370849609375,
+        "x2": 511.96331787109375,
+        "y2": 973.5946044921875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_16"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 984.0933227539062,
+        "x2": 707.9691772460938,
+        "y2": 1000.1864013671875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_17"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 76.41336822509766,
+        "y1": 1006.9009399414062,
+        "x2": 1157.2808837890625,
+        "y2": 1039.8006591796875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_18"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 69.5109634399414,
+        "y1": 1089.9859619140625,
+        "x2": 1138.5474853515625,
+        "y2": 1106.6112060546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_9_block_24"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 76.41336822509766,
+        "y1": 418.69683837890625,
+        "x2": 1167.7506103515625,
+        "y2": 521.2196044921875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_9_block_7"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 76.41336822509766,
+        "y1": 527.9341430664062,
+        "x2": 1164.196533203125,
+        "y2": 577.6395263671875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_9_block_8"
+    },
+    {
+      "page_number": 9,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 819.6362915039062,
+        "x2": 1163.7154541015625,
+        "y2": 852.5350341796875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_9_block_14"
+    },
+    {
+      "page_number": 10,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 76.41336822509766,
+        "y1": 88.58061981201172,
+        "x2": 1172.5069580078125,
+        "y2": 139.48622131347656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_10_block_0"
+    },
+    {
+      "page_number": 10,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 76.41336822509766,
+        "y1": 145.0005340576172,
+        "x2": 1148.8404541015625,
+        "y2": 212.71180725097656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_10_block_1"
+    },
+    {
+      "page_number": 10,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 76.41336822509766,
+        "y1": 219.4263153076172,
+        "x2": 1166.172119140625,
+        "y2": 321.9500732421875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_10_block_2"
+    },
+    {
+      "page_number": 10,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 76.41336822509766,
+        "y1": 327.46441650390625,
+        "x2": 1164.998779296875,
+        "y2": 360.3631591796875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_10_block_3"
+    },
+    {
+      "page_number": 10,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 377.1361389160156,
+        "x2": 125.17449188232422,
+        "y2": 398.5935974121094
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_10_block_4"
+    },
+    {
+      "page_number": 10,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 409.09234619140625,
+        "x2": 1138.144287109375,
+        "y2": 459.9979248046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_10_block_5"
+    },
+    {
+      "page_number": 10,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 470.31402587890625,
+        "x2": 1172.9036865234375,
+        "y2": 538.0252685546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_10_block_6"
+    },
+    {
+      "page_number": 10,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 549.5415649414062,
+        "x2": 1153.1693115234375,
+        "y2": 617.2528076171875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_10_block_7"
+    },
+    {
+      "page_number": 10,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 627.5689086914062,
+        "x2": 1176.557373046875,
+        "y2": 696.4803466796875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_10_block_8"
+    },
+    {
+      "page_number": 10,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 112.50093078613281,
+        "y1": 728.3685302734375,
+        "x2": 330.3530578613281,
+        "y2": 753.393310546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_10_block_9"
+    },
+    {
+      "page_number": 10,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 782.4224243164062,
+        "x2": 1050.5321044921875,
+        "y2": 798.5155029296875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_10_block_10"
+    },
+    {
+      "page_number": 10,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 815.2884521484375,
+        "x2": 219.12042236328125,
+        "y2": 836.7459716796875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_10_block_11"
+    },
+    {
+      "page_number": 10,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 852.0464477539062,
+        "x2": 1174.431640625,
+        "y2": 954.5701904296875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_10_block_12"
+    },
+    {
+      "page_number": 10,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 969.6880493164062,
+        "x2": 1173.114013671875,
+        "y2": 1037.3992919921875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_10_block_13"
+    },
+    {
+      "page_number": 10,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 69.5109634399414,
+        "y1": 1097.1881103515625,
+        "x2": 1138.5474853515625,
+        "y2": 1113.8133544921875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_10_block_14"
+    },
+    {
+      "page_number": 10,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 76.41336822509766,
+        "y1": 88.58061981201172,
+        "x2": 1172.5069580078125,
+        "y2": 139.48622131347656
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_10_block_0"
+    },
+    {
+      "page_number": 10,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 76.41336822509766,
+        "y1": 145.0005340576172,
+        "x2": 1148.8404541015625,
+        "y2": 212.71180725097656
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_10_block_1"
+    },
+    {
+      "page_number": 10,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 969.6880493164062,
+        "x2": 1173.114013671875,
+        "y2": 1037.3992919921875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_10_block_14"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 1070.115478515625,
+        "y1": 38.41961669921875,
+        "x2": 1177.18798828125,
+        "y2": 52.71565628051758
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_0"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 102.94862365722656,
+        "x2": 701.1358032226562,
+        "y2": 127.97339630126953
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_1"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 147.4009246826172,
+        "x2": 1153.21044921875,
+        "y2": 163.49403381347656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_2"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 167.8071746826172,
+        "x2": 1174.6553955078125,
+        "y2": 183.90028381347656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_3"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 187.0142059326172,
+        "x2": 1174.6531982421875,
+        "y2": 203.10731506347656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_4"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 206.2212371826172,
+        "x2": 1174.6553955078125,
+        "y2": 223.51356506347656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_5"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 226.6274871826172,
+        "x2": 1174.6553955078125,
+        "y2": 242.72059631347656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_6"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 245.8345184326172,
+        "x2": 1174.64404296875,
+        "y2": 263.1268310546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_7"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 266.24078369140625,
+        "x2": 1174.6527099609375,
+        "y2": 284.7362060546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_8"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 290.24859619140625,
+        "x2": 1174.6527099609375,
+        "y2": 306.3416748046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_9"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 68.66692352294922,
+        "y1": 318.11492919921875,
+        "x2": 1071.23193359375,
+        "y2": 332.4109802246094
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_10"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 348.3236389160156,
+        "x2": 411.6051940917969,
+        "y2": 369.7810974121094
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_11"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 385.08453369140625,
+        "x2": 1124.48046875,
+        "y2": 419.1815185546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_12"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 434.29937744140625,
+        "x2": 1175.7027587890625,
+        "y2": 468.4002685546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_13"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 483.9720764160156,
+        "x2": 241.91189575195312,
+        "y2": 505.4295349121094
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_14"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 520.7290649414062,
+        "x2": 1175.1927490234375,
+        "y2": 606.4471435546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_15"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 621.5306396484375,
+        "x2": 378.2637023925781,
+        "y2": 646.555419921875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_16"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 665.9790649414062,
+        "x2": 1148.9151611328125,
+        "y2": 682.0721435546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_17"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 686.3892211914062,
+        "x2": 1162.696044921875,
+        "y2": 706.0838623046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_18"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 709.1939086914062,
+        "x2": 1162.7073974609375,
+        "y2": 727.6893310546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_19"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 730.8032836914062,
+        "x2": 1175.599853515625,
+        "y2": 750.4979248046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_20"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 764.4165649414062,
+        "x2": 1168.353271484375,
+        "y2": 866.9393310546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_21"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 127.18728637695312,
+        "y1": 981.9469604492188,
+        "x2": 1175.59716796875,
+        "y2": 996.2429809570312
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_11_block_24"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 147.4009246826172,
+        "x2": 1153.21044921875,
+        "y2": 163.49403381347656
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_11_block_2"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 187.0142059326172,
+        "x2": 1174.6531982421875,
+        "y2": 203.10731506347656
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_11_block_4"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 206.2212371826172,
+        "x2": 1174.6553955078125,
+        "y2": 223.51356506347656
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_11_block_5"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 245.8345184326172,
+        "x2": 1174.64404296875,
+        "y2": 263.1268310546875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_11_block_7"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 266.24078369140625,
+        "x2": 1174.6527099609375,
+        "y2": 284.7362060546875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_11_block_8"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 290.24859619140625,
+        "x2": 1174.6527099609375,
+        "y2": 306.3416748046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_11_block_9"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 665.9790649414062,
+        "x2": 1148.9151611328125,
+        "y2": 682.0721435546875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_11_block_17"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 730.8032836914062,
+        "x2": 1175.599853515625,
+        "y2": 750.4979248046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_11_block_20"
+    },
+    {
+      "page_number": 11,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 764.4165649414062,
+        "x2": 1168.353271484375,
+        "y2": 866.9393310546875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_11_block_21"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 1070.115478515625,
+        "y1": 38.41571044921875,
+        "x2": 1177.18798828125,
+        "y2": 52.71175003051758
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_12_block_0"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 88.54237365722656,
+        "x2": 362.5613098144531,
+        "y2": 113.56714630126953
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_12_block_1"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 129.3931121826172,
+        "x2": 1174.5360107421875,
+        "y2": 336.3533935546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_12_block_2"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 351.47125244140625,
+        "x2": 1175.5673828125,
+        "y2": 470.7987060546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_12_block_3"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 487.11578369140625,
+        "x2": 1175.8619384765625,
+        "y2": 538.0213623046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_12_block_4"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 553.1392211914062,
+        "x2": 1175.784423828125,
+        "y2": 725.2869873046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_12_block_5"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 740.4048461914062,
+        "x2": 764.6807861328125,
+        "y2": 756.4979248046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_12_block_6"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 775.2173461914062,
+        "x2": 1153.0228271484375,
+        "y2": 791.3104248046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_12_block_7"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 796.8228149414062,
+        "x2": 1174.718994140625,
+        "y2": 815.3182373046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_12_block_8"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 818.4321899414062,
+        "x2": 1174.71923828125,
+        "y2": 834.5252685546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_12_block_9"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 837.6392211914062,
+        "x2": 1174.727783203125,
+        "y2": 853.7322998046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_12_block_10"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 859.2446899414062,
+        "x2": 1174.727783203125,
+        "y2": 878.9393310546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_12_block_11"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 904.8618774414062,
+        "x2": 1167.7569580078125,
+        "y2": 955.7674560546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_12_block_12"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 127.18728637695312,
+        "y1": 1017.9586791992188,
+        "x2": 1175.59716796875,
+        "y2": 1032.2547607421875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_12_block_13"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 553.1392211914062,
+        "x2": 1175.784423828125,
+        "y2": 725.2869873046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_12_block_5"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 775.2173461914062,
+        "x2": 1153.0228271484375,
+        "y2": 791.3104248046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_12_block_7"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 796.8228149414062,
+        "x2": 1174.718994140625,
+        "y2": 815.3182373046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_12_block_8"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 818.4321899414062,
+        "x2": 1174.71923828125,
+        "y2": 834.5252685546875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_12_block_9"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 837.6392211914062,
+        "x2": 1174.727783203125,
+        "y2": 853.7322998046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_12_block_10"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 859.2446899414062,
+        "x2": 1174.727783203125,
+        "y2": 878.9393310546875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_12_block_11"
+    },
+    {
+      "page_number": 12,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 904.8618774414062,
+        "x2": 1167.7569580078125,
+        "y2": 955.7674560546875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_12_block_12"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 1070.115478515625,
+        "y1": 38.41961669921875,
+        "x2": 1177.18798828125,
+        "y2": 52.71565628051758
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_0"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 87.38140106201172,
+        "x2": 1169.9267578125,
+        "y2": 216.31044006347656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_1"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 239.8345184326172,
+        "x2": 1165.0247802734375,
+        "y2": 341.1541748046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_2"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 357.47515869140625,
+        "x2": 1145.3232421875,
+        "y2": 390.3729248046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_3"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 406.69000244140625,
+        "x2": 539.1575927734375,
+        "y2": 422.7830810546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_4"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 441.50250244140625,
+        "x2": 1153.191650390625,
+        "y2": 457.5955810546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_5"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 463.11187744140625,
+        "x2": 1174.6629638671875,
+        "y2": 480.4041748046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_6"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 483.51812744140625,
+        "x2": 1174.6651611328125,
+        "y2": 503.2127685546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_7"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 506.32672119140625,
+        "x2": 1174.664794921875,
+        "y2": 522.4197998046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_8"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 525.5337524414062,
+        "x2": 1174.6715087890625,
+        "y2": 541.6268310546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_9"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 571.6048583984375,
+        "x2": 211.99832153320312,
+        "y2": 593.0623779296875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_10"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 608.3618774414062,
+        "x2": 873.8292236328125,
+        "y2": 624.4549560546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_11"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 640.7720336914062,
+        "x2": 1173.983154296875,
+        "y2": 690.4783935546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_12"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 707.2493896484375,
+        "x2": 204.5238494873047,
+        "y2": 728.7069091796875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_13"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 744.0103149414062,
+        "x2": 1162.8267822265625,
+        "y2": 776.9080810546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_14"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 793.2251586914062,
+        "x2": 1162.839111328125,
+        "y2": 842.9315185546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_15"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 859.7025146484375,
+        "x2": 210.92919921875,
+        "y2": 881.1600341796875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_16"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 896.4634399414062,
+        "x2": 1160.40478515625,
+        "y2": 929.3612060546875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_17"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 945.6782836914062,
+        "x2": 1153.110595703125,
+        "y2": 996.5838623046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_18"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 127.18728637695312,
+        "y1": 1058.7750244140625,
+        "x2": 1175.59716796875,
+        "y2": 1073.0711669921875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_13_block_19"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 239.8345184326172,
+        "x2": 1165.0247802734375,
+        "y2": 341.1541748046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_13_block_2"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 441.50250244140625,
+        "x2": 1153.191650390625,
+        "y2": 457.5955810546875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_13_block_5"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 463.11187744140625,
+        "x2": 1174.6629638671875,
+        "y2": 480.4041748046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_13_block_6"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 506.32672119140625,
+        "x2": 1174.664794921875,
+        "y2": 522.4197998046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_13_block_8"
+    },
+    {
+      "page_number": 13,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 945.6782836914062,
+        "x2": 1153.110595703125,
+        "y2": 996.5838623046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_13_block_18"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 1070.115478515625,
+        "y1": 38.42352294921875,
+        "x2": 1177.18798828125,
+        "y2": 52.71956253051758
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_0"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 103.44082641601562,
+        "x2": 270.7303466796875,
+        "y2": 124.8982925415039
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_1"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 140.2017059326172,
+        "x2": 1151.689697265625,
+        "y2": 174.30262756347656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_2"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 193.0220184326172,
+        "x2": 1149.421630859375,
+        "y2": 209.11512756347656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_3"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 213.4282684326172,
+        "x2": 1175.599853515625,
+        "y2": 229.52137756347656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_4"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 232.6313934326172,
+        "x2": 1175.599853515625,
+        "y2": 248.72450256347656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_5"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 251.8423309326172,
+        "x2": 1175.599853515625,
+        "y2": 267.9354248046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_6"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 272.24859619140625,
+        "x2": 1175.599853515625,
+        "y2": 290.7401123046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_7"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 337.06890869140625,
+        "x2": 582.4886474609375,
+        "y2": 353.1619873046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_8"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 373.08453369140625,
+        "x2": 1153.1729736328125,
+        "y2": 389.1776123046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_9"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 393.49078369140625,
+        "x2": 1174.6527099609375,
+        "y2": 409.5838623046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_10"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 412.69390869140625,
+        "x2": 1174.6527099609375,
+        "y2": 428.7869873046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_11"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 431.90484619140625,
+        "x2": 1174.6527099609375,
+        "y2": 447.9979248046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_12"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 451.10797119140625,
+        "x2": 1174.6527099609375,
+        "y2": 467.2010498046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_13"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 470.31890869140625,
+        "x2": 1174.6527099609375,
+        "y2": 486.4119873046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_14"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 490.72515869140625,
+        "x2": 1174.6527099609375,
+        "y2": 509.2166748046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_15"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 539.9017333984375,
+        "x2": 421.74755859375,
+        "y2": 564.926513671875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_16"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 785.5039672851562,
+        "y1": 596.3579711914062,
+        "x2": 990.388427734375,
+        "y2": 612.4510498046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_17"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 617.9673461914062,
+        "x2": 135.66598510742188,
+        "y2": 634.0604248046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_18"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 657.6594848632812,
+        "y1": 632.3735961914062,
+        "x2": 1118.154541015625,
+        "y2": 648.4666748046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_19"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 653.9829711914062,
+        "x2": 1161.7012939453125,
+        "y2": 670.0760498046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_20"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 673.1860961914062,
+        "x2": 1161.7012939453125,
+        "y2": 689.2791748046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_21"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 692.3970336914062,
+        "x2": 1161.7012939453125,
+        "y2": 708.4901123046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_22"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 711.6001586914062,
+        "x2": 1161.7012939453125,
+        "y2": 727.6932373046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_23"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 800.4282836914062,
+        "x2": 856.054443359375,
+        "y2": 816.5213623046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_24"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 934.37451171875,
+        "y1": 786.0298461914062,
+        "x2": 1127.1634521484375,
+        "y2": 802.1229248046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_25"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 822.0376586914062,
+        "x2": 1174.634033203125,
+        "y2": 838.1307373046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_26"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 841.2485961914062,
+        "x2": 1174.634033203125,
+        "y2": 857.3416748046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_27"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 860.4517211914062,
+        "x2": 1174.6409912109375,
+        "y2": 876.5447998046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_28"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 879.6626586914062,
+        "x2": 1174.634033203125,
+        "y2": 895.7557373046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_29"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 898.8657836914062,
+        "x2": 1174.6409912109375,
+        "y2": 916.1619873046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_30"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 919.2720336914062,
+        "x2": 1174.634033203125,
+        "y2": 937.7635498046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_31"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 1012.9048461914062,
+        "x2": 854.5538940429688,
+        "y2": 1030.2010498046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_32"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 934.37451171875,
+        "y1": 998.4985961914062,
+        "x2": 1127.1634521484375,
+        "y2": 1014.5916748046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_33"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 1034.51416015625,
+        "x2": 1174.634033203125,
+        "y2": 1050.6072998046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_34"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 1053.71728515625,
+        "x2": 1174.634033203125,
+        "y2": 1069.8104248046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_35"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 1072.92822265625,
+        "x2": 1174.634033203125,
+        "y2": 1089.0213623046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_36"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 1092.13134765625,
+        "x2": 1174.6409912109375,
+        "y2": 1109.4276123046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_37"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 1112.53759765625,
+        "x2": 1174.634033203125,
+        "y2": 1131.0369873046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_38"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 68.72319030761719,
+        "y1": 1210.0328369140625,
+        "x2": 1138.552978515625,
+        "y2": 1226.6541748046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_14_block_39"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 140.2017059326172,
+        "x2": 1151.689697265625,
+        "y2": 174.30262756347656
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_2"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 193.0220184326172,
+        "x2": 1149.421630859375,
+        "y2": 209.11512756347656
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_3"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 213.4282684326172,
+        "x2": 1175.599853515625,
+        "y2": 229.52137756347656
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_4"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 232.6313934326172,
+        "x2": 1175.599853515625,
+        "y2": 248.72450256347656
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_5"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 251.8423309326172,
+        "x2": 1175.599853515625,
+        "y2": 267.9354248046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_6"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 272.24859619140625,
+        "x2": 1175.599853515625,
+        "y2": 290.7401123046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_7"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 373.08453369140625,
+        "x2": 1153.1729736328125,
+        "y2": 389.1776123046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_9"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 393.49078369140625,
+        "x2": 1174.6527099609375,
+        "y2": 409.5838623046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_10"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 412.69390869140625,
+        "x2": 1174.6527099609375,
+        "y2": 428.7869873046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_11"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 431.90484619140625,
+        "x2": 1174.6527099609375,
+        "y2": 447.9979248046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_12"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 451.10797119140625,
+        "x2": 1174.6527099609375,
+        "y2": 467.2010498046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_13"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 470.31890869140625,
+        "x2": 1174.6527099609375,
+        "y2": 486.4119873046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_14"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 490.72515869140625,
+        "x2": 1174.6527099609375,
+        "y2": 509.2166748046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_15"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 657.6594848632812,
+        "y1": 632.3735961914062,
+        "x2": 1118.154541015625,
+        "y2": 648.4666748046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_19"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 673.1860961914062,
+        "x2": 1161.7012939453125,
+        "y2": 689.2791748046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_21"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 692.3970336914062,
+        "x2": 1161.7012939453125,
+        "y2": 708.4901123046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_22"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 822.0376586914062,
+        "x2": 1174.634033203125,
+        "y2": 838.1307373046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_26"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 841.2485961914062,
+        "x2": 1174.634033203125,
+        "y2": 857.3416748046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_27"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 919.2720336914062,
+        "x2": 1174.634033203125,
+        "y2": 937.7635498046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_31"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 1034.51416015625,
+        "x2": 1174.634033203125,
+        "y2": 1050.6072998046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_34"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 1053.71728515625,
+        "x2": 1174.634033203125,
+        "y2": 1069.8104248046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_35"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 1072.92822265625,
+        "x2": 1174.634033203125,
+        "y2": 1089.0213623046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_36"
+    },
+    {
+      "page_number": 14,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 49.1976432800293,
+        "y1": 1112.53759765625,
+        "x2": 1174.634033203125,
+        "y2": 1131.0369873046875
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_14_block_38"
+    },
+    {
+      "page_number": 15,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 1070.115478515625,
+        "y1": 38.41571044921875,
+        "x2": 1177.18798828125,
+        "y2": 52.71175003051758
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_15_block_0"
+    },
+    {
+      "page_number": 15,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 88.32670593261719,
+        "x2": 328.5934753417969,
+        "y2": 106.20346069335938
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_15_block_1"
+    },
+    {
+      "page_number": 15,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 122.18608856201172,
+        "x2": 129.2652587890625,
+        "y2": 138.27919006347656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_15_block_2"
+    },
+    {
+      "page_number": 15,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 153.3970184326172,
+        "x2": 1167.826171875,
+        "y2": 255.91981506347656
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_15_block_3"
+    },
+    {
+      "page_number": 15,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 271.03765869140625,
+        "x2": 1164.0133056640625,
+        "y2": 415.5760498046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_15_block_4"
+    },
+    {
+      "page_number": 15,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 430.69390869140625,
+        "x2": 134.0621337890625,
+        "y2": 446.7869873046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_15_block_5"
+    },
+    {
+      "page_number": 15,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 461.90484619140625,
+        "x2": 1172.2523193359375,
+        "y2": 547.6229248046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_15_block_6"
+    },
+    {
+      "page_number": 15,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 562.7407836914062,
+        "x2": 1155.788330078125,
+        "y2": 596.8416748046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_15_block_7"
+    },
+    {
+      "page_number": 15,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 611.9595336914062,
+        "x2": 1160.878173828125,
+        "y2": 662.8651123046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_15_block_8"
+    },
+    {
+      "page_number": 15,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 677.7329711914062,
+        "x2": 111.63316345214844,
+        "y2": 695.6096801757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_15_block_9"
+    },
+    {
+      "page_number": 15,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 711.5923461914062,
+        "x2": 1167.7952880859375,
+        "y2": 797.3104248046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_15_block_10"
+    },
+    {
+      "page_number": 15,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 812.1782836914062,
+        "x2": 192.5594940185547,
+        "y2": 830.0549926757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_15_block_11"
+    },
+    {
+      "page_number": 15,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 846.0376586914062,
+        "x2": 1148.628662109375,
+        "y2": 896.9432373046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_15_block_12"
+    },
+    {
+      "page_number": 15,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 68.72319030761719,
+        "y1": 956.7282104492188,
+        "x2": 1138.552978515625,
+        "y2": 973.3572998046875
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_15_block_13"
+    },
+    {
+      "page_number": 16,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 153.1626434326172,
+        "x2": 1177.1942138671875,
+        "y2": 247.86752319335938
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_16_block_0"
+    },
+    {
+      "page_number": 16,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 148.43844604492188,
+        "y1": 263.6001281738281,
+        "x2": 1177.1959228515625,
+        "y2": 281.4768981933594
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_16_block_1"
+    },
+    {
+      "page_number": 16,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 282.8032531738281,
+        "x2": 582.9803466796875,
+        "y2": 300.6800231933594
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_16_block_2"
+    },
+    {
+      "page_number": 16,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 148.43844604492188,
+        "y1": 316.4204406738281,
+        "x2": 391.1858825683594,
+        "y2": 334.2972106933594
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_16_block_3"
+    },
+    {
+      "page_number": 16,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 220.46351623535156,
+        "y1": 349.6021728515625,
+        "x2": 1177.18798828125,
+        "y2": 367.9065856933594
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_16_block_4"
+    },
+    {
+      "page_number": 16,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 369.2329406738281,
+        "x2": 1177.1910400390625,
+        "y2": 463.9378356933594
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_16_block_5"
+    },
+    {
+      "page_number": 16,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 220.46351623535156,
+        "y1": 479.6704406738281,
+        "x2": 1177.1920166015625,
+        "y2": 497.5472106933594
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_16_block_6"
+    },
+    {
+      "page_number": 16,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 498.8813781738281,
+        "x2": 710.240478515625,
+        "y2": 516.7581176757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_16_block_7"
+    },
+    {
+      "page_number": 16,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 220.46351623535156,
+        "y1": 532.4907836914062,
+        "x2": 1177.179443359375,
+        "y2": 550.3674926757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_16_block_8"
+    },
+    {
+      "page_number": 16,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 551.7017211914062,
+        "x2": 952.0975341796875,
+        "y2": 569.5784301757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_16_block_9"
+    },
+    {
+      "page_number": 16,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 220.46351623535156,
+        "y1": 585.3110961914062,
+        "x2": 1177.1917724609375,
+        "y2": 603.1878051757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_16_block_10"
+    },
+    {
+      "page_number": 16,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 604.5142211914062,
+        "x2": 1177.1939697265625,
+        "y2": 718.4299926757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_16_block_11"
+    },
+    {
+      "page_number": 16,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 220.46351623535156,
+        "y1": 734.1626586914062,
+        "x2": 1177.180908203125,
+        "y2": 752.0393676757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_16_block_12"
+    },
+    {
+      "page_number": 16,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 753.3657836914062,
+        "x2": 289.54705810546875,
+        "y2": 771.2424926757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_16_block_13"
+    },
+    {
+      "page_number": 16,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 148.43844604492188,
+        "y1": 786.9829711914062,
+        "x2": 1177.21826171875,
+        "y2": 804.8596801757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_16_block_14"
+    },
+    {
+      "page_number": 16,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 806.1860961914062,
+        "x2": 1177.1956787109375,
+        "y2": 900.8909301757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_16_block_15"
+    },
+    {
+      "page_number": 17,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 153.1626434326172,
+        "x2": 1177.19775390625,
+        "y2": 401.5159606933594
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_17_block_0"
+    },
+    {
+      "page_number": 17,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 148.43844604492188,
+        "y1": 417.2485656738281,
+        "x2": 1177.18798828125,
+        "y2": 435.1253356933594
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_17_block_1"
+    },
+    {
+      "page_number": 17,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 436.4595031738281,
+        "x2": 1177.192138671875,
+        "y2": 473.5393981933594
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_17_block_2"
+    },
+    {
+      "page_number": 17,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 148.43844604492188,
+        "y1": 489.2720031738281,
+        "x2": 435.37628173828125,
+        "y2": 507.1487731933594
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_17_block_3"
+    },
+    {
+      "page_number": 17,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 220.46351623535156,
+        "y1": 522.8892211914062,
+        "x2": 1177.188232421875,
+        "y2": 540.7659301757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_17_block_4"
+    },
+    {
+      "page_number": 17,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 542.0923461914062,
+        "x2": 829.9696655273438,
+        "y2": 559.9690551757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_17_block_5"
+    },
+    {
+      "page_number": 17,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 220.46351623535156,
+        "y1": 575.7095336914062,
+        "x2": 1177.2039794921875,
+        "y2": 593.5862426757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_17_block_6"
+    },
+    {
+      "page_number": 17,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 594.9126586914062,
+        "x2": 1177.19677734375,
+        "y2": 708.8206176757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_17_block_7"
+    },
+    {
+      "page_number": 17,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 148.43844604492188,
+        "y1": 724.5610961914062,
+        "x2": 1177.180908203125,
+        "y2": 742.4378051757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_17_block_8"
+    },
+    {
+      "page_number": 17,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 743.7642211914062,
+        "x2": 1177.19482421875,
+        "y2": 800.0549926757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_17_block_9"
+    },
+    {
+      "page_number": 17,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 516.83544921875,
+        "y1": 815.7876586914062,
+        "x2": 707.961181640625,
+        "y2": 833.6643676757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_17_block_10"
+    },
+    {
+      "page_number": 17,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 594.9126586914062,
+        "x2": 1177.19677734375,
+        "y2": 708.8206176757812
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_17_block_7"
+    },
+    {
+      "page_number": 17,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 743.7642211914062,
+        "x2": 1177.19482421875,
+        "y2": 800.0549926757812
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_17_block_9"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 76.56341552734375,
+        "y1": 157.9517059326172,
+        "x2": 505.0186767578125,
+        "y2": 177.03158569335938
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_0"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 129.71942138671875,
+        "y1": 175.9673309326172,
+        "x2": 354.7113342285156,
+        "y2": 193.84408569335938
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_1"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 509.4078369140625,
+        "y1": 159.1548309326172,
+        "x2": 1170.75634765625,
+        "y2": 253.85971069335938
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_2"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 509.4078369140625,
+        "y1": 269.5923156738281,
+        "x2": 1170.7523193359375,
+        "y2": 287.4690856933594
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_3"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 538.2178955078125,
+        "y1": 288.7954406738281,
+        "x2": 700.9467163085938,
+        "y2": 306.6722106933594
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_4"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 509.4078369140625,
+        "y1": 322.4204406738281,
+        "x2": 803.2387084960938,
+        "y2": 340.2972106933594
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_5"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 509.4078369140625,
+        "y1": 356.0298156738281,
+        "x2": 1170.762939453125,
+        "y2": 412.3128356933594
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_6"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 72.32444763183594,
+        "y1": 432.8579406738281,
+        "x2": 1170.760009765625,
+        "y2": 490.3440856933594
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_7"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 509.4078369140625,
+        "y1": 506.0766906738281,
+        "x2": 1170.7591552734375,
+        "y2": 523.9534301757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_8"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 538.2178955078125,
+        "y1": 525.2798461914062,
+        "x2": 1170.75927734375,
+        "y2": 562.3596801757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_9"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 509.4078369140625,
+        "y1": 578.1079711914062,
+        "x2": 1170.75927734375,
+        "y2": 595.9846801757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_10"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 538.2178955078125,
+        "y1": 597.3110961914062,
+        "x2": 1170.75927734375,
+        "y2": 634.3909301757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_11"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 509.4078369140625,
+        "y1": 650.1235961914062,
+        "x2": 1170.751708984375,
+        "y2": 668.0003051757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_12"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 538.2178955078125,
+        "y1": 669.3267211914062,
+        "x2": 1170.752685546875,
+        "y2": 706.4221801757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_13"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 509.4078369140625,
+        "y1": 722.1548461914062,
+        "x2": 1170.74951171875,
+        "y2": 740.0315551757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_14"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 538.2178955078125,
+        "y1": 741.3579711914062,
+        "x2": 1170.74951171875,
+        "y2": 778.4378051757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_15"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 509.4078369140625,
+        "y1": 794.1704711914062,
+        "x2": 1170.748046875,
+        "y2": 812.0471801757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_16"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 538.2178955078125,
+        "y1": 813.3892211914062,
+        "x2": 959.786865234375,
+        "y2": 831.2659301757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_17"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 509.4078369140625,
+        "y1": 846.9985961914062,
+        "x2": 1170.7503662109375,
+        "y2": 922.4846801757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_18"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 595.0501708984375,
+        "y1": 1046.26416015625,
+        "x2": 629.7296752929688,
+        "y2": 1064.1409912109375
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_18_block_19"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 72.32444763183594,
+        "y1": 432.8579406738281,
+        "x2": 1170.760009765625,
+        "y2": 490.3440856933594
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_18_block_7"
+    },
+    {
+      "page_number": 18,
+      "block_type": "Figure",
+      "bounding_box": {
+        "x1": 47,
+        "y1": 155,
+        "x2": 1174,
+        "y2": 943
+      },
+      "confidence": 0.7,
+      "block_id": "figure_page_18_block_80"
+    },
+    {
+      "page_number": 19,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 153.1593475341797,
+        "x2": 1177.19677734375,
+        "y2": 459.1363220214844
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_19_block_0"
+    },
+    {
+      "page_number": 19,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 479.6730041503906,
+        "x2": 1177.1829833984375,
+        "y2": 574.3765258789062
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_19_block_1"
+    },
+    {
+      "page_number": 19,
+      "block_type": "Text",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 594.9131469726562,
+        "x2": 1177.19677734375,
+        "y2": 862.4768676757812
+      },
+      "confidence": 0.85,
+      "block_id": "pymupdf_page_19_block_2"
+    },
+    {
+      "page_number": 19,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 153.1593475341797,
+        "x2": 1177.19677734375,
+        "y2": 459.1363220214844
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_19_block_0"
+    },
+    {
+      "page_number": 19,
+      "block_type": "Table",
+      "bounding_box": {
+        "x1": 47.60334014892578,
+        "y1": 594.9131469726562,
+        "x2": 1177.19677734375,
+        "y2": 862.4768676757812
+      },
+      "confidence": 0.8,
+      "block_id": "table_pattern_page_19_block_2"
+    }
+  ]
+}
