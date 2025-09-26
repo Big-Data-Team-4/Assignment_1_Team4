@@ -2,16 +2,21 @@
  
 ## Project Overview
  
-This project builds an intelligent end to end system that focuses on automating the creation of personalized travel itineraries using LLM and big data. It combines structured data – hotels, attractions in the cities and various day tours available in cities, with unstructured content from youtube video transcripts to create full-fledged travel plans. The project provides options to users to input their preferences like travel destination, dates, and interests. Once the options are provided the system creates day wise itineraries based on individual travel style.
- 
-The unique characteristic of the system is the orchestration of various technologies working together. Apache Airflow handles automated data ingestion into Snowflake to store structured data, and into Pinecone to store unstructured embeddings. LLM is paired with different CrewAI agents which helps in the itinerary generation logic. The frontend of the system is developed using Streamlit for a smooth user experience and FastAPI for the backend communication. The entire data pipeline is designed with the focus on scalability and real world usability, so the system is both technically sound and actually helpful to a wide range of users.
+Project Lantern is a modular, end-to-end pipeline that converts long PDFs (e.g., 10-K filings) into structured data. It performs OCR, layout detection, table extraction, and document cleanup, then writes clean Markdown/JSON plus CSV tables—all with optional concurrency and cost benchmarking.
+Key features
+Full parsing stack: OCR → layout → tables → doc post-processing (Docling).
+Modular adapters: swap implementations via scripts.adapters_team4 without changing the runner.
+Batch + parallel runs: process hundreds of pages with 1–N workers.
+Robust outputs: per-page JSON, Markdown, and table CSVs under src/data/parsed/.
+Benchmarking: benchmarks.py measures runtime, memory, failures, and estimates cloud cost (Azure Document Intelligence / OCR).
+Reproducible: single command to re-run on any PDF in src/data/raw/.
  
 ---
  
 ## Links 
 Codelabs : https://codelabs-preview.appspot.com/?file_id=1Tb0qTeCHsBzMm7QdRG1cyb6hgisS-eIZw4ilpAAza5o#0
 
-YouTube Link: https://drive.google.com/drive/u/1/folders/1u-t3VV2rjLgXD71rCuQnB1LO6OAI_A1C
+Video Link :
  
 ---
  
@@ -29,7 +34,7 @@ YouTube Link: https://drive.google.com/drive/u/1/folders/1u-t3VV2rjLgXD71rCuQnB1
  
 ## Architecture Diagram
  
-![AI-Generated Travel Itinerary](https://github.com/Bigdata2025Team5/DAMG7245_Team5_Final-Project/blob/main/Diagrams/ai_travel_itine…
+
  
 ---
  
