@@ -1,0 +1,132 @@
+2025-09-26 17:49:18,195 - __main___Intel_2024_10-K_subset - INFO - Output directory created: data/parsed/camelot_output/Intel_2024_10-K_subset
+2025-09-26 17:49:18,195 - __main___Intel_2024_10-K_subset - INFO - Initialized Enhanced Camelot extractor for: Intel_2024_10-K_subset.pdf
+2025-09-26 17:49:18,195 - __main___Intel_2024_10-K_subset - INFO - === Starting Enhanced Camelot Extraction ===
+2025-09-26 17:49:18,195 - __main___Intel_2024_10-K_subset - INFO - Starting enhanced lattice table extraction...
+2025-09-26 17:49:30,154 - __main___Intel_2024_10-K_subset - INFO - Basic lattice method found 3 tables
+2025-09-26 17:49:30,158 - __main___Intel_2024_10-K_subset - WARNING - Table 1 became empty after cleaning
+2025-09-26 17:49:30,175 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/lattice_basic_table_2_page_15.csv
+2025-09-26 17:49:30,185 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/lattice_basic_table_3_page_16.csv
+2025-09-26 17:49:41,271 - __main___Intel_2024_10-K_subset - INFO - Advanced lattice method found 9 tables
+2025-09-26 17:49:41,276 - __main___Intel_2024_10-K_subset - WARNING - Table 1 became empty after cleaning
+2025-09-26 17:49:41,278 - __main___Intel_2024_10-K_subset - WARNING - Table 2 became empty after cleaning
+2025-09-26 17:49:41,280 - __main___Intel_2024_10-K_subset - WARNING - Table 3 became empty after cleaning
+2025-09-26 17:49:41,283 - __main___Intel_2024_10-K_subset - WARNING - Table 4 became empty after cleaning
+2025-09-26 17:49:41,286 - __main___Intel_2024_10-K_subset - WARNING - Table 5 became empty after cleaning
+2025-09-26 17:49:41,288 - __main___Intel_2024_10-K_subset - WARNING - Table 6 became empty after cleaning
+2025-09-26 17:49:41,290 - __main___Intel_2024_10-K_subset - WARNING - Table 7 became empty after cleaning
+2025-09-26 17:49:41,298 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/lattice_advanced_table_8_page_15.csv
+2025-09-26 17:49:41,307 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/lattice_advanced_table_9_page_16.csv
+2025-09-26 17:49:41,317 - __main___Intel_2024_10-K_subset - INFO - Starting enhanced stream table extraction...
+2025-09-26 17:49:44,083 - __main___Intel_2024_10-K_subset - INFO - Basic stream method found 26 tables
+2025-09-26 17:49:44,088 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_basic_1 - Reasons: insufficient_size
+2025-09-26 17:49:44,091 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_basic_2 - Reasons: insufficient_size
+2025-09-26 17:49:44,100 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_basic_3 - Reasons: insufficient_size
+2025-09-26 17:49:44,103 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_basic_4 - Reasons: insufficient_size
+2025-09-26 17:49:44,112 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_basic_5 - Reasons: insufficient_size
+2025-09-26 17:49:44,123 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_basic_table_6_page_4.csv
+2025-09-26 17:49:44,129 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_basic_7 - Reasons: insufficient_size
+2025-09-26 17:49:44,133 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_basic_8 - Reasons: insufficient_size
+2025-09-26 17:49:44,145 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_basic_table_9_page_7.csv
+2025-09-26 17:49:44,149 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_basic_10 - Reasons: insufficient_size
+2025-09-26 17:49:44,153 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_basic_11 - Reasons: insufficient_size
+2025-09-26 17:49:44,157 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_basic_12 - Reasons: insufficient_size
+2025-09-26 17:49:44,164 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_basic_13 - Reasons: insufficient_size
+2025-09-26 17:49:44,169 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_basic_14 - Reasons: insufficient_size
+2025-09-26 17:49:44,177 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_basic_table_15_page_11.csv
+2025-09-26 17:49:44,188 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_basic_table_16_page_12.csv
+2025-09-26 17:49:44,192 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_basic_17 - Reasons: insufficient_size
+2025-09-26 17:49:44,202 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_basic_table_18_page_14.csv
+2025-09-26 17:49:44,206 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_basic_19 - Reasons: insufficient_size
+2025-09-26 17:49:44,216 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_basic_table_20_page_15.csv
+2025-09-26 17:49:44,230 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_basic_table_21_page_16.csv
+2025-09-26 17:49:44,244 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_basic_table_22_page_17.csv
+2025-09-26 17:49:44,260 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_basic_table_23_page_17.csv
+2025-09-26 17:49:44,276 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_basic_table_24_page_18.csv
+2025-09-26 17:49:44,287 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_basic_table_25_page_19.csv
+2025-09-26 17:49:44,301 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_basic_table_26_page_20.csv
+2025-09-26 17:49:47,193 - __main___Intel_2024_10-K_subset - INFO - Stream with edge tolerance found 26 tables
+2025-09-26 17:49:47,218 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_edge_tol_table_1_page_1.csv
+2025-09-26 17:49:47,222 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_edge_tol_2 - Reasons: insufficient_size
+2025-09-26 17:49:47,231 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_edge_tol_3 - Reasons: insufficient_size
+2025-09-26 17:49:47,235 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_edge_tol_4 - Reasons: insufficient_size
+2025-09-26 17:49:47,251 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_edge_tol_table_5_page_3.csv
+2025-09-26 17:49:47,261 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_edge_tol_table_6_page_4.csv
+2025-09-26 17:49:47,269 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_edge_tol_7 - Reasons: insufficient_size
+2025-09-26 17:49:47,274 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_edge_tol_8 - Reasons: insufficient_size
+2025-09-26 17:49:47,286 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_edge_tol_table_9_page_7.csv
+2025-09-26 17:49:47,290 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_edge_tol_10 - Reasons: insufficient_size
+2025-09-26 17:49:47,298 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_edge_tol_table_11_page_8.csv
+2025-09-26 17:49:47,303 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_edge_tol_12 - Reasons: insufficient_size
+2025-09-26 17:49:47,316 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_edge_tol_13 - Reasons: insufficient_size
+2025-09-26 17:49:47,322 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_edge_tol_14 - Reasons: insufficient_size
+2025-09-26 17:49:47,330 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_edge_tol_table_15_page_11.csv
+2025-09-26 17:49:47,337 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_edge_tol_16 - Reasons: insufficient_size
+2025-09-26 17:49:47,340 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_edge_tol_17 - Reasons: insufficient_size
+2025-09-26 17:49:47,349 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_edge_tol_table_18_page_14.csv
+2025-09-26 17:49:47,354 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_edge_tol_19 - Reasons: insufficient_size
+2025-09-26 17:49:47,361 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_edge_tol_20 - Reasons: insufficient_size
+2025-09-26 17:49:47,373 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_edge_tol_21 - Reasons: insufficient_size
+2025-09-26 17:49:47,386 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_edge_tol_table_22_page_17.csv
+2025-09-26 17:49:47,400 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_edge_tol_table_23_page_17.csv
+2025-09-26 17:49:47,416 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_edge_tol_table_24_page_18.csv
+2025-09-26 17:49:47,431 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_edge_tol_table_25_page_19.csv
+2025-09-26 17:49:47,446 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_edge_tol_table_26_page_20.csv
+2025-09-26 17:49:50,178 - __main___Intel_2024_10-K_subset - INFO - Custom stream found 26 tables
+2025-09-26 17:49:50,202 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_custom_1 - Reasons: insufficient_size
+2025-09-26 17:49:50,206 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_custom_2 - Reasons: insufficient_size
+2025-09-26 17:49:50,214 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_custom_3 - Reasons: insufficient_size
+2025-09-26 17:49:50,218 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_custom_4 - Reasons: insufficient_size
+2025-09-26 17:49:50,235 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_custom_table_5_page_3.csv
+2025-09-26 17:49:50,246 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_custom_table_6_page_4.csv
+2025-09-26 17:49:50,253 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_custom_7 - Reasons: insufficient_size
+2025-09-26 17:49:50,259 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_custom_8 - Reasons: insufficient_size
+2025-09-26 17:49:50,270 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_custom_table_9_page_7.csv
+2025-09-26 17:49:50,274 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_custom_10 - Reasons: insufficient_size
+2025-09-26 17:49:50,283 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_custom_table_11_page_8.csv
+2025-09-26 17:49:50,287 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_custom_12 - Reasons: insufficient_size
+2025-09-26 17:49:50,296 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_custom_13 - Reasons: insufficient_size
+2025-09-26 17:49:50,303 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_custom_14 - Reasons: insufficient_size
+2025-09-26 17:49:50,311 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_custom_table_15_page_11.csv
+2025-09-26 17:49:50,318 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_custom_16 - Reasons: insufficient_size
+2025-09-26 17:49:50,321 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_custom_17 - Reasons: insufficient_size
+2025-09-26 17:49:50,331 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_custom_table_18_page_14.csv
+2025-09-26 17:49:50,336 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_custom_19 - Reasons: insufficient_size
+2025-09-26 17:49:50,343 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_custom_20 - Reasons: insufficient_size
+2025-09-26 17:49:50,353 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_custom_21 - Reasons: insufficient_size
+2025-09-26 17:49:50,369 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_custom_table_22_page_17.csv
+2025-09-26 17:49:50,381 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_custom_table_23_page_17.csv
+2025-09-26 17:49:50,396 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_custom_table_24_page_18.csv
+2025-09-26 17:49:50,411 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_custom_table_25_page_19.csv
+2025-09-26 17:49:50,426 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_custom_table_26_page_20.csv
+2025-09-26 17:49:53,279 - __main___Intel_2024_10-K_subset - INFO - Stream tight found 26 tables
+2025-09-26 17:49:53,308 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_tight_table_1_page_1.csv
+2025-09-26 17:49:53,312 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_tight_2 - Reasons: insufficient_size
+2025-09-26 17:49:53,321 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_tight_3 - Reasons: insufficient_size
+2025-09-26 17:49:53,325 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_tight_4 - Reasons: insufficient_size
+2025-09-26 17:49:53,342 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_tight_table_5_page_3.csv
+2025-09-26 17:49:53,352 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_tight_table_6_page_4.csv
+2025-09-26 17:49:53,360 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_tight_7 - Reasons: insufficient_size
+2025-09-26 17:49:53,367 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_tight_8 - Reasons: insufficient_size
+2025-09-26 17:49:53,380 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_tight_table_9_page_7.csv
+2025-09-26 17:49:53,384 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_tight_10 - Reasons: insufficient_size
+2025-09-26 17:49:53,394 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_tight_table_11_page_8.csv
+2025-09-26 17:49:53,399 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_tight_12 - Reasons: insufficient_size
+2025-09-26 17:49:53,409 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_tight_13 - Reasons: insufficient_size
+2025-09-26 17:49:53,416 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_tight_14 - Reasons: insufficient_size
+2025-09-26 17:49:53,425 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_tight_table_15_page_11.csv
+2025-09-26 17:49:53,432 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_tight_16 - Reasons: insufficient_size
+2025-09-26 17:49:53,435 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_tight_17 - Reasons: insufficient_size
+2025-09-26 17:49:53,446 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_tight_table_18_page_14.csv
+2025-09-26 17:49:53,451 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_tight_19 - Reasons: insufficient_size
+2025-09-26 17:49:53,459 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_tight_20 - Reasons: insufficient_size
+2025-09-26 17:49:53,469 - __main___Intel_2024_10-K_subset - INFO - Filtered table: stream_tight_21 - Reasons: insufficient_size
+2025-09-26 17:49:53,483 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_tight_table_22_page_17.csv
+2025-09-26 17:49:53,498 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_tight_table_23_page_17.csv
+2025-09-26 17:49:53,516 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_tight_table_24_page_18.csv
+2025-09-26 17:49:53,532 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_tight_table_25_page_19.csv
+2025-09-26 17:49:53,548 - __main___Intel_2024_10-K_subset - INFO - Valid table saved: data/parsed/camelot_output/Intel_2024_10-K_subset/tables_csv/stream_tight_table_26_page_20.csv
+2025-09-26 17:49:53,580 - __main___Intel_2024_10-K_subset - INFO - Enhanced filtering: 51 valid, 57 filtered out
+2025-09-26 17:49:53,622 - __main___Intel_2024_10-K_subset - INFO - JSON results saved to: data/parsed/camelot_output/Intel_2024_10-K_subset/camelot_enhanced_extraction_Intel_2024_10-K_subset_20250926_174953.json
+2025-09-26 17:49:53,675 - __main___Intel_2024_10-K_subset - INFO - Markdown results saved to: data/parsed/camelot_output/Intel_2024_10-K_subset/camelot_enhanced_extraction_Intel_2024_10-K_subset_20250926_174953.md
+2025-09-26 17:49:53,675 - __main___Intel_2024_10-K_subset - INFO - === Enhanced Extraction Completed ===
+2025-09-26 17:49:53,675 - __main___Intel_2024_10-K_subset - INFO - Summary: 51 valid tables saved to CSV
