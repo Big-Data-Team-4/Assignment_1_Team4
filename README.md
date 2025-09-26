@@ -9,7 +9,7 @@ The unique characteristic of the system is the orchestration of various technolo
 ---
  
 ## Links 
-Codelabs : https://codelabs-preview.appspot.com/?file_id=1Ivaei3z5WiFeuO5PGgW__qULga5uAJL4WloMry3UyXQ#0
+Codelabs : https://codelabs-preview.appspot.com/?file_id=1Tb0qTeCHsBzMm7QdRG1cyb6hgisS-eIZw4ilpAAza5o#0
 
 YouTube Link: https://drive.google.com/drive/u/1/folders/1u-t3VV2rjLgXD71rCuQnB1LO6OAI_A1C
  
