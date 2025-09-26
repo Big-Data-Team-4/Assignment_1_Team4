@@ -1,59 +1,159 @@
 name: PDF Parser Pipeline
 
-# Controls when the action will run
 on:
   push:
-    branches:
-      - Test
-  # Allows you to run this workflow manually from the Actions tab
+    branches: [ Test ]
   workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    
-    # Set environment variables for the entire job
+
+    # Allow this workflow to push commits
+    permissions:
+      contents: write
+
     env:
       AZURE_DOC_INTELLIGENCE_ENDPOINT: ${{ secrets.AZURE_DOC_INTELLIGENCE_ENDPOINT }}
       AZURE_DOC_INTELLIGENCE_KEY: ${{ secrets.AZURE_DOC_INTELLIGENCE_KEY }}
-    
+
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout repository
         uses: actions/checkout@v4
-      
+        with:
+          fetch-depth: 0
+
       - name: Setup Python 3.10
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      
-      - name: Install DVC and dependencies
+
+      # Install system packages for Camelot/OpenCV
+      - name: Install system packages
         run: |
-          pip install --upgrade pip
-          pip install dvc
+          sudo apt-get update
+          sudo apt-get install -y ghostscript libgl1 poppler-utils
+
+      - name: Install DVC and Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip uninstall -y fitz || true
           pip install -r src/requirements.txt
-      
+          pip install "dvc[azure,gs,s3,ssh]"
+
+      # Configure Git early to ensure user config is set
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      # Remove Git tracking for output directories
+      - name: Remove Git tracking for output directories
+        run: |
+          echo "Removing Git tracking for output directories..."
+          git rm -r --cached src/data/parsed/pdfParser_output || true
+          git rm -r --cached src/data/parsed/camelot_output || true
+          git rm -r --cached src/data/parsed/layout_output || true
+          git rm -r --cached src/data/parsed/docling_output || true
+          git rm -r --cached src/data/parsed/fallback_output || true
+          # Commit the removal of tracked files
+          if git status --porcelain | grep .; then
+            git commit -m "Remove Git tracking for parsed output directories [skip ci]"
+            git push
+          else
+            echo "No Git tracking to remove."
+          fi
+          # Update .gitignore to prevent future tracking
+          echo "src/data/parsed/*" >> .gitignore
+          git add .gitignore
+          if git diff --cached --quiet; then
+            echo "No changes to .gitignore."
+          else
+            git commit -m "Update .gitignore to ignore parsed outputs [skip ci]"
+            git push
+          fi
+
+      # Clean existing outputs to override them
+      - name: Clean existing outputs
+        run: |
+          echo "🧹 Cleaning existing outputs to generate fresh results..."
+          rm -rf src/data/parsed/pdfParser_output/*
+          rm -rf src/data/parsed/camelot_output/*
+          rm -rf src/data/parsed/layout_output/*
+          rm -rf src/data/parsed/docling_output/*
+          rm -rf src/data/parsed/fallback_output/*
+          echo "Ready for new outputs"
+
+      # Create expected output directories (idempotent)
       - name: Create output directories
         run: |
-          mkdir -p src/data/parsed/pdfparser_output
+          mkdir -p src/data/parsed/pdfParser_output
           mkdir -p src/data/parsed/camelot_output
           mkdir -p src/data/parsed/layout_output
           mkdir -p src/data/parsed/docling_output
           mkdir -p src/data/parsed/fallback_output
 
-      - name: Run DVC init
-        run: dvc init
+      # Initialize or reset DVC
+      - name: Initialize or reset DVC
+        run: |
+          if [ -d ".dvc" ]; then
+            echo "DVC already initialized, forcing reinit..."
+            dvc init --force
+          else
+            dvc init
+          fi
 
+      # Pull any DVC-tracked inputs
+      - name: DVC pull (inputs only)
+        run: |
+          dvc pull || echo "No DVC inputs to pull, continuing..."
+
+      # Remove any DVC tracking of output directories
+      - name: Remove DVC tracking of output directories
+        run: |
+          find . -name "*.dvc" -path "*/parsed/*" -delete || true
+          echo "Checking dvc.yaml for output directory tracking..."
+          # Optionally, clean dvc.yaml if it references outputs (manual step if needed)
+
+      # Run DVC Pipeline
       - name: Run DVC Pipeline
         run: dvc repro --force
-      
-      - name: Upload Pipeline Results
+
+      # Stage and commit the parsed outputs
+      - name: Commit parsed outputs to repository
+        run: |
+          echo "Files in src/data/parsed:"
+          find src/data/parsed/ -type f | head -20
+          echo "Adding files to git..."
+          git add -f src/data/parsed/
+          git add .gitignore
+          echo "Files staged:"
+          git diff --cached --name-only
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            echo "Committing changes..."
+            git commit -m "CI: Update parsed PDF outputs [skip ci]"
+            git push
+            echo "Successfully committed parsed outputs to repository"
+          fi
+
+      # Upload results as artifact
+      - name: Upload Pipeline Results as Artifact
         uses: actions/upload-artifact@v4
         with:
           name: pdf-processing-results
           path: src/data/parsed/
-      
+          retention-days: 30
+
       - name: Display Results Summary
         run: |
-          echo "✅ PDF processing pipeline completed!"
+          echo "PDF processing pipeline completed!"
+          echo "Output directory contents:"
           find src/data/parsed/ -type f | wc -l | xargs echo "Total output files:"
+          echo ""
+          echo "Files by directory:"
+          find src/data/parsed/ -type f | cut -d'/' -f1-4 | sort | uniq -c
+          echo ""
+          echo "Sample files:"
+          find src/data/parsed/ -type f | head -10
