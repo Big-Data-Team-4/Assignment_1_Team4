@@ -13,3 +13,5 @@ env/
 
 .dvcignore
 .dvc.lock
+
+dvc/
