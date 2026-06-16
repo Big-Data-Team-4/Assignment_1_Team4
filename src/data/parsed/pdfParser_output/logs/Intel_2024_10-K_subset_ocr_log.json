@@ -1,0 +1,19 @@
+{
+  "pdf_file": "Intel_2024_10-K_subset",
+  "ocr_engine": "EasyOCR",
+  "ocr_pages": [
+    {
+      "page_number": 5,
+      "original_text_length": 0,
+      "ocr_text_length": 350,
+      "timestamp": "2026-06-16T12:11:46.983861"
+    },
+    {
+      "page_number": 6,
+      "original_text_length": 0,
+      "ocr_text_length": 2327,
+      "timestamp": "2026-06-16T12:12:16.118789"
+    }
+  ],
+  "timestamp": "2026-06-16T12:12:19.289567"
+}

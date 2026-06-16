@@ -1,0 +1,51 @@
+▪
+Intel 4, our first EUV lithography node, delivers significant density scaling and approximately 20% performance-per-watt improvement over Intel 7. The Intel Core Ultra
+processor is our first high-volume client product on Intel 4 and began shipping to customers in 2023. Intel 4 moved to high-volume manufacturing in Ireland in 2024, and
+is expected to represent an increasing portion of our processor production and products in 2025.
+▪
+Intel 3, our second EUV lithography node, delivers further logic scaling and up to 18% performance-per-watt improvement over Intel 4. Intel 3 is offered to external
+foundry customers and is optimized for the needs of data center products. This node, which is produced in the same facilities as Intel 4, was in high-volume
+manufacturing in Oregon during 2024, with high-volume manufacturing shifted to Ireland for 2025. Intel’s Xeon 6 Scalable server processor offerings are built on this
+technology.
+▪
+Intel 18A is our next generation leading-edge process technology and has been designed to incorporate the first high volume commercial implementation of two
+breakthrough technologies: gate-all-around transistors and backside power. RibbonFET, our implementation of a gate-all-around transistor, is designed to deliver faster
+transistor switching speeds while achieving the same drive current as multiple fins, but in a smaller footprint. PowerVia is our unique industry-first implementation of
+backside power delivery that is designed to optimize signal transmission by eliminating the need for power routing on the front side of the wafer. Intel 18A is offered to
+external foundry customers and is designed to deliver improvements in performance per watt and density scaling over Intel 3. We expect to commence high-volume
+manufacturing of Panther Lake, our new client family of products and our first processors on Intel 18A, in 2025.
+▪
+Intel 14A, our third advanced process technology offering to external customers, is in active development with performance-per-watt and density scaling improvements
+over Intel 18A.
+IP Rights
+We own and develop significant IP and related IP rights around the world that support our products, services, R&D, and other activities and assets. Our IP portfolio includes
+patents, copyrights, trade secrets, trademarks, mask works, and other rights. We actively seek to protect our global IP rights and deter unauthorized use of our IP and other
+assets.
+We have obtained patents in the US and other countries. Because of the fast pace of innovation and product development, our products are often obsolete before the patents
+related to them expire, and in some cases our products may be obsolete before the patents are granted. As we expand our product offerings, particularly around our foundry
+business, we also seek to extend our patent development efforts. In addition to developing patents based on our own R&D efforts, we may purchase or license patents from third
+parties.
+The software that we distribute, including software embedded in our products, is entitled to copyright and other IP protection. To distinguish our products from our competitors'
+products, we have obtained trademarks and trade names for our products, and we maintain cooperative advertising programs with customers to promote our brands and to
+identify products containing genuine Intel components. We also protect details about our processes, products, and strategies as trade secrets, keeping confidential the
+information that we believe provides us with a competitive advantage.
+Efforts to protect our IP can be difficult, particularly in countries that provide less protection to IP rights and in the absence of harmonized international IP standards. Competitors
+and others may already have IP rights covering similar products. There is no assurance that we will be able to obtain IP rights covering our own products or that we will be able to
+obtain IP licenses from other companies on favorable terms or at all. For a discussion of IP-related risks, see "Risk Factors" within Risk Factors and Other Key Information. While
+our IP rights are important to our success, our business as a whole is not significantly dependent on any single patent, copyright, or other IP right.
+Manufacturing Capital
+We are one of only a few companies in the world with the process technology and manufacturing facilities to produce leading-edge semiconductor logic chips.
+Process Technology
+Our technology development group, with its R&D and semiconductor fabrication facilities in Oregon, designs and develops each new process technology node before high-
+volume production is shifted to one of our high-volume manufacturing sites. With each new node, we seek improvements in performance, power efficiency, cost, and size to meet
+the needs of our products and of external foundry customers. The continued development of leading-edge nodes that are competitive with the offerings of other foundries
+requires significant ongoing capital investment as we pursue incremental improvements and refinements of existing transistor and layout designs and manufacturing
+technologies, such as EUV lithography, while also pursuing new transistor and layout designs, such as gate-all-around and backside power in our upcoming Intel 18A process
+node, and new manufacturing technologies, such as high-NA EUV lithography for use in our upcoming Intel 14A process node.
+As of the end of 2024, a significant majority of our products were manufactured using our Intel 7 process node in Arizona and Israel, we successfully ramped our Intel 4 and Intel
+3 process nodes as our first EUV lithography nodes and shifted high-volume production of those nodes to Ireland, and we canceled the productization of our Intel 20A process
+node to focus efforts on the improved version of the node, Intel 18A, that we expect to put into high-volume production in 2025 with our new client family of products code-named
+Panther Lake.
+ 
+Our Capital
+8
